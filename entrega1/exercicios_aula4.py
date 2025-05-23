@@ -31,7 +31,9 @@ file_name_trusted = "base_cidades_refinada"
 # 	•	Calcule a temperatura média ponderada por número de clientes.
 # 	•	Insight esperado: quais cidades concentram clientes e temperaturas extremas?
 
-def exercicio1():        
+def exercicio1():   
+        path_arquivo_clima = "refined/dados_climaticos"
+        file_name_clima = "clima_cidades"   
 
         path_arquivo_final = "refined/exercicio1/"
         file_name_final = "media_ponderada"
@@ -54,39 +56,14 @@ def exercicio1():
                 """
         result_query = run_query(query_ex1)
 
-        base_cidades = pd.read_csv(f"{path_projeto}/{path_arquivo_trusted}/{file_name_trusted}.csv", sep=';')
+        base_cidades = pd.read_csv(f"{path_projeto}/{path_arquivo_clima}/{file_name_clima}.csv", sep=';')
 
-        df_mergeado = pd.merge(result_query, base_cidades, on="cidade", how="inner")
+        df_mergeado = pd.merge(result_query, base_cidades, on="cidade", how="inner")     
 
-        temperaturas = []
-
-        for _, row in df_mergeado.iterrows():
-                cidade = row["cidade"]
-
-                try:
-                        clima = extract_dados_clima(cidade)
-                        time.sleep(1)  
-
-                        if clima and "current" in clima:
-
-                                temperaturas.append({
-                                "cidade": cidade,
-                                "qtd_transacoes": row["qtd_transacoes"],
-                                "temperatura": clima["current"]["temp_c"],
-
-                                })
-
-                except Exception as e:
-                        print(f"Erro ao buscar temperatura para {cidade}: {e}")
-    
-        df_temperaturas = pd.DataFrame(temperaturas)
-
-        media_ponderada = (df_temperaturas["temperatura"] * df_temperaturas["qtd_transacoes"]).sum() / df_temperaturas["qtd_transacoes"].sum()
+        media_ponderada = (df_mergeado["temperatura"] * df_mergeado["qtd_transacoes"]).sum() / df_mergeado["qtd_transacoes"].sum()
 
         df_resultado = pd.DataFrame([{"media_ponderada_temperatura": media_ponderada}])
         df_resultado.to_csv(f"{path_projeto}/{path_arquivo_final}/{file_name_final}.csv", index=False, sep=';')
-
-    
 
 #exercicio1()
 
