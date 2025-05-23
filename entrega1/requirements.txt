@@ -6,4 +6,6 @@ python-dotenv==1.1.0
 azure-storage-file-datalake==12.20.0
 psycopg2-binary==2.9.10
 matplotlib
+pycountry
 seaborn
+openpyxl

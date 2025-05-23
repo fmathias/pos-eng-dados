@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-def plot_pizza(df, valor_col, label_col, title, size=(8, 8), palette="Set2"):
+def view_plot_pizza(df, valor_col, label_col, title, size=(8, 8), palette="Set2"):
     """
     Gera um gráfico de pizza a partir de um DataFrame.
 
@@ -28,3 +28,18 @@ def plot_pizza(df, valor_col, label_col, title, size=(8, 8), palette="Set2"):
     plt.axis('equal')  # Deixar o gráfico circular
     plt.tight_layout()
     plt.show()
+
+def view_correlacao(df):
+        
+    if len(df) > 1:
+        plt.figure(figsize=(10, 6))
+        sns.regplot(data=df, x='temperatura', y='tempo_medio_aluguel_dias', 
+            scatter_kws={'alpha':0.5, 's': df['num_alugueis_cidade']/10}, # Tamanho do ponto pelo num de alugueis
+            line_kws={'color':'red'})
+        plt.title('Tempo Médio de Aluguel vs. Temperatura da Cidade', fontsize=15)
+        plt.xlabel('Temperatura Atual (°C)', fontsize=12)
+        plt.ylabel('Tempo Médio de Aluguel (dias)', fontsize=12)
+        plt.grid(True, linestyle='--', alpha=0.7)
+        plt.tight_layout()
+        plt.show()
+

@@ -1,0 +1,695 @@
+cidade;estado;pais;aqius;film_id;title;total_alugueis
+Springs;New York;United States;;856;STREETCAR INTENTIONS;2
+Springs;New York;United States;;303;FANTASY TROOPERS;1
+Springs;New York;United States;;791;SHOW LORD;1
+Springs;New York;United States;;166;COLOR PHILADELPHIA;1
+Springs;New York;United States;;455;IMPOSSIBLE PREJUDICE;1
+Springs;New York;United States;;958;WARDROBE PHANTOM;1
+Springs;New York;United States;;78;BLACKOUT PRIVATE;1
+Springs;New York;United States;;681;PIRATES ROXANNE;1
+Springs;New York;United States;;748;RUGRATS SHAKESPEARE;1
+Springs;New York;United States;;142;CHICKEN HELLFIGHTERS;1
+Springs;New York;United States;;249;DRACULA CRYSTAL;1
+Springs;New York;United States;;880;TELEMARK HEARTBREAKERS;1
+Springs;New York;United States;;109;BUTTERFLY CHOCOLAT;1
+Springs;New York;United States;;341;FROST HEAD;1
+Springs;New York;United States;;48;BACKLASH UNDEFEATED;1
+Springs;New York;United States;;785;SHAWSHANK BUBBLE;1
+Springs;New York;United States;;234;DISTURBING SCARFACE;1
+Springs;New York;United States;;627;NORTH TEQUILA;1
+Springs;New York;United States;;131;CENTER DINOSAUR;1
+Springs;New York;United States;;473;JACKET FRISCO;1
+Springs;New York;United States;;222;DESERT POSEIDON;1
+Springs;New York;United States;;314;FIGHT JAWBREAKER;1
+Springs;New York;United States;;387;GUN BONNIE;1
+Springs;New York;United States;;714;RANDOM GO;1
+Springs;New York;United States;;1000;ZORRO ARK;1
+Springs;New York;United States;;347;GAMES BOWFINGER;1
+Springs;New York;United States;;660;PARTY KNOCK;1
+Springs;New York;United States;;661;PAST SUICIDES;1
+Springs;New York;United States;;338;FRISCO FORREST;1
+Springs;New York;United States;;263;DURHAM PANKY;1
+Springs;New York;United States;;482;JEOPARDY ENCINO;1
+Springs;New York;United States;;231;DINOSAUR SECRETARY;1
+Springs;New York;United States;;816;SNOWMAN ROLLERCOASTER;1
+Springs;New York;United States;;37;ARIZONA BANG;1
+Springs;New York;United States;;77;BIRDS PERDITION;1
+Springs;New York;United States;;360;GLASS DYING;1
+Springs;New York;United States;;285;ENGLISH BULWORTH;1
+Springs;New York;United States;;979;WITCHES PANIC;1
+Springs;New York;United States;;397;HANKY OCTOBER;1
+Springs;New York;United States;;827;SPICE SORORITY;1
+Springs;New York;United States;;545;MADNESS ATTACKS;1
+Springs;New York;United States;;886;THEORY MERMAID;1
+Springs;New York;United States;;428;HOMICIDE PEACH;1
+Springs;New York;United States;;908;TRAP GUYS;1
+Springs;New York;United States;;509;LANGUAGE COWBOY;1
+Springs;New York;United States;;402;HARPER DYING;1
+Springs;New York;United States;;491;JUMPING WRATH;1
+Springs;New York;United States;;773;SEABISCUIT PUNK;1
+Springs;New York;United States;;745;ROSES TREASURE;1
+Springs;New York;United States;;697;PRIMARY GLASS;1
+Springs;New York;United States;;541;LUKE MUMMY;1
+Springs;New York;United States;;898;TOURIST PELICAN;1
+Springs;New York;United States;;896;TOOTSIE PILOT;1
+Springs;New York;United States;;734;ROAD ROXANNE;1
+Springs;New York;United States;;476;JASON TRAP;1
+Springs;New York;United States;;508;LAMBS CINCINATTI;1
+Springs;New York;United States;;602;MOURNING PURPLE;1
+London;Ontario;Canada;20.0;209;DARKNESS WAR;2
+London;Ontario;Canada;20.0;127;CAT CONEHEADS;2
+London;Ontario;Canada;20.0;179;CONQUERER NUTS;1
+London;Ontario;Canada;20.0;167;COMA HEAD;1
+London;Ontario;Canada;20.0;894;TOMATOES HELLFIGHTERS;1
+London;Ontario;Canada;20.0;19;AMADEUS HOLY;1
+London;Ontario;Canada;20.0;965;WATERSHIP FRONTIER;1
+London;Ontario;Canada;20.0;625;NONE SPIKING;1
+London;Ontario;Canada;20.0;480;JEEPERS WEDDING;1
+London;Ontario;Canada;20.0;880;TELEMARK HEARTBREAKERS;1
+London;Ontario;Canada;20.0;382;GRIT CLOCKWORK;1
+London;Ontario;Canada;20.0;165;COLDBLOODED DARLING;1
+London;Ontario;Canada;20.0;982;WOMEN DORADO;1
+London;Ontario;Canada;20.0;890;TIGHTS DAWN;1
+London;Ontario;Canada;20.0;683;PITY BOUND;1
+London;Ontario;Canada;20.0;253;DRIFTER COMMANDMENTS;1
+London;Ontario;Canada;20.0;477;JAWBREAKER BROOKLYN;1
+London;Ontario;Canada;20.0;698;PRINCESS GIANT;1
+London;Ontario;Canada;20.0;82;BLOOD ARGONAUTS;1
+London;Ontario;Canada;20.0;596;MOONSHINE CABIN;1
+London;Ontario;Canada;20.0;48;BACKLASH UNDEFEATED;1
+London;Ontario;Canada;20.0;493;KANE EXORCIST;1
+London;Ontario;Canada;20.0;322;FLATLINERS KILLER;1
+London;Ontario;Canada;20.0;901;TRACY CIDER;1
+London;Ontario;Canada;20.0;203;DAISY MENAGERIE;1
+London;Ontario;Canada;20.0;911;TRIP NEWTON;1
+London;Ontario;Canada;20.0;339;FROGMEN BREAKING;1
+London;Ontario;Canada;20.0;280;EMPIRE MALKOVICH;1
+London;Ontario;Canada;20.0;941;VIDEOTAPE ARSENIC;1
+London;Ontario;Canada;20.0;468;INVASION CYCLONE;1
+London;Ontario;Canada;20.0;272;EDGE KISSING;1
+London;Ontario;Canada;20.0;790;SHOOTIST SUPERFLY;1
+London;Ontario;Canada;20.0;138;CHARIOTS CONSPIRACY;1
+London;Ontario;Canada;20.0;992;WRATH MILE;1
+London;Ontario;Canada;20.0;715;RANGE MOONWALKER;1
+London;Ontario;Canada;20.0;34;ARABIA DOGMA;1
+London;Ontario;Canada;20.0;491;JUMPING WRATH;1
+London;Ontario;Canada;20.0;242;DOOM DANCING;1
+London;Ontario;Canada;20.0;710;RAGE GAMES;1
+London;Ontario;Canada;20.0;705;PURPLE MOVIE;1
+London;Ontario;Canada;20.0;505;LABYRINTH LEAGUE;1
+London;Ontario;Canada;20.0;938;VELVET TERMINATOR;1
+London;Ontario;Canada;20.0;1;ACADEMY DINOSAUR;1
+London;Ontario;Canada;20.0;142;CHICKEN HELLFIGHTERS;1
+London;Ontario;Canada;20.0;234;DISTURBING SCARFACE;1
+London;Ontario;Canada;20.0;299;FACTORY DRAGON;1
+Aurora;Ceará;Brazil;;788;SHIP WONDERLAND;1
+Aurora;Ceará;Brazil;;659;PARK CITIZEN;1
+Aurora;Ceará;Brazil;;158;CLONES PINOCCHIO;1
+Aurora;Ceará;Brazil;;881;TEMPLE ATTRACTION;1
+Aurora;Ceará;Brazil;;687;POCUS PULP;1
+Aurora;Ceará;Brazil;;893;TITANS JERK;1
+Aurora;Ceará;Brazil;;700;PRIX UNDEFEATED;1
+Aurora;Ceará;Brazil;;321;FLASH WARS;1
+Aurora;Ceará;Brazil;;914;TROUBLE DATE;1
+Aurora;Ceará;Brazil;;207;DANGEROUS UPTOWN;1
+Aurora;Ceará;Brazil;;514;LEBOWSKI SOLDIERS;1
+Aurora;Ceará;Brazil;;942;VIETNAM SMOOCHY;1
+Aurora;Ceará;Brazil;;324;FLINTSTONES HAPPINESS;1
+Aurora;Ceará;Brazil;;760;SAMURAI LION;1
+Aurora;Ceará;Brazil;;6;AGENT TRUMAN;1
+Aurora;Ceará;Brazil;;625;NONE SPIKING;1
+Aurora;Ceará;Brazil;;761;SANTA PARIS;1
+Aurora;Ceará;Brazil;;251;DRAGONFLY STRANGERS;1
+Aurora;Ceará;Brazil;;981;WOLVES DESIRE;1
+Aurora;Ceará;Brazil;;426;HOME PITY;1
+Aurora;Ceará;Brazil;;673;PERSONAL LADYBUGS;1
+Aurora;Ceará;Brazil;;593;MONTEREY LABYRINTH;1
+Aurora;Ceará;Brazil;;272;EDGE KISSING;1
+Aurora;Ceará;Brazil;;576;MIGHTY LUCK;1
+Aurora;Ceará;Brazil;;773;SEABISCUIT PUNK;1
+Aurora;Ceará;Brazil;;191;CROOKED FROGMEN;1
+Aurora;Ceará;Brazil;;844;STEERS ARMAGEDDON;1
+Aurora;Ceará;Brazil;;213;DATE SPEED;1
+Aurora;Ceará;Brazil;;845;STEPMOM DREAM;1
+Aurora;Ceará;Brazil;;915;TRUMAN CRAZY;1
+Aurora;Ceará;Brazil;;199;CUPBOARD SINNERS;1
+Aurora;Ceará;Brazil;;375;GRAIL FRANKENSTEIN;1
+Aurora;Ceará;Brazil;;715;RANGE MOONWALKER;1
+Aurora;Ceará;Brazil;;389;GUNFIGHTER MUSSOLINI;1
+Aurora;Ceará;Brazil;;255;DRIVING POLISH;1
+Aurora;Ceará;Brazil;;162;CLUELESS BUCKET;1
+Aurora;Ceará;Brazil;;304;FARGO GANDHI;1
+Aurora;Ceará;Brazil;;587;MOD SECRETARY;1
+Aurora;Ceará;Brazil;;533;LOST BIRD;1
+Aurora;Ceará;Brazil;;494;KARATE MOON;1
+Aurora;Ceará;Brazil;;331;FORWARD TEMPLE;1
+Aurora;Ceará;Brazil;;491;JUMPING WRATH;1
+Aurora;Ceará;Brazil;;309;FEUD FROGMEN;1
+Aurora;Ceará;Brazil;;288;ESCAPE METROPOLIS;1
+Aurora;Ceará;Brazil;;702;PULP BEVERLY;1
+Aurora;Ceará;Brazil;;328;FOREVER CANDIDATE;1
+Aurora;Ceará;Brazil;;254;DRIVER ANNIE;1
+Aurora;Ceará;Brazil;;982;WOMEN DORADO;1
+Aurora;Ceará;Brazil;;768;SCARFACE BANG;1
+Aurora;Ceará;Brazil;;672;PERFECT GROOVE;1
+Siegen;North Rhine-Westphalia;Germany;;159;CLOSER BANG;1
+Siegen;North Rhine-Westphalia;Germany;;98;BRIGHT ENCOUNTERS;1
+Siegen;North Rhine-Westphalia;Germany;;329;FORREST SONS;1
+Siegen;North Rhine-Westphalia;Germany;;417;HILLS NEIGHBORS;1
+Siegen;North Rhine-Westphalia;Germany;;849;STORM HAPPINESS;1
+Siegen;North Rhine-Westphalia;Germany;;647;OUTFIELD MASSACRE;1
+Siegen;North Rhine-Westphalia;Germany;;135;CHANCE RESURRECTION;1
+Siegen;North Rhine-Westphalia;Germany;;322;FLATLINERS KILLER;1
+Siegen;North Rhine-Westphalia;Germany;;189;CREATURES SHAKESPEARE;1
+Siegen;North Rhine-Westphalia;Germany;;269;EARRING INSTINCT;1
+Siegen;North Rhine-Westphalia;Germany;;255;DRIVING POLISH;1
+Siegen;North Rhine-Westphalia;Germany;;771;SCORPION APOLLO;1
+Siegen;North Rhine-Westphalia;Germany;;434;HORROR REIGN;1
+Siegen;North Rhine-Westphalia;Germany;;465;INTERVIEW LIAISONS;1
+Siegen;North Rhine-Westphalia;Germany;;263;DURHAM PANKY;1
+Siegen;North Rhine-Westphalia;Germany;;666;PAYCHECK WAIT;1
+Siegen;North Rhine-Westphalia;Germany;;167;COMA HEAD;1
+Siegen;North Rhine-Westphalia;Germany;;379;GREEDY ROOTS;1
+Siegen;North Rhine-Westphalia;Germany;;432;HOPE TOOTSIE;1
+Pak Kret;Nonthaburi;Thailand;;869;SUSPECTS QUILLS;2
+Pak Kret;Nonthaburi;Thailand;;49;BADMAN DAWN;2
+Pak Kret;Nonthaburi;Thailand;;319;FISH OPUS;1
+Pak Kret;Nonthaburi;Thailand;;462;INSIDER ARIZONA;1
+Pak Kret;Nonthaburi;Thailand;;147;CHOCOLAT HARRY;1
+Pak Kret;Nonthaburi;Thailand;;600;MOTIONS DETAILS;1
+Pak Kret;Nonthaburi;Thailand;;897;TORQUE BOUND;1
+Pak Kret;Nonthaburi;Thailand;;609;MUSCLE BRIGHT;1
+Pak Kret;Nonthaburi;Thailand;;502;KNOCK WARLOCK;1
+Pak Kret;Nonthaburi;Thailand;;985;WONDERLAND CHRISTMAS;1
+Pak Kret;Nonthaburi;Thailand;;77;BIRDS PERDITION;1
+Pak Kret;Nonthaburi;Thailand;;572;METROPOLIS COMA;1
+Pak Kret;Nonthaburi;Thailand;;800;SINNERS ATLANTIS;1
+Pak Kret;Nonthaburi;Thailand;;360;GLASS DYING;1
+Pak Kret;Nonthaburi;Thailand;;687;POCUS PULP;1
+Pak Kret;Nonthaburi;Thailand;;403;HARRY IDAHO;1
+Pak Kret;Nonthaburi;Thailand;;51;BALLOON HOMEWARD;1
+Pak Kret;Nonthaburi;Thailand;;589;MODERN DORADO;1
+Pak Kret;Nonthaburi;Thailand;;432;HOPE TOOTSIE;1
+Pak Kret;Nonthaburi;Thailand;;665;PATTON INTERVIEW;1
+Pak Kret;Nonthaburi;Thailand;;81;BLINDNESS GUN;1
+Pak Kret;Nonthaburi;Thailand;;807;SLEUTH ORIENT;1
+Pak Kret;Nonthaburi;Thailand;;733;RIVER OUTLAW;1
+Pak Kret;Nonthaburi;Thailand;;641;ORANGE GRAPES;1
+Pak Kret;Nonthaburi;Thailand;;206;DANCING FEVER;1
+Pak Kret;Nonthaburi;Thailand;;852;STRANGELOVE DESIRE;1
+Pak Kret;Nonthaburi;Thailand;;953;WAIT CIDER;1
+Pak Kret;Nonthaburi;Thailand;;252;DREAM PICKUP;1
+Udaipur;Rajasthan;India;40.0;731;RIGHT CRANES;1
+Udaipur;Rajasthan;India;40.0;81;BLINDNESS GUN;1
+Udaipur;Rajasthan;India;40.0;875;TALENTED HOMICIDE;1
+Udaipur;Rajasthan;India;40.0;727;RESURRECTION SILVERADO;1
+Udaipur;Rajasthan;India;40.0;51;BALLOON HOMEWARD;1
+Udaipur;Rajasthan;India;40.0;746;ROUGE SQUAD;1
+Udaipur;Rajasthan;India;40.0;648;OUTLAW HANKY;1
+Udaipur;Rajasthan;India;40.0;661;PAST SUICIDES;1
+Udaipur;Rajasthan;India;40.0;119;CAPER MOTIONS;1
+Udaipur;Rajasthan;India;40.0;334;FREDDY STORM;1
+Udaipur;Rajasthan;India;40.0;887;THIEF PELICAN;1
+Udaipur;Rajasthan;India;40.0;726;RESERVOIR ADAPTATION;1
+Udaipur;Rajasthan;India;40.0;403;HARRY IDAHO;1
+Udaipur;Rajasthan;India;40.0;73;BINGO TALENTED;1
+Udaipur;Rajasthan;India;40.0;872;SWEET BROTHERHOOD;1
+Udaipur;Rajasthan;India;40.0;452;ILLUSION AMELIE;1
+Udaipur;Rajasthan;India;40.0;677;PIANIST OUTFIELD;1
+Udaipur;Rajasthan;India;40.0;203;DAISY MENAGERIE;1
+Udaipur;Rajasthan;India;40.0;1;ACADEMY DINOSAUR;1
+Udaipur;Rajasthan;India;40.0;889;TIES HUNGER;1
+Udaipur;Rajasthan;India;40.0;720;REDEMPTION COMFORTS;1
+Udaipur;Rajasthan;India;40.0;320;FLAMINGOS CONNECTICUT;1
+Udaipur;Rajasthan;India;40.0;502;KNOCK WARLOCK;1
+Udaipur;Rajasthan;India;40.0;200;CURTAIN VIDEOTAPE;1
+Udaipur;Rajasthan;India;40.0;603;MOVIE SHAKESPEARE;1
+Udaipur;Rajasthan;India;40.0;240;DOLLS RAGE;1
+Bergamo;Lombardy;Italy;29.0;574;MIDNIGHT WESTWARD;2
+Bergamo;Lombardy;Italy;29.0;21;AMERICAN CIRCUS;1
+Bergamo;Lombardy;Italy;29.0;647;OUTFIELD MASSACRE;1
+Bergamo;Lombardy;Italy;29.0;621;NETWORK PEAK;1
+Bergamo;Lombardy;Italy;29.0;521;LIES TREATMENT;1
+Bergamo;Lombardy;Italy;29.0;603;MOVIE SHAKESPEARE;1
+Bergamo;Lombardy;Italy;29.0;83;BLUES INSTINCT;1
+Bergamo;Lombardy;Italy;29.0;901;TRACY CIDER;1
+Bergamo;Lombardy;Italy;29.0;928;UPTOWN YOUNG;1
+Bergamo;Lombardy;Italy;29.0;123;CASABLANCA SUPER;1
+Bergamo;Lombardy;Italy;29.0;183;CONVERSATION DOWNHILL;1
+Bergamo;Lombardy;Italy;29.0;880;TELEMARK HEARTBREAKERS;1
+Bergamo;Lombardy;Italy;29.0;600;MOTIONS DETAILS;1
+Bergamo;Lombardy;Italy;29.0;381;GRINCH MASSAGE;1
+Bergamo;Lombardy;Italy;29.0;330;FORRESTER COMANCHEROS;1
+Bergamo;Lombardy;Italy;29.0;122;CARRIE BUNCH;1
+Bergamo;Lombardy;Italy;29.0;578;MILLION ACE;1
+Bergamo;Lombardy;Italy;29.0;445;HYDE DOCTOR;1
+Bergamo;Lombardy;Italy;29.0;753;RUSH GOODFELLAS;1
+Bergamo;Lombardy;Italy;29.0;379;GREEDY ROOTS;1
+Bergamo;Lombardy;Italy;29.0;985;WONDERLAND CHRISTMAS;1
+Bergamo;Lombardy;Italy;29.0;735;ROBBERS JOON;1
+Bergamo;Lombardy;Italy;29.0;416;HIGHBALL POTTER;1
+Bergamo;Lombardy;Italy;29.0;806;SLEEPY JAPANESE;1
+Bergamo;Lombardy;Italy;29.0;368;GONE TROUBLE;1
+Bergamo;Lombardy;Italy;29.0;237;DIVORCE SHINING;1
+Bergamo;Lombardy;Italy;29.0;705;PURPLE MOVIE;1
+Bergamo;Lombardy;Italy;29.0;997;YOUTH KICK;1
+Bergamo;Lombardy;Italy;29.0;962;WASTELAND DIVINE;1
+Bergamo;Lombardy;Italy;29.0;908;TRAP GUYS;1
+Bergamo;Lombardy;Italy;29.0;282;ENCOUNTERS CURTAIN;1
+Bergamo;Lombardy;Italy;29.0;50;BAKED CLEOPATRA;1
+Bergamo;Lombardy;Italy;29.0;200;CURTAIN VIDEOTAPE;1
+Bergamo;Lombardy;Italy;29.0;912;TROJAN TOMORROW;1
+Bergamo;Lombardy;Italy;29.0;768;SCARFACE BANG;1
+Mysore;Karnataka;India;;388;GUNFIGHT MOON;2
+Mysore;Karnataka;India;;814;SNATCH SLIPPER;1
+Mysore;Karnataka;India;;745;ROSES TREASURE;1
+Mysore;Karnataka;India;;58;BEACH HEARTBREAKERS;1
+Mysore;Karnataka;India;;215;DAWN POND;1
+Mysore;Karnataka;India;;301;FAMILY SWEET;1
+Mysore;Karnataka;India;;819;SONG HEDWIG;1
+Mysore;Karnataka;India;;665;PATTON INTERVIEW;1
+Mysore;Karnataka;India;;953;WAIT CIDER;1
+Mysore;Karnataka;India;;514;LEBOWSKI SOLDIERS;1
+Mysore;Karnataka;India;;766;SAVANNAH TOWN;1
+Mysore;Karnataka;India;;103;BUCKET BROTHERHOOD;1
+Mysore;Karnataka;India;;251;DRAGONFLY STRANGERS;1
+Mysore;Karnataka;India;;513;LEATHERNECKS DWARFS;1
+Mysore;Karnataka;India;;262;DUMBO LUST;1
+Mysore;Karnataka;India;;599;MOTHER OLEANDER;1
+Mysore;Karnataka;India;;859;SUGAR WONKA;1
+Mysore;Karnataka;India;;305;FATAL HAUNTED;1
+Mysore;Karnataka;India;;891;TIMBERLAND SKY;1
+Mysore;Karnataka;India;;920;UNBREAKABLE KARATE;1
+Mysore;Karnataka;India;;22;AMISTAD MIDSUMMER;1
+Mysore;Karnataka;India;;77;BIRDS PERDITION;1
+Mysore;Karnataka;India;;255;DRIVING POLISH;1
+Mysore;Karnataka;India;;792;SHREK LICENSE;1
+Mysore;Karnataka;India;;84;BOILED DARES;1
+Mysore;Karnataka;India;;167;COMA HEAD;1
+Korolev;Moscow Oblast;Russian Federation;;948;VOICE PEACH;1
+Korolev;Moscow Oblast;Russian Federation;;167;COMA HEAD;1
+Korolev;Moscow Oblast;Russian Federation;;697;PRIMARY GLASS;1
+Korolev;Moscow Oblast;Russian Federation;;585;MOB DUFFEL;1
+Korolev;Moscow Oblast;Russian Federation;;968;WEREWOLF LOLA;1
+Korolev;Moscow Oblast;Russian Federation;;559;MARRIED GO;1
+Korolev;Moscow Oblast;Russian Federation;;370;GORGEOUS BINGO;1
+Korolev;Moscow Oblast;Russian Federation;;725;REQUIEM TYCOON;1
+Korolev;Moscow Oblast;Russian Federation;;761;SANTA PARIS;1
+Korolev;Moscow Oblast;Russian Federation;;258;DRUMS DYNAMITE;1
+Korolev;Moscow Oblast;Russian Federation;;378;GREATEST NORTH;1
+Korolev;Moscow Oblast;Russian Federation;;944;VIRGIN DAISY;1
+Korolev;Moscow Oblast;Russian Federation;;410;HEAVEN FREEDOM;1
+Korolev;Moscow Oblast;Russian Federation;;566;MAUDE MOD;1
+Korolev;Moscow Oblast;Russian Federation;;646;OUTBREAK DIVINE;1
+Korolev;Moscow Oblast;Russian Federation;;25;ANGELS LIFE;1
+Korolev;Moscow Oblast;Russian Federation;;489;JUGGLER HARDLY;1
+Korolev;Moscow Oblast;Russian Federation;;355;GHOSTBUSTERS ELF;1
+Korolev;Moscow Oblast;Russian Federation;;949;VOLCANO TEXAS;1
+Korolev;Moscow Oblast;Russian Federation;;894;TOMATOES HELLFIGHTERS;1
+Korolev;Moscow Oblast;Russian Federation;;595;MOON BUNCH;1
+Korolev;Moscow Oblast;Russian Federation;;551;MAIDEN HOME;1
+Korolev;Moscow Oblast;Russian Federation;;331;FORWARD TEMPLE;1
+Korolev;Moscow Oblast;Russian Federation;;18;ALTER VICTORY;1
+Korolev;Moscow Oblast;Russian Federation;;951;VOYAGE LEGALLY;1
+Korolev;Moscow Oblast;Russian Federation;;655;PANTHER REDS;1
+Korolev;Moscow Oblast;Russian Federation;;984;WONDERFUL DROP;1
+Korolev;Moscow Oblast;Russian Federation;;898;TOURIST PELICAN;1
+Korolev;Moscow Oblast;Russian Federation;;574;MIDNIGHT WESTWARD;1
+Korolev;Moscow Oblast;Russian Federation;;961;WASH HEAVENLY;1
+Korolev;Moscow Oblast;Russian Federation;;586;MOCKINGBIRD HOLLYWOOD;1
+Quilmes;Buenos Aires;Argentina;;819;SONG HEDWIG;1
+Quilmes;Buenos Aires;Argentina;;934;VANILLA DAY;1
+Quilmes;Buenos Aires;Argentina;;782;SHAKESPEARE SADDLE;1
+Quilmes;Buenos Aires;Argentina;;570;MERMAID INSECTS;1
+Quilmes;Buenos Aires;Argentina;;229;DEVIL DESIRE;1
+Quilmes;Buenos Aires;Argentina;;843;STEEL SANTA;1
+Quilmes;Buenos Aires;Argentina;;924;UNFORGIVEN ZOOLANDER;1
+Quilmes;Buenos Aires;Argentina;;621;NETWORK PEAK;1
+Quilmes;Buenos Aires;Argentina;;734;ROAD ROXANNE;1
+Quilmes;Buenos Aires;Argentina;;112;CALENDAR GUNFIGHT;1
+Quilmes;Buenos Aires;Argentina;;58;BEACH HEARTBREAKERS;1
+Quilmes;Buenos Aires;Argentina;;116;CANDIDATE PERDITION;1
+Quilmes;Buenos Aires;Argentina;;231;DINOSAUR SECRETARY;1
+Quilmes;Buenos Aires;Argentina;;6;AGENT TRUMAN;1
+Quilmes;Buenos Aires;Argentina;;512;LEAGUE HELLFIGHTERS;1
+Quilmes;Buenos Aires;Argentina;;323;FLIGHT LIES;1
+Quilmes;Buenos Aires;Argentina;;991;WORST BANGER;1
+Quilmes;Buenos Aires;Argentina;;720;REDEMPTION COMFORTS;1
+Quilmes;Buenos Aires;Argentina;;279;ELIZABETH SHANE;1
+Quilmes;Buenos Aires;Argentina;;941;VIDEOTAPE ARSENIC;1
+Quilmes;Buenos Aires;Argentina;;593;MONTEREY LABYRINTH;1
+Quilmes;Buenos Aires;Argentina;;789;SHOCK CABIN;1
+Quilmes;Buenos Aires;Argentina;;498;KILLER INNOCENT;1
+Quilmes;Buenos Aires;Argentina;;355;GHOSTBUSTERS ELF;1
+Gandhinagar;Gujarat;India;;961;WASH HEAVENLY;2
+Gandhinagar;Gujarat;India;;433;HORN WORKING;1
+Gandhinagar;Gujarat;India;;68;BETRAYED REAR;1
+Gandhinagar;Gujarat;India;;30;ANYTHING SAVANNAH;1
+Gandhinagar;Gujarat;India;;413;HEDWIG ALTER;1
+Gandhinagar;Gujarat;India;;408;HEAD STRANGER;1
+Gandhinagar;Gujarat;India;;496;KICK SAVANNAH;1
+Gandhinagar;Gujarat;India;;55;BARBARELLA STREETCAR;1
+Gandhinagar;Gujarat;India;;755;SABRINA MIDNIGHT;1
+Gandhinagar;Gujarat;India;;531;LOSE INCH;1
+Gandhinagar;Gujarat;India;;397;HANKY OCTOBER;1
+Gandhinagar;Gujarat;India;;50;BAKED CLEOPATRA;1
+Gandhinagar;Gujarat;India;;97;BRIDE INTRIGUE;1
+Gandhinagar;Gujarat;India;;375;GRAIL FRANKENSTEIN;1
+Gandhinagar;Gujarat;India;;875;TALENTED HOMICIDE;1
+Gandhinagar;Gujarat;India;;917;TUXEDO MILE;1
+Gandhinagar;Gujarat;India;;631;NOVOCAINE FLIGHT;1
+Gandhinagar;Gujarat;India;;111;CADDYSHACK JEDI;1
+Phnom Penh;Phnom Penh;Cambodia;;679;PILOT HOOSIERS;1
+Phnom Penh;Phnom Penh;Cambodia;;696;PRIDE ALAMO;1
+Phnom Penh;Phnom Penh;Cambodia;;570;MERMAID INSECTS;1
+Phnom Penh;Phnom Penh;Cambodia;;201;CYCLONE FAMILY;1
+Phnom Penh;Phnom Penh;Cambodia;;598;MOSQUITO ARMAGEDDON;1
+Phnom Penh;Phnom Penh;Cambodia;;493;KANE EXORCIST;1
+Phnom Penh;Phnom Penh;Cambodia;;586;MOCKINGBIRD HOLLYWOOD;1
+Phnom Penh;Phnom Penh;Cambodia;;526;LOCK REAR;1
+Phnom Penh;Phnom Penh;Cambodia;;690;POND SEATTLE;1
+Phnom Penh;Phnom Penh;Cambodia;;973;WIFE TURN;1
+Phnom Penh;Phnom Penh;Cambodia;;200;CURTAIN VIDEOTAPE;1
+Phnom Penh;Phnom Penh;Cambodia;;435;HOTEL HAPPINESS;1
+Phnom Penh;Phnom Penh;Cambodia;;376;GRAPES FURY;1
+Phnom Penh;Phnom Penh;Cambodia;;360;GLASS DYING;1
+Phnom Penh;Phnom Penh;Cambodia;;537;LOVER TRUMAN;1
+Phnom Penh;Phnom Penh;Cambodia;;918;TWISTED PIRATES;1
+Phnom Penh;Phnom Penh;Cambodia;;951;VOYAGE LEGALLY;1
+Phnom Penh;Phnom Penh;Cambodia;;317;FIREBALL PHILADELPHIA;1
+Phnom Penh;Phnom Penh;Cambodia;;589;MODERN DORADO;1
+Phnom Penh;Phnom Penh;Cambodia;;240;DOLLS RAGE;1
+Phnom Penh;Phnom Penh;Cambodia;;698;PRINCESS GIANT;1
+Phnom Penh;Phnom Penh;Cambodia;;405;HAUNTED ANTITRUST;1
+Phnom Penh;Phnom Penh;Cambodia;;136;CHAPLIN LICENSE;1
+Phnom Penh;Phnom Penh;Cambodia;;152;CIRCUS YOUTH;1
+Phnom Penh;Phnom Penh;Cambodia;;303;FANTASY TROOPERS;1
+Phnom Penh;Phnom Penh;Cambodia;;50;BAKED CLEOPATRA;1
+Phnom Penh;Phnom Penh;Cambodia;;898;TOURIST PELICAN;1
+Livorno;Tuscany;Italy;;489;JUGGLER HARDLY;2
+Livorno;Tuscany;Italy;;520;LICENSE WEEKEND;1
+Livorno;Tuscany;Italy;;929;USUAL UNTOUCHABLES;1
+Livorno;Tuscany;Italy;;1;ACADEMY DINOSAUR;1
+Livorno;Tuscany;Italy;;597;MOONWALKER FOOL;1
+Livorno;Tuscany;Italy;;68;BETRAYED REAR;1
+Livorno;Tuscany;Italy;;51;BALLOON HOMEWARD;1
+Livorno;Tuscany;Italy;;1000;ZORRO ARK;1
+Livorno;Tuscany;Italy;;345;GABLES METROPOLIS;1
+Livorno;Tuscany;Italy;;583;MISSION ZOOLANDER;1
+Livorno;Tuscany;Italy;;751;RUNAWAY TENENBAUMS;1
+Livorno;Tuscany;Italy;;247;DOWNHILL ENOUGH;1
+Livorno;Tuscany;Italy;;995;YENTL IDAHO;1
+Livorno;Tuscany;Italy;;503;KRAMER CHOCOLATE;1
+Livorno;Tuscany;Italy;;91;BOUND CHEAPER;1
+Livorno;Tuscany;Italy;;494;KARATE MOON;1
+Livorno;Tuscany;Italy;;90;BOULEVARD MOB;1
+Livorno;Tuscany;Italy;;725;REQUIEM TYCOON;1
+Livorno;Tuscany;Italy;;619;NEIGHBORS CHARADE;1
+Livorno;Tuscany;Italy;;743;ROOM ROMAN;1
+Livorno;Tuscany;Italy;;843;STEEL SANTA;1
+Livorno;Tuscany;Italy;;636;OLEANDER CLUE;1
+Livorno;Tuscany;Italy;;439;HUNCHBACK IMPOSSIBLE;1
+Lancaster;England;United Kingdom;;346;GALAXY SWEETHEARTS;1
+Lancaster;England;United Kingdom;;848;STONE FIRE;1
+Lancaster;England;United Kingdom;;175;CONFUSED CANDLES;1
+Lancaster;England;United Kingdom;;193;CROSSROADS CASUALTIES;1
+Lancaster;England;United Kingdom;;780;SENSIBILITY REAR;1
+Lancaster;England;United Kingdom;;901;TRACY CIDER;1
+Lancaster;England;United Kingdom;;813;SMOOCHY CONTROL;1
+Lancaster;England;United Kingdom;;632;NUTS TIES;1
+Lancaster;England;United Kingdom;;814;SNATCH SLIPPER;1
+Lancaster;England;United Kingdom;;876;TARZAN VIDEOTAPE;1
+Lancaster;England;United Kingdom;;227;DETAILS PACKER;1
+Lancaster;England;United Kingdom;;295;EXPENDABLE STALLION;1
+Lancaster;England;United Kingdom;;935;VANISHED GARDEN;1
+Lancaster;England;United Kingdom;;324;FLINTSTONES HAPPINESS;1
+Lancaster;England;United Kingdom;;342;FUGITIVE MAGUIRE;1
+Lancaster;England;United Kingdom;;820;SONS INTERVIEW;1
+Lancaster;England;United Kingdom;;709;RACER EGG;1
+Lancaster;England;United Kingdom;;61;BEAUTY GREASE;1
+Lancaster;England;United Kingdom;;320;FLAMINGOS CONNECTICUT;1
+Lancaster;England;United Kingdom;;777;SECRETARY ROUGE;1
+Lancaster;England;United Kingdom;;944;VIRGIN DAISY;1
+Lancaster;England;United Kingdom;;16;ALLEY EVOLUTION;1
+Lancaster;England;United Kingdom;;471;ISLAND EXORCIST;1
+Lancaster;England;United Kingdom;;151;CINCINATTI WHISPERER;1
+Lancaster;England;United Kingdom;;82;BLOOD ARGONAUTS;1
+Lancaster;England;United Kingdom;;189;CREATURES SHAKESPEARE;1
+Lancaster;England;United Kingdom;;225;DESTINATION JERK;1
+Lancaster;England;United Kingdom;;37;ARIZONA BANG;1
+Lancaster;England;United Kingdom;;815;SNATCHERS MONTEZUMA;1
+Lancaster;England;United Kingdom;;228;DETECTIVE VISION;1
+Surakarta;Central Java;Indonesia;;750;RUN PACIFIC;1
+Surakarta;Central Java;Indonesia;;287;ENTRAPMENT SATISFACTION;1
+Surakarta;Central Java;Indonesia;;699;PRIVATE DROP;1
+Surakarta;Central Java;Indonesia;;913;TROOPERS METAL;1
+Surakarta;Central Java;Indonesia;;283;ENDING CROWDS;1
+Surakarta;Central Java;Indonesia;;723;REIGN GENTLEMEN;1
+Surakarta;Central Java;Indonesia;;521;LIES TREATMENT;1
+Surakarta;Central Java;Indonesia;;258;DRUMS DYNAMITE;1
+Surakarta;Central Java;Indonesia;;251;DRAGONFLY STRANGERS;1
+Surakarta;Central Java;Indonesia;;101;BROTHERHOOD BLANKET;1
+Surakarta;Central Java;Indonesia;;394;HAMLET WISDOM;1
+Surakarta;Central Java;Indonesia;;263;DURHAM PANKY;1
+Surakarta;Central Java;Indonesia;;172;CONEHEADS SMOOCHY;1
+Surakarta;Central Java;Indonesia;;810;SLUMS DUCK;1
+Surakarta;Central Java;Indonesia;;921;UNCUT SUICIDES;1
+Surakarta;Central Java;Indonesia;;467;INTRIGUE WORST;1
+Surakarta;Central Java;Indonesia;;248;DOZEN LION;1
+Surakarta;Central Java;Indonesia;;618;NECKLACE OUTBREAK;1
+Surakarta;Central Java;Indonesia;;747;ROXANNE REBEL;1
+Surakarta;Central Java;Indonesia;;683;PITY BOUND;1
+Surakarta;Central Java;Indonesia;;482;JEOPARDY ENCINO;1
+Surakarta;Central Java;Indonesia;;228;DETECTIVE VISION;1
+Surakarta;Central Java;Indonesia;;47;BABY HALL;1
+Surakarta;Central Java;Indonesia;;39;ARMAGEDDON LOST;1
+Surakarta;Central Java;Indonesia;;560;MARS ROMAN;1
+Surakarta;Central Java;Indonesia;;877;TAXI KICK;1
+Kisumu;Kisumu County;Kenya;;865;SUNRISE LEAGUE;2
+Kisumu;Kisumu County;Kenya;;222;DESERT POSEIDON;1
+Kisumu;Kisumu County;Kenya;;406;HAUNTING PIANIST;1
+Kisumu;Kisumu County;Kenya;;349;GANGS PRIDE;1
+Kisumu;Kisumu County;Kenya;;592;MONSTER SPARTACUS;1
+Kisumu;Kisumu County;Kenya;;941;VIDEOTAPE ARSENIC;1
+Kisumu;Kisumu County;Kenya;;779;SENSE GREEK;1
+Kisumu;Kisumu County;Kenya;;778;SECRETS PARADISE;1
+Kisumu;Kisumu County;Kenya;;290;EVERYONE CRAFT;1
+Kisumu;Kisumu County;Kenya;;10;ALADDIN CALENDAR;1
+Kisumu;Kisumu County;Kenya;;780;SENSIBILITY REAR;1
+Kisumu;Kisumu County;Kenya;;894;TOMATOES HELLFIGHTERS;1
+Kisumu;Kisumu County;Kenya;;133;CHAMBER ITALIAN;1
+Kisumu;Kisumu County;Kenya;;141;CHICAGO NORTH;1
+Kisumu;Kisumu County;Kenya;;939;VERTIGO NORTHWEST;1
+Kisumu;Kisumu County;Kenya;;560;MARS ROMAN;1
+Kisumu;Kisumu County;Kenya;;463;INSTINCT AIRPORT;1
+Kisumu;Kisumu County;Kenya;;331;FORWARD TEMPLE;1
+Kisumu;Kisumu County;Kenya;;852;STRANGELOVE DESIRE;1
+Kisumu;Kisumu County;Kenya;;432;HOPE TOOTSIE;1
+Kisumu;Kisumu County;Kenya;;370;GORGEOUS BINGO;1
+Kisumu;Kisumu County;Kenya;;347;GAMES BOWFINGER;1
+Kisumu;Kisumu County;Kenya;;212;DARN FORRESTER;1
+Kisumu;Kisumu County;Kenya;;988;WORKER TARZAN;1
+Elista;Kalmykiya Republic;Russian Federation;;770;SCISSORHANDS SLUMS;1
+Elista;Kalmykiya Republic;Russian Federation;;873;SWEETHEARTS SUSPECTS;1
+Elista;Kalmykiya Republic;Russian Federation;;559;MARRIED GO;1
+Elista;Kalmykiya Republic;Russian Federation;;795;SIEGE MADRE;1
+Elista;Kalmykiya Republic;Russian Federation;;661;PAST SUICIDES;1
+Elista;Kalmykiya Republic;Russian Federation;;201;CYCLONE FAMILY;1
+Elista;Kalmykiya Republic;Russian Federation;;458;INDIAN LOVE;1
+Elista;Kalmykiya Republic;Russian Federation;;889;TIES HUNGER;1
+Elista;Kalmykiya Republic;Russian Federation;;619;NEIGHBORS CHARADE;1
+Elista;Kalmykiya Republic;Russian Federation;;48;BACKLASH UNDEFEATED;1
+Elista;Kalmykiya Republic;Russian Federation;;460;INNOCENT USUAL;1
+Elista;Kalmykiya Republic;Russian Federation;;835;SPY MILE;1
+Elista;Kalmykiya Republic;Russian Federation;;838;STAGECOACH ARMAGEDDON;1
+Elista;Kalmykiya Republic;Russian Federation;;409;HEARTBREAKERS BRIGHT;1
+Elista;Kalmykiya Republic;Russian Federation;;252;DREAM PICKUP;1
+Elista;Kalmykiya Republic;Russian Federation;;234;DISTURBING SCARFACE;1
+Elista;Kalmykiya Republic;Russian Federation;;879;TELEGRAPH VOYAGE;1
+Elista;Kalmykiya Republic;Russian Federation;;810;SLUMS DUCK;1
+Elista;Kalmykiya Republic;Russian Federation;;792;SHREK LICENSE;1
+Elista;Kalmykiya Republic;Russian Federation;;271;EASY GLADIATOR;1
+Elista;Kalmykiya Republic;Russian Federation;;22;AMISTAD MIDSUMMER;1
+Pune;Maharashtra;India;;392;HALL CASSIDY;1
+Pune;Maharashtra;India;;403;HARRY IDAHO;1
+Pune;Maharashtra;India;;40;ARMY FLINTSTONES;1
+Pune;Maharashtra;India;;625;NONE SPIKING;1
+Pune;Maharashtra;India;;833;SPLENDOR PATTON;1
+Pune;Maharashtra;India;;654;PANKY SUBMARINE;1
+Pune;Maharashtra;India;;269;EARRING INSTINCT;1
+Pune;Maharashtra;India;;784;SHANGHAI TYCOON;1
+Pune;Maharashtra;India;;311;FICTION CHRISTMAS;1
+Pune;Maharashtra;India;;535;LOVE SUICIDES;1
+Pune;Maharashtra;India;;871;SWEDEN SHINING;1
+Pune;Maharashtra;India;;314;FIGHT JAWBREAKER;1
+Pune;Maharashtra;India;;793;SHRUNK DIVINE;1
+Pune;Maharashtra;India;;573;MICROCOSMOS PARADISE;1
+Pune;Maharashtra;India;;598;MOSQUITO ARMAGEDDON;1
+Pune;Maharashtra;India;;890;TIGHTS DAWN;1
+Pune;Maharashtra;India;;244;DORADO NOTTING;1
+Pune;Maharashtra;India;;887;THIEF PELICAN;1
+Pune;Maharashtra;India;;59;BEAR GRACELAND;1
+Pune;Maharashtra;India;;367;GOLDMINE TYCOON;1
+Pune;Maharashtra;India;;599;MOTHER OLEANDER;1
+Pune;Maharashtra;India;;574;MIDNIGHT WESTWARD;1
+Pune;Maharashtra;India;;309;FEUD FROGMEN;1
+Pune;Maharashtra;India;;870;SWARM GOLD;1
+Pune;Maharashtra;India;;409;HEARTBREAKERS BRIGHT;1
+Pune;Maharashtra;India;;213;DATE SPEED;1
+Pune;Maharashtra;India;;601;MOULIN WAKE;1
+Pune;Maharashtra;India;;228;DETECTIVE VISION;1
+Pune;Maharashtra;India;;391;HALF OUTFIELD;1
+Pune;Maharashtra;India;;687;POCUS PULP;1
+Uruapan;Michoacán;Mexico;;938;VELVET TERMINATOR;1
+Uruapan;Michoacán;Mexico;;123;CASABLANCA SUPER;1
+Uruapan;Michoacán;Mexico;;284;ENEMY ODDS;1
+Uruapan;Michoacán;Mexico;;501;KISSING DOLLS;1
+Uruapan;Michoacán;Mexico;;135;CHANCE RESURRECTION;1
+Uruapan;Michoacán;Mexico;;667;PEACH INNOCENT;1
+Uruapan;Michoacán;Mexico;;446;HYSTERICAL GRAIL;1
+Uruapan;Michoacán;Mexico;;378;GREATEST NORTH;1
+Uruapan;Michoacán;Mexico;;798;SILVERADO GOLDFINGER;1
+Uruapan;Michoacán;Mexico;;658;PARIS WEEKEND;1
+Uruapan;Michoacán;Mexico;;215;DAWN POND;1
+Uruapan;Michoacán;Mexico;;636;OLEANDER CLUE;1
+Uruapan;Michoacán;Mexico;;641;ORANGE GRAPES;1
+Uruapan;Michoacán;Mexico;;765;SATURN NAME;1
+Uruapan;Michoacán;Mexico;;731;RIGHT CRANES;1
+Uruapan;Michoacán;Mexico;;27;ANONYMOUS HUMAN;1
+Uruapan;Michoacán;Mexico;;888;THIN SAGEBRUSH;1
+Uruapan;Michoacán;Mexico;;388;GUNFIGHT MOON;1
+Uruapan;Michoacán;Mexico;;749;RULES HUMAN;1
+Uruapan;Michoacán;Mexico;;347;GAMES BOWFINGER;1
+Uruapan;Michoacán;Mexico;;245;DOUBLE WRATH;1
+Uruapan;Michoacán;Mexico;;77;BIRDS PERDITION;1
+Uruapan;Michoacán;Mexico;;890;TIGHTS DAWN;1
+Uruapan;Michoacán;Mexico;;421;HOLIDAY GAMES;1
+Uruapan;Michoacán;Mexico;;361;GLEAMING JAWBREAKER;1
+Uruapan;Michoacán;Mexico;;408;HEAD STRANGER;1
+Uruapan;Michoacán;Mexico;;55;BARBARELLA STREETCAR;1
+Uruapan;Michoacán;Mexico;;608;MURDER ANTITRUST;1
+Uruapan;Michoacán;Mexico;;752;RUNNER MADIGAN;1
+Uruapan;Michoacán;Mexico;;282;ENCOUNTERS CURTAIN;1
+Uruapan;Michoacán;Mexico;;206;DANCING FEVER;1
+Uruapan;Michoacán;Mexico;;764;SATURDAY LAMBS;1
+Uruapan;Michoacán;Mexico;;391;HALF OUTFIELD;1
+Tarsus;Mersin;Türkiye;;969;WEST LION;1
+Tarsus;Mersin;Türkiye;;833;SPLENDOR PATTON;1
+Tarsus;Mersin;Türkiye;;250;DRAGON SQUAD;1
+Tarsus;Mersin;Türkiye;;565;MATRIX SNOWMAN;1
+Tarsus;Mersin;Türkiye;;23;ANACONDA CONFESSIONS;1
+Tarsus;Mersin;Türkiye;;476;JASON TRAP;1
+Tarsus;Mersin;Türkiye;;52;BALLROOM MOCKINGBIRD;1
+Tarsus;Mersin;Türkiye;;167;COMA HEAD;1
+Tarsus;Mersin;Türkiye;;50;BAKED CLEOPATRA;1
+Tarsus;Mersin;Türkiye;;767;SCALAWAG DUCK;1
+Tarsus;Mersin;Türkiye;;491;JUMPING WRATH;1
+Tarsus;Mersin;Türkiye;;474;JADE BUNCH;1
+Tarsus;Mersin;Türkiye;;295;EXPENDABLE STALLION;1
+Tarsus;Mersin;Türkiye;;173;CONFESSIONS MAGUIRE;1
+Tarsus;Mersin;Türkiye;;625;NONE SPIKING;1
+Tarsus;Mersin;Türkiye;;17;ALONE TRIP;1
+Kuching;Sarawak;Malaysia;;242;DOOM DANCING;2
+Kuching;Sarawak;Malaysia;;310;FEVER EMPIRE;1
+Kuching;Sarawak;Malaysia;;542;LUST LOCK;1
+Kuching;Sarawak;Malaysia;;446;HYSTERICAL GRAIL;1
+Kuching;Sarawak;Malaysia;;313;FIDELITY DEVIL;1
+Kuching;Sarawak;Malaysia;;504;KWAI HOMEWARD;1
+Kuching;Sarawak;Malaysia;;575;MIDSUMMER GROUNDHOG;1
+Kuching;Sarawak;Malaysia;;509;LANGUAGE COWBOY;1
+Kuching;Sarawak;Malaysia;;871;SWEDEN SHINING;1
+Kuching;Sarawak;Malaysia;;263;DURHAM PANKY;1
+Kuching;Sarawak;Malaysia;;730;RIDGEMONT SUBMARINE;1
+Kuching;Sarawak;Malaysia;;271;EASY GLADIATOR;1
+Kuching;Sarawak;Malaysia;;170;COMMAND DARLING;1
+Kuching;Sarawak;Malaysia;;973;WIFE TURN;1
+Kuching;Sarawak;Malaysia;;434;HORROR REIGN;1
+Kuching;Sarawak;Malaysia;;240;DOLLS RAGE;1
+Kuching;Sarawak;Malaysia;;784;SHANGHAI TYCOON;1
+Kuching;Sarawak;Malaysia;;97;BRIDE INTRIGUE;1
+Kuching;Sarawak;Malaysia;;460;INNOCENT USUAL;1
+Kuching;Sarawak;Malaysia;;402;HARPER DYING;1
+Kuching;Sarawak;Malaysia;;452;ILLUSION AMELIE;1
+Kuching;Sarawak;Malaysia;;739;ROCKY WAR;1
+Kuching;Sarawak;Malaysia;;637;OPEN AFRICAN;1
+Kuching;Sarawak;Malaysia;;377;GREASE YOUTH;1
+Kuching;Sarawak;Malaysia;;147;CHOCOLAT HARRY;1
+Kuching;Sarawak;Malaysia;;438;HUMAN GRAFFITI;1
+Oyo;Cuvette;Congo;;295;EXPENDABLE STALLION;1
+Oyo;Cuvette;Congo;;49;BADMAN DAWN;1
+Oyo;Cuvette;Congo;;966;WEDDING APOLLO;1
+Oyo;Cuvette;Congo;;496;KICK SAVANNAH;1
+Oyo;Cuvette;Congo;;999;ZOOLANDER FICTION;1
+Oyo;Cuvette;Congo;;621;NETWORK PEAK;1
+Oyo;Cuvette;Congo;;130;CELEBRITY HORN;1
+Oyo;Cuvette;Congo;;319;FISH OPUS;1
+Oyo;Cuvette;Congo;;377;GREASE YOUTH;1
+Oyo;Cuvette;Congo;;689;POLLOCK DELIVERANCE;1
+Oyo;Cuvette;Congo;;347;GAMES BOWFINGER;1
+Oyo;Cuvette;Congo;;880;TELEMARK HEARTBREAKERS;1
+Oyo;Cuvette;Congo;;311;FICTION CHRISTMAS;1
+Oyo;Cuvette;Congo;;92;BOWFINGER GABLES;1
+Oyo;Cuvette;Congo;;683;PITY BOUND;1
+Oyo;Cuvette;Congo;;903;TRAFFIC HOBBIT;1
+Oyo;Cuvette;Congo;;26;ANNIE IDENTITY;1
+Oyo;Cuvette;Congo;;187;CRANES RESERVOIR;1
+Oyo;Cuvette;Congo;;915;TRUMAN CRAZY;1
+Oyo;Cuvette;Congo;;506;LADY STAGE;1
+Funafuti;Funafuti;Tuvalu;;588;MODEL FISH;1
+Funafuti;Funafuti;Tuvalu;;522;LIFE TWISTED;1
+Funafuti;Funafuti;Tuvalu;;883;TEQUILA PAST;1
+Funafuti;Funafuti;Tuvalu;;762;SASSY PACKER;1
+Funafuti;Funafuti;Tuvalu;;111;CADDYSHACK JEDI;1
+Funafuti;Funafuti;Tuvalu;;541;LUKE MUMMY;1
+Funafuti;Funafuti;Tuvalu;;42;ARTIST COLDBLOODED;1
+Funafuti;Funafuti;Tuvalu;;672;PERFECT GROOVE;1
+Funafuti;Funafuti;Tuvalu;;560;MARS ROMAN;1
+Funafuti;Funafuti;Tuvalu;;580;MINE TITANS;1
+Funafuti;Funafuti;Tuvalu;;864;SUNDANCE INVASION;1
+Funafuti;Funafuti;Tuvalu;;117;CANDLES GRAPES;1
+Funafuti;Funafuti;Tuvalu;;181;CONTACT ANONYMOUS;1
+Funafuti;Funafuti;Tuvalu;;374;GRAFFITI LOVE;1
+Funafuti;Funafuti;Tuvalu;;993;WRONG BEHAVIOR;1
+Funafuti;Funafuti;Tuvalu;;86;BOOGIE AMELIE;1
+Funafuti;Funafuti;Tuvalu;;517;LESSON CLEOPATRA;1
+Funafuti;Funafuti;Tuvalu;;174;CONFIDENTIAL INTERVIEW;1
+Funafuti;Funafuti;Tuvalu;;927;UPRISING UPTOWN;1
+Funafuti;Funafuti;Tuvalu;;193;CROSSROADS CASUALTIES;1
+Funafuti;Funafuti;Tuvalu;;20;AMELIE HELLFIGHTERS;1
+Funafuti;Funafuti;Tuvalu;;540;LUCKY FLYING;1
+Funafuti;Funafuti;Tuvalu;;733;RIVER OUTLAW;1
+Funafuti;Funafuti;Tuvalu;;88;BORN SPINAL;1
+Funafuti;Funafuti;Tuvalu;;625;NONE SPIKING;1
+Funafuti;Funafuti;Tuvalu;;637;OPEN AFRICAN;1
+Kitwe;Copperbelt;Zambia;;563;MASSACRE USUAL;2
+Kitwe;Copperbelt;Zambia;;18;ALTER VICTORY;1
+Kitwe;Copperbelt;Zambia;;333;FREAKY POCUS;1
+Kitwe;Copperbelt;Zambia;;979;WITCHES PANIC;1
+Kitwe;Copperbelt;Zambia;;897;TORQUE BOUND;1
+Kitwe;Copperbelt;Zambia;;119;CAPER MOTIONS;1
+Kitwe;Copperbelt;Zambia;;576;MIGHTY LUCK;1
+Kitwe;Copperbelt;Zambia;;893;TITANS JERK;1
+Kitwe;Copperbelt;Zambia;;56;BAREFOOT MANCHURIAN;1
+Kitwe;Copperbelt;Zambia;;971;WHALE BIKINI;1
+Kitwe;Copperbelt;Zambia;;797;SILENCE KANE;1
+Kitwe;Copperbelt;Zambia;;995;YENTL IDAHO;1
+Kitwe;Copperbelt;Zambia;;844;STEERS ARMAGEDDON;1
+Kitwe;Copperbelt;Zambia;;392;HALL CASSIDY;1
+Kitwe;Copperbelt;Zambia;;233;DISCIPLE MOTHER;1
+Kitwe;Copperbelt;Zambia;;189;CREATURES SHAKESPEARE;1
+Kitwe;Copperbelt;Zambia;;417;HILLS NEIGHBORS;1
+Kitwe;Copperbelt;Zambia;;479;JEDI BENEATH;1
+Kitwe;Copperbelt;Zambia;;859;SUGAR WONKA;1
+Kitwe;Copperbelt;Zambia;;880;TELEMARK HEARTBREAKERS;1
+Kitwe;Copperbelt;Zambia;;467;INTRIGUE WORST;1
+Kitwe;Copperbelt;Zambia;;548;MAGNIFICENT CHITTY;1
+Kitwe;Copperbelt;Zambia;;5;AFRICAN EGG;1
+Kitwe;Copperbelt;Zambia;;524;LION UNCUT;1
+Kitwe;Copperbelt;Zambia;;871;SWEDEN SHINING;1
+Kitwe;Copperbelt;Zambia;;698;PRINCESS GIANT;1
+Kitwe;Copperbelt;Zambia;;992;WRATH MILE;1
+Kitwe;Copperbelt;Zambia;;725;REQUIEM TYCOON;1
+Kitwe;Copperbelt;Zambia;;702;PULP BEVERLY;1
+Kitwe;Copperbelt;Zambia;;382;GRIT CLOCKWORK;1
+Kitwe;Copperbelt;Zambia;;225;DESTINATION JERK;1
+Kitwe;Copperbelt;Zambia;;193;CROSSROADS CASUALTIES;1

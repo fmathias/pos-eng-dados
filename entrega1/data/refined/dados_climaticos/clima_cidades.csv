@@ -1,0 +1,842 @@
+cidade;estado;pais;temperatura;sensacao_termica;condicao
+Abu Dhabi;Abu Dhabi;United Arab Emirates;30.3;34.6;Clear
+Kabul;Kabul;Afghanistan;20.5;20.5;Sunny
+Yerevan;Yerevan;Armenia;17.1;17.1;Clear
+Benguela;Benguela;Angola;23.9;25.9;Partly Cloudy
+Tandil;Buenos Aires;Argentina;5.5;3.0;Partly Cloudy
+Santa Rosa;Corrientes;Argentina;33.0;40.5;Sunny
+San Lorenzo;Corrientes;Argentina;20.3;20.3;Overcast
+Quilmes;Buenos Aires;Argentina;14.0;12.3;Clear
+Merlo;Buenos Aires;Argentina;9.8;8.9;Partly Cloudy
+La Plata;Buenos Aires;Argentina;9.3;7.1;Clear
+La Paz;Entre Rios;Argentina;5.0;2.2;Clear
+Fontana;Chaco;Argentina;27.8;27.6;Sunny
+Ezeiza;Buenos Aires;Argentina;9.3;6.7;Clear
+Avellaneda;Santa Fe;Argentina;13.7;12.4;Clear
+Tama;La Rioja;Argentina;30.0;33.1;Clear
+Santa Rosa;La Pampa;Argentina;33.0;40.5;Sunny
+Santa Rosa;Mendoza;Argentina;33.0;40.5;Sunny
+San Lorenzo;Santa Fe;Argentina;20.3;20.3;Overcast
+Merlo;San Luis;Argentina;9.8;8.9;Partly Cloudy
+Lincoln;Buenos Aires;Argentina;17.8;17.8;Sunny
+La Paz;Mendoza;Argentina;5.0;2.2;Clear
+El Alto;Catamarca;Argentina;22.3;24.7;Partly cloudy
+Avellaneda;Buenos Aires;Argentina;13.7;12.4;Clear
+Salzburg;Salzburg;Austria;8.2;8.3;Partly cloudy
+Linz;Upper Austria;Austria;9.2;9.1;Partly cloudy
+Graz;Styria;Austria;10.2;10.5;Light rain
+York;Western Australia;Australia;2.3;-0.2;Partly Cloudy
+Bellevue;Western Australia;Australia;20.0;20.0;Partly cloudy
+Woodridge;Queensland;Australia;12.0;11.9;Overcast
+Warren;New South Wales;Australia;10.6;8.6;Overcast
+Southport;Queensland;Australia;8.2;7.0;Clear
+Newcastle;New South Wales;Australia;5.6;5.1;Clear
+Hamilton;Victoria;Australia;10.5;8.9;Fog
+Hamilton;Queensland;Australia;10.5;8.9;Fog
+Dallas;Victoria;Australia;28.3;31.0;Partly cloudy
+Ruse;New South Wales;Australia;14.1;14.7;Clear
+Dayton;Western Australia;Australia;13.1;11.4;Overcast
+Hamilton;New South Wales;Australia;10.5;8.9;Fog
+Chatsworth;Queensland;Australia;29.4;37.3;Clear
+Baku;Baki;Azerbaijan;10.1;9.6;Clear
+Dhaka;Dhaka Division;Bangladesh;27.3;30.9;Sunny
+Saint-Denis;Wallonia;Belgium;19.3;19.3;Clear
+Duisburg;Flanders;Belgium;7.0;4.8;Patchy rain nearby
+Stara Zagora;Stara Zagora;Bulgaria;12.6;12.8;Clear
+Ruse;Ruse;Bulgaria;14.1;14.7;Clear
+Ivanovo;Ruse;Bulgaria;8.2;6.6;Sunny
+Hamilton;Hamilton city;Bermuda;10.5;8.9;Fog
+Bandar Seri Begawan;Brunei-Muara District;Brunei Darussalam;29.3;33.7;Partly cloudy
+Sucre;Chuquisaca Department;Bolivia, Plurinational State of;13.4;12.7;Patchy rain nearby
+La Paz;La Paz Department;Bolivia, Plurinational State of;5.0;2.2;Clear
+Juazeiro do Norte;Ceará;Brazil;20.9;20.9;Patchy rain nearby
+Aurora;Ceará;Brazil;22.3;24.5;Partly cloudy
+Vila Velha;Espírito Santo;Brazil;23.4;25.6;Patchy rain nearby
+Sorocaba;São Paulo;Brazil;16.3;16.3;Light rain shower
+Santa Rosa;Rio Grande do Sul;Brazil;33.0;40.5;Sunny
+Salinas;Minas Gerais;Brazil;17.8;17.8;Sunny
+Rio Claro;Rio de Janeiro;Brazil;16.4;16.4;Mist
+Rio Claro;São Paulo;Brazil;16.4;16.4;Mist
+Alvorada;Rio Grande do Sul;Brazil;26.7;27.6;Partly Cloudy
+Juiz de Fora;Minas Gerais;Brazil;14.7;15.5;Clear
+Blumenau;Santa Catarina;Brazil;17.0;17.0;Light rain
+Angra dos Reis;Rio de Janeiro;Brazil;18.9;18.9;Clear
+Alvorada;Tocantins;Brazil;26.7;27.6;Partly Cloudy
+Boa Vista;Roraima;Brazil;26.2;29.7;Light rain shower
+Ivanovo;Brest;Belarus;8.2;6.6;Sunny
+Brest;Brest;Belarus;10.6;8.5;Light drizzle
+Aurora;Ontario;Canada;22.3;24.5;Partly cloudy
+Gatineau;Quebec;Canada;9.2;6.1;Overcast
+Hamilton;Ontario;Canada;10.5;8.9;Fog
+Kimberley;British Columbia;Canada;4.1;0.7;Clear
+Lethbridge;Alberta;Canada;16.1;16.1;Partly cloudy
+Lincoln;New Brunswick;Canada;17.8;17.8;Sunny
+London;Ontario;Canada;5.1;4.8;Clear
+Oshawa;Ontario;Canada;9.0;6.4;Light rain
+Richmond Hill;Ontario;Canada;8.3;6.3;Overcast
+Vancouver;British Columbia;Canada;17.2;17.2;Partly cloudy
+Halifax;Nova Scotia;Canada;6.1;2.0;Overcast
+Mwene-Ditu;Lomami;Congo, The Democratic Republic of the;20.4;20.4;Clear
+Lubumbashi;Haut-Katanga;Congo, The Democratic Republic of the;14.5;13.9;Clear
+Oyo;Cuvette;Congo;7.6;4.9;Clear
+Lausanne;Vaud;Switzerland;7.1;6.0;Mist
+Emmen;Lucerne;Switzerland;6.3;3.1;Patchy rain nearby
+Bern;Bern;Switzerland;7.1;7.0;Fog
+Bellevue;Geneva;Switzerland;20.0;20.0;Partly cloudy
+Basel;Basel-City;Switzerland;9.4;9.6;Partly Cloudy
+Salamanca;Coquimbo Region;Chile;9.3;7.2;Clear
+Rancagua;O'Higgins Region;Chile;12.8;12.9;Clear
+El Monte;Santiago Metropolitan;Chile;26.1;26.4;Sunny
+Coquimbo;Coquimbo Region;Chile;13.2;13.8;Overcast
+Antofagasta;Antofagasta;Chile;14.0;14.7;Clear
+Bamenda;North-West;Cameroon;17.6;17.6;Patchy rain nearby
+Fengshan;Yunnan;China;32.3;38.8;Partly cloudy
+Korla;Xinjiang;China;22.9;22.9;Sunny
+Hami;Xinjiang;China;10.5;8.9;Fog
+Zaoyang;Hubei;China;20.1;20.1;Sunny
+Yuzhou;Hebei;China;19.6;19.6;Partly Cloudy
+Yuncheng;Shandong;China;21.4;21.4;Partly Cloudy
+Yuncheng;Shanxi;China;21.4;21.4;Partly Cloudy
+Yinchuan;Ningxia;China;14.5;15.0;Sunny
+Yantai;Shandong;China;14.5;13.2;Patchy rain nearby
+Baicheng;Henan;China;20.6;20.6;Sunny
+Xinxiang;Henan;China;19.0;19.0;Partly Cloudy
+Xintai;Shandong;China;15.4;15.4;Patchy rain nearby
+Haining;Zhejiang;China;25.3;28.8;Partly cloudy
+Xiangtan;Hunan;China;20.9;20.9;Patchy rain nearby
+Weifang;Shandong;China;13.7;12.3;Patchy rain nearby
+Pingxiang;Gansu;China;22.2;24.7;Patchy rain nearby
+Tianjin;Tianjin;China;15.4;15.4;Patchy rain nearby
+Fuyu;Anhui;China;20.5;20.5;Sunny
+Shenzhen;Guangdong;China;30.3;35.7;Partly Cloudy
+Shaoguan;Guangdong;China;25.9;29.4;Light rain shower
+Shanwei;Guangdong;China;30.3;35.7;Sunny
+Sanya;Hainan;China;28.6;32.5;Sunny
+Qinhuangdao;Hebei;China;19.9;20.0;Sunny
+Pingxiang;Hebei;China;22.2;24.7;Patchy rain nearby
+Pingxiang;Jiangxi;China;22.2;24.7;Patchy rain nearby
+Nanyang;Henan;China;21.8;21.8;Partly Cloudy
+Nantou;Guangdong;China;31.3;35.2;Partly cloudy
+Liaocheng;Shandong;China;19.5;19.5;Sunny
+Leshan;Sichuan;China;27.2;27.8;Partly Cloudy
+Lengshuijiang;Hunan;China;20.3;20.3;Light rain
+Laohekou;Hubei;China;18.8;18.8;Cloudy
+Laiwu;Shandong;China;16.8;16.8;Sunny
+Jinzhou;Liaoning;China;18.3;18.3;Partly Cloudy
+Jinzhou;Hebei;China;18.3;18.3;Partly Cloudy
+Jining;Shandong;China;20.3;20.3;Sunny
+Jinchang;Gansu;China;13.5;13.8;Sunny
+Fuzhou;Jiangxi;China;27.4;33.5;Mist
+Fuzhou;Fujian;China;27.4;33.5;Mist
+Fengshan;Hubei;China;32.3;38.8;Partly cloudy
+Fengshan;Fujian;China;32.3;38.8;Partly cloudy
+Fengshan;Guangxi;China;32.3;38.8;Partly cloudy
+Ezhou;Hubei;China;17.6;17.6;Partly Cloudy
+Enshi;Hubei;China;19.8;19.8;Partly Cloudy
+Dongying;Shandong;China;16.4;16.4;Partly Cloudy
+Jinchang;Shanxi;China;13.5;13.8;Sunny
+Datong;Anhui;China;7.0;3.0;Light drizzle
+Changzhou;Jiangsu;China;20.3;20.3;Light drizzle
+Binzhou;Shandong;China;17.3;17.3;Partly Cloudy
+Baiyin;Gansu;China;12.7;12.3;Sunny
+Zhoushan;Zhejiang;China;15.8;15.8;Patchy rain nearby
+Yantai;Chongqing;China;14.5;13.2;Patchy rain nearby
+Yingkou;Liaoning;China;20.7;20.7;Partly Cloudy
+Tongliao;Inner Mongolia;China;20.7;20.7;Sunny
+Tieli;Heilongjiang;China;20.3;20.3;Sunny
+Suihua;Heilongjiang;China;19.5;19.5;Sunny
+Fuyu;Jilin;China;20.5;20.5;Sunny
+Jining;Inner Mongolia;China;20.3;20.3;Sunny
+Hohhot;Inner Mongolia;China;12.0;9.5;Partly cloudy
+Fuyu;Heilongjiang;China;20.5;20.5;Sunny
+Datong;Heilongjiang;China;7.0;3.0;Light drizzle
+Datong;Shanxi;China;7.0;3.0;Light drizzle
+Baicheng;Jilin;China;20.6;20.6;Sunny
+Nanyang;Gansu;China;21.8;21.8;Partly Cloudy
+Xinxiang;Chongqing;China;19.0;19.0;Partly Cloudy
+Meixian;Guangdong;China;29.1;32.9;Partly Cloudy
+Datong;Chongqing;China;7.0;3.0;Light drizzle
+Rizhao;Shandong;China;17.3;17.3;Partly Cloudy
+Changzhou;Guangxi;China;20.3;20.3;Light drizzle
+Baicheng;Shandong;China;20.6;20.6;Sunny
+Valencia;Córdoba;Colombia;21.3;21.3;Clear
+Sucre;Sucre Department;Colombia;13.4;12.7;Patchy rain nearby
+Sucre;Santander Department;Colombia;13.4;12.7;Patchy rain nearby
+Sucre;Cauca Department;Colombia;13.4;12.7;Patchy rain nearby
+Sogamoso;Boyacá;Colombia;7.2;6.7;Partly Cloudy
+Sincelejo;Sucre Department;Colombia;25.9;29.4;Partly Cloudy
+Santa Rosa;Bolívar;Colombia;33.0;40.5;Sunny
+Santa Rosa;Cauca Department;Colombia;33.0;40.5;Sunny
+San Lorenzo;Nariño;Colombia;20.3;20.3;Overcast
+Pereira;Risaralda Department;Colombia;16.1;16.1;Partly cloudy
+La Plata;Huila Department;Colombia;9.3;7.1;Clear
+La Paz;Cesar Department;Colombia;5.0;2.2;Clear
+La Paz;Santander Department;Colombia;5.0;2.2;Clear
+Florencia;Cauca Department;Colombia;19.1;19.1;Mist
+Florencia;Caquetá;Colombia;19.1;19.1;Mist
+Buenaventura;Valle del Cauca Department;Colombia;25.1;28.1;Patchy rain nearby
+Florencia;Ciego de Ávila Province;Cuba;19.1;19.1;Mist
+Santa Rosa;;Curaçao;33.0;40.5;Sunny
+Olomouc;Olomoucký;Czechia;6.3;4.7;Cloudy
+Witten;North Rhine-Westphalia;Germany;4.1;1.6;Patchy rain nearby
+Siegen;North Rhine-Westphalia;Germany;4.2;3.0;Partly cloudy
+Mannheim;Baden-Wurttemberg;Germany;6.4;5.5;Clear
+Erlangen;Bavaria;Germany;3.2;2.7;Partly Cloudy
+Duisburg;North Rhine-Westphalia;Germany;7.0;4.8;Patchy rain nearby
+Belm;Lower Saxony;Germany;18.2;18.2;Sunny
+Santiago de los Caballeros;Santiago Province;Dominican Republic;28.3;34.8;Partly cloudy
+La Romana;La Romana;Dominican Republic;26.3;29.1;Clear
+Skikda;Skikda;Algeria;15.5;15.5;Clear
+Valencia;Los Ríos;Ecuador;21.3;21.3;Clear
+Sucre;Manabí;Ecuador;13.4;12.7;Patchy rain nearby
+Sucre;Tungurahua Province;Ecuador;13.4;12.7;Patchy rain nearby
+Santa Rosa;El Oro;Ecuador;33.0;40.5;Sunny
+Santa Rosa;Tungurahua Province;Ecuador;33.0;40.5;Sunny
+San Lorenzo;Bolívar;Ecuador;20.3;20.3;Overcast
+Salinas;Santa Elena;Ecuador;17.8;17.8;Sunny
+Portoviejo;Manabí;Ecuador;24.2;26.6;Partly cloudy
+Loja;Loja;Ecuador;14.5;14.3;Patchy rain nearby
+La Paz;Zamora Chinchipe;Ecuador;5.0;2.2;Clear
+La Paz;Carchi;Ecuador;5.0;2.2;Clear
+Salinas;Imbabura;Ecuador;17.8;17.8;Sunny
+Tartu;Tartu;Estonia;20.2;20.2;Clear
+Qalyub;Qalyubia;Egypt;21.1;21.1;Clear
+Valencia;Valencia;Spain;21.3;21.3;Clear
+Salinas;Valencia;Spain;17.8;17.8;Sunny
+Loja;Andalusia;Spain;14.5;14.3;Patchy rain nearby
+La Romana;Valencia;Spain;26.3;29.1;Clear
+Santiago de Compostela;Galicia;Spain;10.2;8.3;Clear
+Salamanca;Castille and León;Spain;9.3;7.2;Clear
+Laredo;Cantabria;Spain;34.4;39.4;Thundery outbreaks in nearby
+Guadalajara;Castille-La Mancha;Spain;24.4;23.6;Patchy light rain
+Buenaventura;Castille-La Mancha;Spain;25.1;28.1;Patchy rain nearby
+Barcelona;Catalonia;Spain;16.1;16.1;Patchy rain nearby
+Avellaneda;Basque Country;Spain;13.7;12.4;Clear
+Avellaneda;Castille and León;Spain;13.7;12.4;Clear
+Salamanca;Madrid;Spain;9.3;7.2;Clear
+La Paz;Madrid;Spain;5.0;2.2;Clear
+Oulu;North Ostrobothnia;Finland;5.0;0.8;Moderate rain
+Toulouse;Occitanie;France;6.4;3.9;Partly cloudy
+Toulon;Provence-Alpes-Côte d'Azur;France;14.3;13.0;Clear
+Saint-Denis;Île-de-France;France;19.3;19.3;Clear
+Le Mans;Pays de la Loire;France;9.3;8.1;Clear
+Brest;Brittany;France;10.6;8.5;Light drizzle
+York;England;United Kingdom;2.3;-0.2;Partly Cloudy
+Stockport;England;United Kingdom;6.1;5.9;Clear
+Southport;England;United Kingdom;8.2;7.0;Clear
+South Hill;England;United Kingdom;18.0;18.0;Overcast
+Southend-on-Sea;England;United Kingdom;3.1;0.3;Clear
+Southampton;England;United Kingdom;9.4;9.4;Clear
+Manchester;England;United Kingdom;6.1;5.9;Clear
+London;England;United Kingdom;5.1;4.8;Clear
+Lincoln;England;United Kingdom;17.8;17.8;Sunny
+Lancaster;England;United Kingdom;30.1;27.9;Sunny
+Kimberley;England;United Kingdom;4.1;0.7;Clear
+Hamilton;Scotland;United Kingdom;10.5;8.9;Fog
+Halifax;England;United Kingdom;6.1;2.0;Overcast
+Dundee;Scotland;United Kingdom;4.2;3.6;Clear
+Compton;England;United Kingdom;21.1;21.1;Partly Cloudy
+Bradford;England;United Kingdom;6.1;5.9;Clear
+Newcastle;Northern Ireland;United Kingdom;5.6;5.1;Clear
+Cayenne;Guyane;French Guiana;25.1;28.6;Moderate rain
+Nuuk;Sermersooq;Greenland;0.0;-6.0;Clear
+Banjul;Banjul;Gambia;25.3;27.0;Partly cloudy
+San Lorenzo;San Marcos;Guatemala;20.3;20.3;Overcast
+San Lorenzo;Suchitepeque;Guatemala;20.3;20.3;Overcast
+San Bernardino;Suchitepeque;Guatemala;30.4;30.7;Sunny
+San Lorenzo;Valle Department;Honduras;20.3;20.3;Overcast
+La Paz;La Paz Department;Honduras;5.0;2.2;Clear
+Bag;Pest County;Hungary;26.6;27.8;Sunny
+Lhokseumawe;Aceh;Indonesia;26.3;28.9;Sunny
+Tegal;Central Java;Indonesia;25.7;28.8;Light rain shower
+Surakarta;Central Java;Indonesia;25.0;27.6;Patchy rain nearby
+Purwakarta;West Java;Indonesia;24.4;26.8;Partly Cloudy
+Probolinggo;East Java;Indonesia;26.1;28.9;Patchy rain nearby
+Pontianak;West Kalimantan;Indonesia;25.0;28.0;Partly cloudy
+Pemalang;Central Java;Indonesia;24.5;27.3;Light rain shower
+Madiun;East Java;Indonesia;24.9;27.6;Patchy rain nearby
+Jakarta;Jakarta;Indonesia;26.0;28.9;Patchy rain nearby
+Gorontalo;Gorontalo;Indonesia;29.3;33.7;Sunny
+Ciomas;Banten;Indonesia;23.5;26.0;Patchy light drizzle
+Cianjur;West Java;Indonesia;22.9;25.4;Moderate rain
+Newcastle;Leinster;Ireland;5.6;5.1;Clear
+Bat Yam;Tel Aviv;Israel;20.3;20.3;Partly cloudy
+Ashdod;Southern District;Israel;20.3;20.3;Partly cloudy
+Yamuna Nagar;Haryana;India;27.6;31.3;Partly Cloudy
+Vijayawada;Andhra Pradesh;India;28.3;29.6;Partly cloudy
+Valparai;Tamil Nadu;India;11.2;11.0;Partly cloudy
+Udaipur;Rajasthan;India;33.2;32.8;Sunny
+Udaipur;Tripura;India;33.2;32.8;Sunny
+Tambaram;Tamil Nadu;India;29.3;31.7;Mist
+Shimoga;Karnataka;India;23.5;25.4;Partly Cloudy
+Satna;Madhya Pradesh;India;31.9;33.1;Sunny
+Sambhal;Uttar Pradesh;India;31.4;33.5;Sunny
+Ranchi;Jharkhand;India;23.1;25.0;Light rain
+Pune;Maharashtra;India;23.4;25.7;Patchy light rain
+Pudukkottai;Tamil Nadu;India;29.2;31.4;Mist
+Parbhani;Maharashtra;India;25.7;28.1;Overcast
+Nagaon;Assam;India;27.0;31.7;Light rain shower
+Mysore;Karnataka;India;21.9;21.9;Sunny
+Kumbakonam;Tamil Nadu;India;30.2;32.0;Partly Cloudy
+Katihar;Bihar;India;29.3;32.4;Partly Cloudy
+Jodhpur;Rajasthan;India;32.1;34.1;Sunny
+Jodhpur;Gujarat;India;32.1;34.1;Sunny
+Jining;Arunachal Pradesh;India;20.3;20.3;Sunny
+Jaipur;Rajasthan;India;33.0;33.2;Sunny
+Gandhinagar;Gujarat;India;29.2;31.8;Sunny
+Bijapur;Karnataka;India;24.4;26.3;Patchy rain nearby
+Bhimavaram;Andhra Pradesh;India;30.8;35.6;Patchy rain nearby
+Bhavnagar;Gujarat;India;31.7;35.5;Sunny
+Amroha;Uttar Pradesh;India;31.2;33.0;Sunny
+Adoni;Andhra Pradesh;India;25.9;27.6;Sunny
+Haldia;West Bengal;India;29.5;33.0;Sunny
+Chapra;Assam;India;27.9;31.6;Sunny
+Chandrapur;Chhattisgarh;India;25.3;27.5;Patchy rain nearby
+Chandrapur;Gujarat;India;25.3;27.5;Patchy rain nearby
+Mosul;Nineveh;Iraq;14.2;14.2;Clear
+Tabriz;East Azerbaijan;Iran, Islamic Republic of;16.3;16.3;Clear
+Sirjan;Kerman;Iran, Islamic Republic of;23.6;22.9;Clear
+Shahr-e Kord;Chaharmahal and Bakhtiari;Iran, Islamic Republic of;11.3;11.4;Clear
+Kermanshah;Kermanshah Province;Iran, Islamic Republic of;13.3;13.9;Clear
+San Lorenzo;Calabria;Italy;20.3;20.3;Overcast
+Udine;Friuli Venezia Giulia;Italy;13.1;12.0;Light rain
+San Lorenzo;Piedmont;Italy;20.3;20.3;Overcast
+Livorno;Tuscany;Italy;15.2;15.2;Partly cloudy
+Brindisi;Apulia;Italy;18.3;18.3;Partly cloudy
+Brescia;Lombardy;Italy;12.2;12.7;Partly cloudy
+Bergamo;Lombardy;Italy;12.2;12.0;Partly cloudy
+Alessandria;Piedmont;Italy;10.3;10.6;Mist
+Saint-Denis;Aosta Valley;Italy;19.3;19.3;Clear
+San Lorenzo;Campania;Italy;20.1;20.1;Overcast
+San Lorenzo;Liguria;Italy;20.1;20.1;Overcast
+Ueda;Nagano;Japan;19.1;19.1;Partly cloudy
+Tsuyama;Okayama;Japan;19.3;19.3;Partly cloudy
+Shimonoseki;Yamaguchi;Japan;20.3;20.3;Partly cloudy
+Sasebo;Nagasaki;Japan;23.2;25.1;Cloudy
+Onomichi;Hiroshima;Japan;20.2;20.2;Partly cloudy
+Okayama;Okayama;Japan;21.4;21.4;Sunny
+Nagareyama;Chiba;Japan;20.3;20.3;Partly cloudy
+Matsue;Shimane;Japan;19.1;19.1;Partly cloudy
+Kurashiki;Okayama;Japan;21.4;21.4;Sunny
+Kanazawa;Ishikawa;Japan;21.4;21.4;Partly cloudy
+Kamakura;Kanagawa;Japan;20.8;20.8;Partly cloudy
+Kakamigahara;Gifu;Japan;21.2;21.2;Partly cloudy
+Iwatsuki;Saitama;Japan;19.5;19.5;Partly cloudy
+Iwakuni;Yamaguchi;Japan;23.3;25.0;Partly cloudy
+Isesaki;Gunma;Japan;16.9;16.9;Patchy rain nearby
+Hiroshima;Hiroshima;Japan;23.3;24.8;Partly cloudy
+Hino;Tokyo;Japan;19.5;19.5;Partly cloudy
+Hino;Shiga;Japan;19.5;19.5;Partly cloudy
+Higashiosaka;Osaka;Japan;23.0;24.4;Sunny
+Fukuyama;Hiroshima;Japan;20.2;20.2;Partly cloudy
+Okinawa;Okinawa;Japan;30.2;37.8;Overcast
+Iwaki;Fukushima;Japan;17.1;17.1;Partly cloudy
+Tama;Tokyo;Japan;29.3;31.8;Clear
+Akishima;Tokyo;Japan;19.5;19.5;Partly cloudy
+Nyeri;Nyeri County;Kenya;14.6;14.6;Cloudy
+Kisumu;Kisumu County;Kenya;18.0;18.0;Clear
+Phnom Penh;Phnom Penh;Cambodia;30.3;35.4;Partly cloudy
+Battambang;Battambang;Cambodia;30.0;34.0;Sunny
+Newcastle;Saint James Windwa;Saint Kitts and Nevis;5.6;5.1;Clear
+Pyongyang;Pyongyang;Korea, Democratic People's Republic of;16.0;16.0;Patchy rain nearby
+Naju;Jeollanam-do;Korea, Republic of;32.4;35.0;Sunny
+Zhezqazghan;Ulytau Region;Kazakhstan;14.3;13.0;Sunny
+Pavlodar;Pavlodar Region;Kazakhstan;20.7;20.7;Patchy rain nearby
+Vaduz;Vaduz;Liechtenstein;9.2;8.3;Moderate rain
+Jaffna;Northern Province;Sri Lanka;29.4;35.7;Partly Cloudy
+Vilnius;Vilnius;Lithuania;12.2;11.7;Light rain
+Daugavpils;Daugavpils;Latvia;11.3;10.3;Fog
+Nador;Oriental;Morocco;20.2;20.2;Clear
+Chisinau;Chișinău Municipality;Moldova, Republic of;10.9;9.5;Mist
+Mahajanga;Boeny;Madagascar;24.3;25.7;Clear
+Myingyan;Mandalay Region;Myanmar;31.0;34.8;Cloudy
+Monywa;Sagaing Region;Myanmar;30.2;33.7;Overcast
+Fontana;Il-Fontana;Malta;27.8;27.6;Sunny
+Mwanza;Southern Region;Malawi;19.5;19.5;Partly Cloudy
+Lilongwe;Central Region;Malawi;16.6;16.6;Partly Cloudy
+Santa Rosa;Veracruz;Mexico;33.2;41.1;Sunny
+San Lorenzo;Oaxaca;Mexico;20.1;20.1;Overcast
+San Felipe del Progreso;México;Mexico;17.0;17.0;Moderate or heavy rain in area with thunder
+San Bernardino;México;Mexico;30.4;30.7;Sunny
+Salinas;Veracruz;Mexico;17.8;17.8;Sunny
+Pachuca de Soto;Hidalgo;Mexico;18.6;18.6;Thundery outbreaks in nearby
+Matamoros;Campeche;Mexico;35.4;34.1;Sunny
+Huejutla de Reyes;Hidalgo;Mexico;35.4;40.9;Thundery outbreaks in nearby
+Hidalgo;Coahuila;Mexico;29.9;27.7;Overcast
+Hidalgo;Tamaulipas;Mexico;29.9;27.7;Overcast
+Hidalgo;Chiapas;Mexico;29.9;27.7;Overcast
+Cuernavaca;Morelos;Mexico;30.3;31.8;Partly cloudy
+Cuautla;Morelos;Mexico;30.3;30.3;Partly cloudy
+Coatzacoalcos;Veracruz;Mexico;28.5;35.1;Cloudy
+Atlixco;Puebla;Mexico;15.0;15.2;Moderate rain
+Allende;Veracruz;Mexico;30.5;33.4;Sunny
+Santa Rosa;Oaxaca;Mexico;33.2;41.1;Sunny
+Allende;Puebla;Mexico;30.5;33.4;Sunny
+Santa Rosa;Puebla;Mexico;33.2;41.1;Sunny
+Huixquilucan;México;Mexico;21.1;21.1;Overcast
+Florencia;Zacatecas;Mexico;19.1;19.1;Mist
+Hidalgo;Zacatecas;Mexico;29.9;27.7;Overcast
+Matamoros;Chihuahua;Mexico;35.4;34.1;Sunny
+La Paz;Jalisco;Mexico;5.3;2.5;Clear
+Zapopan;Jalisco;Mexico;31.8;30.1;Partly Cloudy
+Valle de Santiago;Guanajuato;Mexico;30.0;29.0;Light rain shower
+Allende;Chihuahua;Mexico;30.5;33.4;Sunny
+Uruapan;Michoacán;Mexico;22.5;25.0;Moderate or heavy rain shower
+Santa Rosa;Nuevo León;Mexico;33.2;41.1;Sunny
+Santa Rosa;Jalisco;Mexico;33.2;41.1;Sunny
+San Lorenzo;Coahuila;Mexico;20.1;20.1;Overcast
+San Lorenzo;Guanajuato;Mexico;20.1;20.1;Overcast
+San Lorenzo;Michoacán;Mexico;20.1;20.1;Overcast
+San Lorenzo;Guerrero;Mexico;20.1;20.1;Overcast
+Salamanca;Guanajuato;Mexico;8.1;5.8;Clear
+Monclova;Coahuila;Mexico;34.2;35.5;Partly cloudy
+Mexicali;Baja California;Mexico;40.2;40.2;Sunny
+Matamoros;Coahuila;Mexico;35.4;34.1;Sunny
+La Paz;Coahuila;Mexico;5.3;2.5;Clear
+La Paz;Baja California Sur;Mexico;5.3;2.5;Clear
+Allende;Jalisco;Mexico;30.5;33.4;Sunny
+Guadalajara;Jalisco;Mexico;31.5;29.9;Partly Cloudy
+El Fuerte;Sinaloa;Mexico;32.4;31.7;Sunny
+El Fuerte;Zacatecas;Mexico;32.4;31.7;Sunny
+El Fuerte;San Luis Potosí;Mexico;32.4;31.7;Sunny
+El Fuerte;Michoacán;Mexico;32.4;31.7;Sunny
+Cuautla;Jalisco;Mexico;30.3;30.3;Partly cloudy
+Hidalgo;Durango;Mexico;29.9;27.7;Overcast
+Allende;Sonora;Mexico;30.5;33.4;Sunny
+Celaya;Guanajuato;Mexico;27.7;27.6;Light rain shower
+Carmen;Nuevo León;Mexico;29.3;33.4;Patchy rain nearby
+Buenaventura;Chihuahua;Mexico;25.1;28.1;Patchy rain nearby
+Allende;Coahuila;Mexico;30.5;33.4;Sunny
+Hidalgo;Nuevo León;Mexico;29.9;27.7;Overcast
+Santa Rosa;Guanajuato;Mexico;33.2;41.1;Sunny
+San Lorenzo;Puebla;Mexico;20.1;20.1;Overcast
+Ipoh;Perak;Malaysia;28.1;33.8;Partly Cloudy
+Sungai Petani;Kedah;Malaysia;28.0;35.4;Patchy light rain with thunder
+Kuching;Sarawak;Malaysia;30.0;38.9;Partly cloudy
+Tete;Tete;Mozambique;21.2;21.2;Clear
+Beira;Sofala;Mozambique;20.8;20.8;Light rain shower
+Zaria;Kaduna State;Nigeria;27.9;27.7;Clear
+Sokoto;Sokoto;Nigeria;33.0;30.8;Clear
+Oyo;Oyo State;Nigeria;7.6;4.9;Clear
+Owo;Ondo State;Nigeria;23.1;25.6;Fog
+Ondo;Ondo State;Nigeria;22.9;25.5;Fog
+Kaduna;Kaduna State;Nigeria;27.6;28.3;Clear
+Ilorin;Kwara State;Nigeria;25.1;27.5;Partly Cloudy
+Ede;Osun State;Nigeria;19.4;19.4;Clear
+Benin City;Edo State;Nigeria;24.1;26.9;Fog
+San Lorenzo;Boaco Department;Nicaragua;20.1;20.1;Overcast
+Emmen;Drenthe;Netherlands;6.2;3.0;Patchy rain nearby
+Ede;Gelderland;Netherlands;19.4;19.4;Clear
+Apeldoorn;Gelderland;Netherlands;4.1;0.8;Patchy rain nearby
+Amersfoort;Utrecht;Netherlands;4.1;1.1;Patchy rain nearby
+Malm;Trøndelag;Norway;5.2;1.1;Light rain
+Yangor;Aiwo District;Nauru;28.4;32.2;Patchy rain nearby
+Lincoln;Canterbury;New Zealand;17.8;17.8;Sunny
+Hamilton;Waikato Region;New Zealand;10.5;8.9;Fog
+Sunnyvale;Auckland;New Zealand;19.4;19.4;Sunny
+Lincoln;Auckland;New Zealand;17.8;17.8;Sunny
+Woodridge;Wellington Region;New Zealand;11.1;10.9;Overcast
+Santa Rosa;Chiriquí Province;Panama;33.2;41.1;Sunny
+San Lorenzo;Chiriquí Province;Panama;20.1;20.1;Overcast
+El Alto;Veraguas Province;Panama;22.0;24.6;Partly cloudy
+Sullana;Piura;Peru;24.2;25.6;Clear
+Sucre;Ancash;Peru;13.4;12.7;Patchy rain nearby
+Sucre;Cajamarca Department;Peru;13.4;12.7;Patchy rain nearby
+Santa Rosa;Ancash;Peru;33.2;41.1;Sunny
+Santa Rosa;Lambayeque;Peru;33.2;41.1;Sunny
+Santa Rosa;San Martín Department;Peru;33.2;41.1;Sunny
+San Lorenzo;Loreto;Peru;20.1;20.1;Overcast
+San Bernardino;Cajamarca Department;Peru;30.0;30.2;Sunny
+Laredo;La Libertad;Peru;34.4;39.4;Thundery outbreaks in nearby
+El Alto;Piura;Peru;22.0;24.6;Partly cloudy
+Talavera;Apurímac Department;Peru;14.5;13.5;Clear
+Santa Rosa;Puno;Peru;33.2;41.1;Sunny
+Santa Rosa;Apurímac Department;Peru;33.2;41.1;Sunny
+Santa Rosa;Lima region;Peru;33.2;41.1;Sunny
+San Lorenzo;Junin;Peru;20.1;20.1;Overcast
+San Lorenzo;Madre de Dios;Peru;20.1;20.1;Overcast
+Lima;Lima Province;Peru;17.4;17.5;Partly Cloudy
+Callao;Callao;Peru;17.1;17.1;Clear
+Salamanca;Arequipa;Peru;8.1;5.8;Clear
+Santa Rosa;Ayacucho;Peru;33.2;41.1;Sunny
+Santa Rosa;Junin;Peru;33.2;41.1;Sunny
+Santa Rosa;Cajamarca Department;Peru;33.2;41.1;Sunny
+Papeete;Îles du Vent;French Polynesia;30.3;37.7;Patchy rain nearby
+Faaa;Îles du Vent;French Polynesia;30.3;37.7;Patchy rain nearby
+Valencia;Eastern Visayas;Philippines;21.3;21.3;Clear
+Valencia;Central Visayas;Philippines;21.3;21.3;Clear
+Tuguegarao;Cagayan Valley;Philippines;30.1;33.9;Sunny
+Tanza;Metro Manila;Philippines;33.2;40.0;Sunny
+Tanza;Calabarzon;Philippines;33.2;40.0;Sunny
+Tanza;Western Visayas;Philippines;33.2;40.0;Sunny
+Tanauan;Calabarzon;Philippines;29.7;33.7;Sunny
+Tanauan;Eastern Visayas;Philippines;29.7;33.7;Sunny
+Talavera;Central Luzon;Philippines;14.5;13.5;Clear
+Taguig;Metro Manila;Philippines;33.2;40.3;Sunny
+Tabuk;Cordillera;Philippines;26.3;25.3;Clear
+Santa Rosa;Central Luzon;Philippines;33.2;41.1;Sunny
+Santa Rosa;Calabarzon;Philippines;33.2;41.1;Sunny
+San Lorenzo;Ilocos;Philippines;20.1;20.1;Overcast
+San Lorenzo;Central Luzon;Philippines;20.1;20.1;Overcast
+Aurora;Calabarzon;Philippines;22.3;24.5;Partly cloudy
+Salinas;Cagayan Valley;Philippines;17.8;17.8;Sunny
+Salamanca;Western Visayas;Philippines;8.1;5.8;Clear
+La Paz;Cordillera;Philippines;5.3;2.5;Clear
+La Paz;Cagayan Valley;Philippines;5.3;2.5;Clear
+La Paz;Central Luzon;Philippines;5.3;2.5;Clear
+La Paz;Eastern Visayas;Philippines;5.3;2.5;Clear
+La Paz;Western Visayas;Philippines;5.3;2.5;Clear
+La Paz;Caraga;Philippines;5.3;2.5;Clear
+La Paz;Davao Region;Philippines;5.3;2.5;Clear
+Imus;Calabarzon;Philippines;33.2;41.8;Sunny
+Iligan;Northern Mindanao;Philippines;28.5;32.7;Patchy rain nearby
+Hagonoy;Central Luzon;Philippines;32.1;38.5;Sunny
+Hagonoy;Davao Region;Philippines;32.1;38.5;Sunny
+Gingoog;Northern Mindanao;Philippines;28.3;31.5;Patchy rain nearby
+Davao;Davao Region;Philippines;28.3;33.4;Partly cloudy
+Cavite;Central Luzon;Philippines;33.2;42.0;Sunny
+Carmen;Ilocos;Philippines;29.3;33.4;Patchy rain nearby
+Carmen;Central Luzon;Philippines;29.3;33.4;Patchy rain nearby
+Carmen;Mimaropa;Philippines;29.3;33.4;Patchy rain nearby
+Carmen;Central Visayas;Philippines;29.3;33.4;Patchy rain nearby
+Carmen;Caraga;Philippines;29.3;33.4;Patchy rain nearby
+Carmen;Davao Region;Philippines;29.3;33.4;Patchy rain nearby
+Carmen;Soccsksargen;Philippines;29.3;33.4;Patchy rain nearby
+Cabuyao;Calabarzon;Philippines;26.0;29.0;Partly Cloudy
+Bislig;Eastern Visayas;Philippines;28.2;32.3;Patchy rain nearby
+Bislig;Caraga;Philippines;28.2;32.3;Patchy rain nearby
+Bayugan;Caraga;Philippines;28.2;31.8;Patchy rain nearby
+Baybay;Bicol Region;Philippines;29.5;34.0;Sunny
+Baybay;Eastern Visayas;Philippines;29.5;34.0;Sunny
+Barcelona;Bicol Region;Philippines;16.3;16.3;Patchy rain nearby
+Barcelona;Zamboanga Peninsula;Philippines;16.3;16.3;Patchy rain nearby
+Barcelona;Caraga;Philippines;16.3;16.3;Patchy rain nearby
+Aurora;Cagayan Valley;Philippines;22.3;24.5;Partly cloudy
+Aurora;Mimaropa;Philippines;22.3;24.5;Partly cloudy
+Aurora;Caraga;Philippines;22.3;24.5;Partly cloudy
+Aurora;Zamboanga Peninsula;Philippines;22.3;24.5;Partly cloudy
+Mandaluyong;Metro Manila;Philippines;33.2;40.2;Sunny
+Shikarpur;Sindh;Pakistan;32.4;35.0;Sunny
+Okara;Punjab;Pakistan;32.3;33.2;Sunny
+Mardan;Khyber Pakhtunkhwa;Pakistan;29.3;27.5;Mist
+Mandi Bahauddin;Punjab;Pakistan;31.7;31.3;Sunny
+Dadu;Sindh;Pakistan;24.9;26.3;Partly Cloudy
+Lublin;Lublin;Poland;9.7;7.1;Light drizzle
+Tychy;Silesia;Poland;8.3;7.4;Partly cloudy
+Konotop;Lubusz;Poland;11.2;9.7;Partly Cloudy
+Kalisz;Greater Poland;Poland;4.1;1.0;Clear
+Bydgoszcz;Kujawsko-Pomorskie;Poland;3.9;0.9;Clear
+Arecibo;Arecibo;Puerto Rico;24.1;26.7;Moderate or heavy rain with thunder
+Ponce;Ponce;Puerto Rico;27.4;30.7;Clear
+Salinas;Salinas;Puerto Rico;17.8;17.8;Sunny
+San Lorenzo;San Lorenzo;Puerto Rico;20.1;20.1;Overcast
+Boa Vista;Leiria;Portugal;26.2;29.7;Light rain shower
+Santa Rosa;Misiones Department;Paraguay;33.2;41.1;Sunny
+San Lorenzo;Central Department;Paraguay;20.1;20.1;Overcast
+San Bernardino;Cordillera Department;Paraguay;30.0;30.2;Sunny
+Lima;San Pedro Department;Paraguay;17.4;17.5;Partly Cloudy
+Ciudad del Este;Alto Paraná Department;Paraguay;19.1;19.1;Fog
+Saint-Denis;Réunion;Réunion;20.3;20.3;Clear
+Kragujevac;Central Serbia;Serbia;13.4;13.0;Thundery outbreaks in nearby
+Novi Sad;Vojvodina;Serbia;14.1;13.1;Light rain shower
+Syktyvkar;Komi;Russian Federation;5.1;2.9;Sunny
+Smolensk;Smolensk Oblast;Russian Federation;10.6;8.9;Partly Cloudy
+Moscow;Moscow;Russian Federation;12.2;11.9;Clear
+Lipetsk;Lipetsk Oblast;Russian Federation;11.5;11.1;Clear
+Kursk;Kursk Oblast;Russian Federation;10.3;9.4;Clear
+Kolpino;St.-Petersburg;Russian Federation;11.4;10.6;Fog
+Korolev;Moscow Oblast;Russian Federation;14.3;14.5;Partly cloudy
+Kaliningrad;Kaliningrad Oblast;Russian Federation;7.3;5.3;Clear
+Ivanovo;Ivanovo Oblast;Russian Federation;8.2;6.6;Sunny
+Elista;Kalmykiya Republic;Russian Federation;15.3;15.3;Clear
+Kurgan;Kurgan Oblast;Russian Federation;15.3;15.3;Patchy rain nearby
+Tabuk;Tabuk Region;Saudi Arabia;26.3;25.3;Clear
+Abha;'Asir Region;Saudi Arabia;19.3;19.3;Clear
+Omdurman;Khartoum;Sudan;27.9;29.1;Clear
+Bratislava;Bratislava Region;Slovakia;11.2;9.3;Clear
+Ziguinchor;Ziguinchor;Senegal;25.0;27.2;Clear
+Songkhla;Songkhla;Thailand;29.3;36.0;Partly cloudy
+Pak Kret;Nonthaburi;Thailand;30.3;34.3;Partly Cloudy
+Nakhon Sawan;Nakhon Sawan;Thailand;30.1;34.4;Partly Cloudy
+Ashgabat;Ashgabat;Turkmenistan;23.1;24.8;Overcast
+Sousse;Sousse Governorate;Tunisia;9.0;9.1;Partly Cloudy
+Tarsus;Mersin;Türkiye;20.0;20.0;Partly Cloudy
+Sivas;Sivas;Türkiye;8.0;8.0;Cloudy
+Osmaniye;Osmaniye;Türkiye;16.4;16.4;Clear
+Kilis;Kilis;Türkiye;18.0;18.0;Clear
+Gaziantep;Gaziantep;Türkiye;18.0;18.0;Patchy rain nearby
+Denizli;Denizli;Türkiye;12.1;11.6;Clear
+Batman;Batman;Türkiye;15.0;15.8;Clear
+Adana;Adana;Türkiye;20.0;20.0;Overcast
+Tokat;Tokat Province;Türkiye;10.6;11.0;Overcast
+Rio Claro;Mayaro;Trinidad and Tobago;16.4;16.4;Mist
+Funafuti;Funafuti;Tuvalu;31.0;39.3;Partly cloudy
+Shenzhen;Taiwan;Taiwan, Province of China;30.1;35.3;Partly Cloudy
+Nantou;Taiwan;Taiwan, Province of China;31.3;35.2;Partly cloudy
+Fengshan;Takao;Taiwan, Province of China;33.0;40.6;Partly cloudy
+Zanzibar;Zanzibar Urban/West;Tanzania, United Republic of;24.1;26.6;Patchy rain nearby
+Tabora;Tabora;Tanzania, United Republic of;19.3;19.3;Partly Cloudy
+Mwanza;Mwanza;Tanzania, United Republic of;19.5;19.5;Partly Cloudy
+Sumy;Sumy;Ukraine;10.9;9.7;Clear
+Simferopol;Crimea;Ukraine;12.7;10.3;Light rain shower
+Konotop;Sumy;Ukraine;11.2;9.7;Partly Cloudy
+Aurora;Indiana;United States;22.3;24.5;Partly cloudy
+Greensboro;Alabama;United States;19.4;19.4;Partly cloudy
+Hamilton;Alabama;United States;10.5;8.9;Fog
+Lincoln;Alabama;United States;17.8;17.8;Sunny
+Roanoke;Alabama;United States;16.7;16.7;Partly cloudy
+Rockford;Alabama;United States;13.3;13.9;Partly cloudy
+York;Alabama;United States;1.3;-1.4;Partly Cloudy
+Clarksville;Arkansas;United States;20.3;20.3;Clear
+Lincoln;Arkansas;United States;17.8;17.8;Sunny
+London;Arkansas;United States;5.4;5.2;Clear
+Warren;Arkansas;United States;10.6;8.6;Overcast
+Cape Coral;Florida;United States;27.2;32.1;Partly Cloudy
+Dundee;Florida;United States;4.3;3.8;Clear
+Memphis;Florida;United States;23.3;25.2;Partly cloudy
+Tallahassee;Florida;United States;26.1;26.3;Partly cloudy
+Arlington;Georgia;United States;28.1;31.1;Sunny
+Chatsworth;Georgia;United States;29.2;36.7;Clear
+Dallas;Georgia;United States;28.3;31.0;Partly cloudy
+Greensboro;Georgia;United States;19.4;19.4;Partly cloudy
+Hamilton;Georgia;United States;10.5;8.9;Fog
+Manchester;Georgia;United States;6.2;6.0;Clear
+Richmond Hill;Georgia;United States;8.1;6.0;Overcast
+Clarksville;Indiana;United States;20.3;20.3;Clear
+Southport;Indiana;United States;6.2;4.7;Clear
+Kansas City;Kansas;United States;19.4;19.4;Sunny
+Lincoln;Kansas;United States;17.8;17.8;Sunny
+Bellevue;Kentucky;United States;20.0;20.0;Partly cloudy
+Dayton;Kentucky;United States;13.1;11.4;Overcast
+Lancaster;Kentucky;United States;30.3;28.1;Sunny
+London;Kentucky;United States;5.4;5.2;Clear
+Manchester;Kentucky;United States;6.2;6.0;Clear
+Arlington;Maryland;United States;28.1;31.1;Sunny
+Greensboro;Maryland;United States;19.4;19.4;Partly cloudy
+Kingstown;Maryland;United States;27.0;30.1;Partly Cloudy
+La Plata;Maryland;United States;9.2;7.0;Clear
+Manchester;Maryland;United States;6.2;6.0;Clear
+Aurora;Missouri;United States;22.3;24.5;Partly cloudy
+Hamilton;Missouri;United States;10.5;8.9;Fog
+Kansas City;Missouri;United States;19.4;19.4;Sunny
+Lincoln;Missouri;United States;17.8;17.8;Sunny
+Manchester;Missouri;United States;6.2;6.0;Clear
+Dallas;North Carolina;United States;28.3;31.0;Partly cloudy
+Greensboro;North Carolina;United States;19.4;19.4;Partly cloudy
+Halifax;North Carolina;United States;6.4;2.4;Overcast
+Southport;North Carolina;United States;6.2;4.7;Clear
+Dayton;Ohio;United States;13.1;11.4;Overcast
+Hamilton;Ohio;United States;10.5;8.9;Fog
+Lancaster;Ohio;United States;30.3;28.1;Sunny
+London;Ohio;United States;5.4;5.2;Clear
+Manchester;Ohio;United States;6.2;6.0;Clear
+Newcastle;Oklahoma;United States;5.6;5.1;Clear
+Lima;Pennsylvania;United States;17.4;17.5;Partly Cloudy
+York;Pennsylvania;United States;1.3;-1.4;Partly Cloudy
+Lancaster;South Carolina;United States;30.3;28.1;Sunny
+York;South Carolina;United States;1.3;-1.4;Partly Cloudy
+Arlington;Tennessee;United States;28.1;31.1;Sunny
+Bradford;Tennessee;United States;6.4;6.3;Clear
+Clarksville;Tennessee;United States;20.3;20.3;Clear
+Dayton;Tennessee;United States;13.1;11.4;Overcast
+Manchester;Tennessee;United States;6.2;6.0;Clear
+Memphis;Tennessee;United States;23.3;25.2;Partly cloudy
+Arlington;Texas;United States;28.1;31.1;Sunny
+Aurora;Texas;United States;22.3;24.5;Partly cloudy
+Clarksville;Texas;United States;20.3;20.3;Clear
+Dallas;Texas;United States;28.3;31.0;Partly cloudy
+Dayton;Texas;United States;13.1;11.4;Overcast
+Garland;Texas;United States;28.2;30.7;Sunny
+Grand Prairie;Texas;United States;28.1;30.9;Sunny
+Hamilton;Texas;United States;10.5;8.9;Fog
+Hidalgo;Texas;United States;29.9;27.7;Overcast
+Lancaster;Texas;United States;30.3;28.1;Sunny
+Laredo;Texas;United States;34.4;39.4;Thundery outbreaks in nearby
+Roanoke;Texas;United States;16.7;16.7;Partly cloudy
+Santa Rosa;Texas;United States;33.2;41.1;Sunny
+Sunnyvale;Texas;United States;18.2;18.2;Sunny
+Arlington;Virginia;United States;28.1;31.1;Sunny
+Clarksville;Virginia;United States;20.3;20.3;Clear
+Dayton;Virginia;United States;13.1;11.4;Overcast
+Halifax;Virginia;United States;6.4;2.4;Overcast
+Lancaster;Virginia;United States;30.3;28.1;Sunny
+Roanoke;Virginia;United States;16.7;16.7;Partly cloudy
+South Hill;Virginia;United States;18.3;18.3;Overcast
+Manchester;Connecticut;United States;6.2;6.0;Clear
+Southport;Connecticut;United States;6.2;4.7;Clear
+Akron;Iowa;United States;10.3;8.3;Light rain
+Bellevue;Iowa;United States;20.0;20.0;Partly cloudy
+Clarksville;Iowa;United States;20.3;20.3;Clear
+Manchester;Iowa;United States;6.2;6.0;Clear
+Tama;Iowa;United States;29.3;31.8;Clear
+Aurora;Illinois;United States;22.3;24.5;Partly cloudy
+Bellevue;Illinois;United States;20.0;20.0;Partly cloudy
+Chatsworth;Illinois;United States;29.2;36.7;Clear
+Hamilton;Illinois;United States;10.5;8.9;Fog
+Joliet;Illinois;United States;13.3;13.2;Overcast
+Lincoln;Illinois;United States;17.8;17.8;Sunny
+Peoria;Illinois;United States;39.4;39.0;Sunny
+Roanoke;Illinois;United States;16.7;16.7;Partly cloudy
+Rockford;Illinois;United States;13.3;13.9;Partly cloudy
+Toulon;Illinois;United States;15.0;13.9;Clear
+Warren;Illinois;United States;10.6;8.6;Overcast
+Woodridge;Illinois;United States;11.1;10.9;Overcast
+Akron;Indiana;United States;10.3;8.3;Light rain
+Dayton;Indiana;United States;13.1;11.4;Overcast
+Hamilton;Indiana;United States;10.5;8.9;Fog
+Roanoke;Indiana;United States;16.7;16.7;Partly cloudy
+Warren;Indiana;United States;10.6;8.6;Overcast
+Arlington;Massachusetts;United States;28.1;31.1;Sunny
+Bellevue;Massachusetts;United States;20.0;20.0;Partly cloudy
+Brockton;Massachusetts;United States;8.3;4.4;Moderate or heavy rain with thunder
+Halifax;Massachusetts;United States;6.4;2.4;Overcast
+Lancaster;Massachusetts;United States;30.3;28.1;Sunny
+Lincoln;Massachusetts;United States;17.8;17.8;Sunny
+Southampton;Massachusetts;United States;9.4;9.4;Partly cloudy
+Warren;Massachusetts;United States;10.6;8.6;Overcast
+Bradford;Maine;United States;6.4;6.3;Clear
+Garland;Maine;United States;28.2;30.7;Sunny
+Lincoln;Maine;United States;17.8;17.8;Sunny
+Manchester;Maine;United States;6.2;6.0;Clear
+Warren;Maine;United States;10.6;8.6;Overcast
+Bellevue;Michigan;United States;20.0;20.0;Partly cloudy
+Dundee;Michigan;United States;4.3;3.8;Clear
+Manchester;Michigan;United States;6.2;6.0;Clear
+Memphis;Michigan;United States;23.3;25.2;Partly cloudy
+Rockford;Michigan;United States;13.3;13.9;Partly cloudy
+Saint Louis;Michigan;United States;16.7;16.7;Overcast
+Sterling Heights;Michigan;United States;10.0;7.7;Overcast
+Warren;Michigan;United States;10.6;8.6;Overcast
+Arlington;Minnesota;United States;28.1;31.1;Sunny
+Aurora;Minnesota;United States;22.3;24.5;Partly cloudy
+Dayton;Minnesota;United States;13.1;11.4;Overcast
+Rockford;Minnesota;United States;13.3;13.9;Partly cloudy
+Warren;Minnesota;United States;10.6;8.6;Overcast
+La Plata;Missouri;United States;9.2;7.0;Clear
+Lancaster;Missouri;United States;30.3;28.1;Sunny
+Memphis;Missouri;United States;23.3;25.2;Partly cloudy
+Arlington;Nebraska;United States;28.1;31.1;Sunny
+Aurora;Nebraska;United States;22.3;24.5;Partly cloudy
+Bellevue;Nebraska;United States;20.0;20.0;Partly cloudy
+Lincoln;Nebraska;United States;17.8;17.8;Sunny
+York;Nebraska;United States;1.3;-1.4;Partly Cloudy
+Lancaster;New Hampshire;United States;30.3;28.1;Sunny
+Manchester;New Hampshire;United States;6.2;6.0;Clear
+Dayton;New Jersey;United States;13.1;11.4;Overcast
+Akron;New York;United States;10.3;8.3;Light rain
+Arlington;New York;United States;28.1;31.1;Sunny
+Dundee;New York;United States;4.3;3.8;Clear
+Hamilton;New York;United States;10.5;8.9;Fog
+Lancaster;New York;United States;30.3;28.1;Sunny
+Lima;New York;United States;17.4;17.5;Partly Cloudy
+Manchester;New York;United States;6.2;6.0;Clear
+Richmond Hill;New York;United States;8.1;6.0;Overcast
+Salamanca;New York;United States;8.1;5.8;Clear
+South Hill;New York;United States;18.3;18.3;Overcast
+Southampton;New York;United States;9.4;9.4;Partly cloudy
+Southport;New York;United States;6.2;4.7;Clear
+Springs;New York;United States;5.2;3.3;Clear
+Akron;Ohio;United States;10.3;8.3;Light rain
+Arlington;Ohio;United States;28.1;31.1;Sunny
+Aurora;Ohio;United States;22.3;24.5;Partly cloudy
+Bellevue;Ohio;United States;20.0;20.0;Partly cloudy
+Bradford;Ohio;United States;6.4;6.3;Clear
+Lima;Ohio;United States;17.4;17.5;Partly Cloudy
+Rockford;Ohio;United States;13.3;13.9;Partly cloudy
+Warren;Ohio;United States;10.6;8.6;Overcast
+Akron;Pennsylvania;United States;10.3;8.3;Light rain
+Bellevue;Pennsylvania;United States;20.0;20.0;Partly cloudy
+Bradford;Pennsylvania;United States;6.4;6.3;Clear
+Dallas;Pennsylvania;United States;28.3;31.0;Partly cloudy
+Lancaster;Pennsylvania;United States;30.3;28.1;Sunny
+Lincoln;Pennsylvania;United States;17.8;17.8;Sunny
+Manchester;Pennsylvania;United States;6.2;6.0;Clear
+Moscow;Pennsylvania;United States;12.2;11.9;Clear
+Warren;Pennsylvania;United States;10.6;8.6;Overcast
+Bradford;Rhode Island;United States;6.4;6.3;Clear
+Warren;Rhode Island;United States;10.6;8.6;Overcast
+Arlington;Vermont;United States;28.1;31.1;Sunny
+Lincoln;Vermont;United States;17.8;17.8;Sunny
+Bellevue;Wisconsin;United States;20.0;20.0;Partly cloudy
+Fontana;Wisconsin;United States;27.8;27.6;Sunny
+Lancaster;Wisconsin;United States;30.3;28.1;Sunny
+Manchester;Wisconsin;United States;6.2;6.0;Clear
+Peoria;Arizona;United States;39.4;39.0;Sunny
+Chatsworth;California;United States;29.2;36.7;Clear
+Citrus Heights;California;United States;25.3;24.8;Sunny
+Compton;California;United States;21.1;21.1;Partly Cloudy
+El Monte;California;United States;26.1;26.4;Sunny
+Fontana;California;United States;27.8;27.6;Sunny
+Garden Grove;California;United States;20.2;20.2;Sunny
+Lancaster;California;United States;30.3;28.1;Sunny
+Lincoln;California;United States;17.8;17.8;Sunny
+London;California;United States;5.4;5.2;Clear
+Newcastle;California;United States;5.6;5.1;Clear
+Salinas;California;United States;17.8;17.8;Sunny
+San Bernardino;California;United States;30.0;30.2;Sunny
+San Lorenzo;California;United States;20.1;20.1;Overcast
+Santa Rosa;California;United States;33.2;41.1;Sunny
+Sunnyvale;California;United States;18.2;18.2;Sunny
+Valencia;California;United States;21.3;21.3;Clear
+Aurora;Colorado;United States;22.3;24.5;Partly cloudy
+Santa Rosa;New Mexico;United States;33.2;41.1;Sunny
+Valencia;New Mexico;United States;21.3;21.3;Clear
+Dayton;Nevada;United States;13.1;11.4;Overcast
+Memphis;Texas;United States;23.3;25.2;Partly cloudy
+Aurora;Utah;United States;22.3;24.5;Partly cloudy
+Akron;Colorado;United States;10.3;8.3;Light rain
+Bellevue;Idaho;United States;20.0;20.0;Partly cloudy
+Lincoln;Idaho;United States;17.8;17.8;Sunny
+Moscow;Idaho;United States;12.2;11.9;Clear
+Hamilton;Montana;United States;10.5;8.9;Fog
+Lincoln;Montana;United States;17.8;17.8;Sunny
+Lincoln;North Dakota;United States;17.8;17.8;Sunny
+Dallas;Oregon;United States;28.3;31.0;Partly cloudy
+Dayton;Oregon;United States;13.1;11.4;Overcast
+Dundee;Oregon;United States;4.3;3.8;Clear
+Warren;Oregon;United States;10.6;8.6;Overcast
+Garland;Utah;United States;28.2;30.7;Sunny
+Arlington;Washington;United States;28.1;31.1;Sunny
+Bellevue;Washington;United States;20.0;20.0;Partly cloudy
+Dayton;Washington;United States;13.1;11.4;Overcast
+Manchester;Washington;United States;6.2;6.0;Clear
+Newcastle;Washington;United States;5.6;5.1;Clear
+South Hill;Washington;United States;19.1;19.1;Overcast
+Vancouver;Washington;United States;17.0;17.0;Partly cloudy
+Newcastle;Wyoming;United States;5.6;5.1;Clear
+Dayton;Maine;United States;13.1;11.4;Overcast
+Lincoln;Rhode Island;United States;17.8;17.8;Sunny
+Santa Rosa;Canelones;Uruguay;33.2;41.1;Sunny
+La Paz;Canelones;Uruguay;5.3;2.5;Clear
+Kingstown;Saint George Parish;Saint Vincent and the Grenadines;27.0;30.1;Partly Cloudy
+Valencia;Carabobo;Venezuela, Bolivarian Republic of;21.3;21.3;Clear
+Santa Rosa;Barinas;Venezuela, Bolivarian Republic of;33.2;41.1;Sunny
+San Lorenzo;Sucre;Venezuela, Bolivarian Republic of;20.1;20.1;Overcast
+Ocumare del Tuy;Miranda;Venezuela, Bolivarian Republic of;26.3;29.8;Partly Cloudy
+La Plata;Zulia;Venezuela, Bolivarian Republic of;9.2;7.0;Clear
+Caracas;Distrito Federal;Venezuela, Bolivarian Republic of;26.3;29.7;Partly Cloudy
+Barcelona;Anzoátegui;Venezuela, Bolivarian Republic of;16.3;16.3;Patchy rain nearby
+Charlotte Amalie;Saint Thomas Island;Virgin Islands, U.S.;28.3;36.8;Overcast
+Vinh;Nghệ An Province;Viet Nam;29.0;33.7;Sunny
+Nha Trang;Khánh Hòa Province;Viet Nam;28.2;32.2;Partly Cloudy
+Hanoi;Hanoi;Viet Nam;29.1;34.9;Moderate or heavy rain with thunder
+Haiphong;Haiphong;Viet Nam;28.4;34.0;Patchy light rain
+Cam Ranh;Khánh Hòa Province;Viet Nam;28.0;31.3;Sunny
+Leshan;Prizren;XK;27.2;27.8;Partly Cloudy
+Sanaa;Amanat Alasimah;Yemen;17.4;17.4;Clear
+Aden;Aden;Yemen;31.1;37.8;Overcast
+Springs;Gauteng;South Africa;5.2;3.3;Clear
+Soshanguve;Gauteng;South Africa;8.1;6.8;Clear
+Rustenburg;North West;South Africa;9.1;7.6;Clear
+Newcastle;KwaZulu-Natal;South Africa;5.6;5.1;Clear
+Klerksdorp;North West;South Africa;7.4;6.4;Clear
+Kimberley;Northern Cape;South Africa;4.0;0.6;Clear
+Johannesburg;Gauteng;South Africa;10.7;10.4;Clear
+Dundee;KwaZulu-Natal;South Africa;4.3;3.8;Clear
+Botshabelo;Free State;South Africa;2.1;-0.9;Clear
+Boksburg;Gauteng;South Africa;9.9;9.4;Clear
+Arlington;Free State;South Africa;28.1;31.1;Sunny
+Amersfoort;Mpumalanga;South Africa;4.1;1.1;Patchy rain nearby
+Paarl;Western Cape;South Africa;10.1;8.9;Clear
+Chatsworth;Western Cape;South Africa;29.2;36.7;Clear
+Kitwe;Copperbelt;Zambia;15.9;15.9;Clear

@@ -1,0 +1,709 @@
+primeiro_nome;ultimo_nome;endereco;cidade;estado;pais;aqius;classificacao_aqi
+MARY;SMITH;1913 Hanoi Way;Sasebo;Nagasaki;Japan;54.0;Moderado (Amarelo)
+PATRICIA;JOHNSON;1121 Loja Avenue;San Bernardino;Suchitepeque;Guatemala;;Desconhecido
+PATRICIA;JOHNSON;1121 Loja Avenue;San Bernardino;México;Mexico;;Desconhecido
+LINDA;WILLIAMS;692 Joliet Street;Athenai;;;;Desconhecido
+BARBARA;JONES;1566 Inegl Manor;Myingyan;Mandalay Region;Myanmar;;Desconhecido
+ELIZABETH;BROWN;53 Idfu Parkway;Nantou;Guangdong;China;;Desconhecido
+JENNIFER;DAVIS;1795 Santiago de Compostela Way;Laredo;Cantabria;Spain;;Desconhecido
+MARIA;MILLER;900 Santiago de Compostela Parkway;Kragujevac;;;;Desconhecido
+SUSAN;WILSON;478 Joliet Way;Hamilton;Victoria;Australia;121.0;Ruim para Grupos Sensíveis (Laranja)
+SUSAN;WILSON;478 Joliet Way;Hamilton;Queensland;Australia;52.0;Moderado (Amarelo)
+SUSAN;WILSON;478 Joliet Way;Hamilton;New South Wales;Australia;;Desconhecido
+SUSAN;WILSON;478 Joliet Way;Hamilton;Hamilton city;Bermuda;;Desconhecido
+SUSAN;WILSON;478 Joliet Way;Hamilton;Ontario;Canada;17.0;Bom (Verde)
+SUSAN;WILSON;478 Joliet Way;Hamilton;Scotland;United Kingdom;;Desconhecido
+MARGARET;MOORE;613 Korolev Drive;Masqat;;;;Desconhecido
+DOROTHY;TAYLOR;1531 Sal Drive;Esfahan;;;;Desconhecido
+LISA;ANDERSON;1542 Tarlac Parkway;Sagamihara;;;;Desconhecido
+NANCY;THOMAS;808 Bhopal Manor;Yamuna Nagar;Haryana;India;;Desconhecido
+KAREN;JACKSON;270 Amroha Parkway;Osmaniye;;;;Desconhecido
+BETTY;WHITE;770 Bydgoszcz Avenue;Citrus Heights;;;;Desconhecido
+HELEN;HARRIS;419 Iligan Lane;Bhopal;;;;Desconhecido
+SANDRA;MARTIN;360 Toulouse Parkway;Southend-on-Sea;England;United Kingdom;;Desconhecido
+DONNA;THOMPSON;270 Toulon Boulevard;Elista;;;;Desconhecido
+CAROL;GARCIA;320 Brest Avenue;Kaduna;;;;Desconhecido
+RUTH;MARTINEZ;1417 Lancaster Avenue;Kimberley;British Columbia;Canada;17.0;Bom (Verde)
+RUTH;MARTINEZ;1417 Lancaster Avenue;Kimberley;England;United Kingdom;33.0;Bom (Verde)
+SHARON;ROBINSON;1688 Okara Way;Mardan;;;;Desconhecido
+MICHELLE;CLARK;262 A Corua (La Corua) Parkway;Tangail;;;;Desconhecido
+LAURA;RODRIGUEZ;28 Charlotte Amalie Street;Sal;;;;Desconhecido
+SARAH;LEWIS;1780 Hino Boulevard;Liepaja;;;;Desconhecido
+KIMBERLY;LEE;96 Tafuna Way;Crdoba;;;;Desconhecido
+DEBORAH;WALKER;934 San Felipe de Puerto Plata Street;Shikarpur;;;;Desconhecido
+JESSICA;HALL;18 Duisburg Boulevard;Citt del Vaticano;;;;Desconhecido
+SHIRLEY;ALLEN;217 Botshabelo Place;Davao;;;;Desconhecido
+CYNTHIA;YOUNG;1425 Shikarpur Manor;Munger (Monghyr);;;;Desconhecido
+ANGELA;HERNANDEZ;786 Aurora Avenue;Shimonoseki;Yamaguchi;Japan;56.0;Moderado (Amarelo)
+MELISSA;KING;1668 Anpolis Street;Lungtan;;;;Desconhecido
+BRENDA;WRIGHT;33 Gorontalo Way;Kamarhati;;;;Desconhecido
+AMY;LOPEZ;176 Mandaluyong Place;Jhansi;;;;Desconhecido
+ANNA;HILL;127 Purnea (Purnia) Manor;Alessandria;Piedmont;Italy;;Desconhecido
+REBECCA;SCOTT;61 Tama Street;Kurashiki;Okayama;Japan;70.0;Moderado (Amarelo)
+VIRGINIA;GREEN;391 Callao Drive;Toulouse;Occitanie;France;56.0;Moderado (Amarelo)
+KATHLEEN;ADAMS;334 Munger (Monghyr) Lane;Arak;;;;Desconhecido
+PAMELA;BAKER;1440 Fukuyama Loop;Nanyang;Henan;China;132.0;Ruim para Grupos Sensíveis (Laranja)
+PAMELA;BAKER;1440 Fukuyama Loop;Nanyang;Gansu;China;;Desconhecido
+MARTHA;GONZALEZ;269 Cam Ranh Parkway;Chisinau;Chișinău Municipality;Moldova, Republic of;;Desconhecido
+DEBRA;NELSON;306 Antofagasta Place;Vila Velha;Espírito Santo;Brazil;;Desconhecido
+AMANDA;CARTER;671 Graz Street;Nador;Oriental;Morocco;;Desconhecido
+STEPHANIE;MITCHELL;42 Brindisi Place;Yerevan;Yerevan;Armenia;53.0;Moderado (Amarelo)
+CAROLYN;PEREZ;1632 Bislig Avenue;Pak Kret;;;;Desconhecido
+CHRISTINE;ROBERTS;1447 Imus Way;Faaa;;;;Desconhecido
+MARIE;TURNER;1998 Halifax Drive;Lipetsk;;;;Desconhecido
+JANET;PHILLIPS;1718 Valencia Street;Antofagasta;Antofagasta;Chile;;Desconhecido
+CATHERINE;CAMPBELL;46 Pjatigorsk Lane;Moscow;;;;Desconhecido
+FRANCES;PARKER;686 Garland Manor;Juazeiro do Norte;Ceará;Brazil;;Desconhecido
+ANN;EVANS;909 Garland Manor;Niznekamsk;;;;Desconhecido
+JOYCE;EDWARDS;725 Isesaki Place;Jedda;;;;Desconhecido
+DIANE;COLLINS;115 Hidalgo Parkway;Omdurman;;;;Desconhecido
+ALICE;STEWART;1135 Izumisano Parkway;Fontana;Chaco;Argentina;;Desconhecido
+ALICE;STEWART;1135 Izumisano Parkway;Fontana;Il-Fontana;Malta;;Desconhecido
+JULIE;SANCHEZ;939 Probolinggo Loop;A Corua (La Corua);;;;Desconhecido
+HEATHER;MORRIS;17 Kabul Boulevard;Nagareyama;Chiba;Japan;50.0;Bom (Verde)
+TERESA;ROGERS;1964 Allappuzha (Alleppey) Street;Iwakuni;Yamaguchi;Japan;69.0;Moderado (Amarelo)
+DORIS;REED;1697 Kowloon and New Kowloon Loop;Balaiha;;;;Desconhecido
+GLORIA;COOK;1668 Saint Louis Place;Papeete;;;;Desconhecido
+EVELYN;MORGAN;943 Tokat Street;Vaduz;Vaduz;Liechtenstein;;Desconhecido
+JEAN;BELL;1114 Liepaja Street;Kuching;;;;Desconhecido
+CHERYL;MURPHY;1213 Ranchi Parkway;Mysore;Karnataka;India;;Desconhecido
+MILDRED;BAILEY;81 Hodeida Way;Jaipur;Rajasthan;India;125.0;Ruim para Grupos Sensíveis (Laranja)
+KATHERINE;RIVERA;915 Ponce Place;Basel;Basel-City;Switzerland;42.0;Bom (Verde)
+JOAN;COOPER;1717 Guadalajara Lane;Saint Louis;;;;Desconhecido
+ASHLEY;RICHARDSON;1214 Hanoi Way;Lincoln;Buenos Aires;Argentina;;Desconhecido
+ASHLEY;RICHARDSON;1214 Hanoi Way;Lincoln;New Brunswick;Canada;;Desconhecido
+ASHLEY;RICHARDSON;1214 Hanoi Way;Lincoln;England;United Kingdom;;Desconhecido
+JUDITH;COX;1966 Amroha Avenue;Daxian;;;;Desconhecido
+ROSE;HOWARD;698 Otsu Street;Cayenne;Guyane;French Guiana;;Desconhecido
+JANICE;WARD;1150 Kimchon Manor;Malm;;;;Desconhecido
+KELLY;TORRES;1586 Guaruj Place;Xiangtan;Hunan;China;79.0;Moderado (Amarelo)
+NICOLE;PETERSON;57 Arlington Manor;Shivapuri;;;;Desconhecido
+JUDY;GRAY;1031 Daugavpils Parkway;Bchar;;;;Desconhecido
+CHRISTINA;RAMIREZ;1124 Buenaventura Drive;al-Hawiya;;;;Desconhecido
+KATHY;JAMES;492 Cam Ranh Street;Baybay;;;;Desconhecido
+THERESA;WATSON;89 Allappuzha (Alleppey) Manor;Taguig;;;;Desconhecido
+BEVERLY;BROOKS;1947 Poos de Caldas Boulevard;Chiayi;;;;Desconhecido
+DENISE;KELLY;1206 Dos Quebradas Place;Rio Claro;Rio de Janeiro;Brazil;;Desconhecido
+DENISE;KELLY;1206 Dos Quebradas Place;Rio Claro;São Paulo;Brazil;50.0;Bom (Verde)
+TAMMY;SANDERS;1551 Rampur Lane;Changhwa;;;;Desconhecido
+IRENE;PRICE;602 Paarl Street;Pavlodar;Pavlodar Region;Kazakhstan;;Desconhecido
+JANE;BENNETT;1692 Ede Loop;Araatuba;;;;Desconhecido
+LORI;WOOD;936 Salzburg Lane;Rae Bareli;;;;Desconhecido
+RACHEL;BARNES;586 Tete Way;Kamakura;Kanagawa;Japan;56.0;Moderado (Amarelo)
+MARILYN;ROSS;1888 Kabul Drive;Ife;;;;Desconhecido
+ANDREA;HENDERSON;320 Baiyin Parkway;Mahajanga;Boeny;Madagascar;;Desconhecido
+KATHRYN;COLEMAN;927 Baha Blanca Parkway;Simferopol;;;;Desconhecido
+LOUISE;JENKINS;929 Tallahassee Loop;Springs;;;;Desconhecido
+SARA;PERRY;213 Koinah Pilik;Springs;;;;Desconhecido
+ANNE;POWELL;1557 Ktahya Boulevard;Bradford;England;United Kingdom;37.0;Bom (Verde)
+JACQUELINE;LONG;870 Ashqelon Loop;Songkhla;;;;Desconhecido
+WANDA;PATTERSON;1740 Portoviejo Avenue;Sincelejo;Sucre Department;Colombia;;Desconhecido
+BONNIE;HUGHES;1942 Ciparay Parkway;Cheju;;;;Desconhecido
+JULIA;FLORES;1926 El Alto Avenue;La Plata;Buenos Aires;Argentina;;Desconhecido
+JULIA;FLORES;1926 El Alto Avenue;La Plata;Huila Department;Colombia;;Desconhecido
+RUBY;WASHINGTON;1952 Chatsworth Drive;Meixian;Guangdong;China;;Desconhecido
+LOIS;BUTLER;1370 Le Mans Avenue;Bandar Seri Begawan;Brunei-Muara District;Brunei Darussalam;;Desconhecido
+TINA;SIMMONS;984 Effon-Alaiye Avenue;Goinia;;;;Desconhecido
+PHYLLIS;FOSTER;832 Nakhon Sawan Manor;Zalantun;;;;Desconhecido
+NORMA;GONZALES;152 Kitwe Parkway;Bislig;;;;Desconhecido
+PAULA;BRYANT;1697 Tanauan Lane;Pathankot;;;;Desconhecido
+DIANA;ALEXANDER;1308 Arecibo Way;Augusta-Richmond County;;;;Desconhecido
+ANNIE;RUSSELL;1599 Plock Drive;Tete;;;;Desconhecido
+LILLIAN;GRIFFIN;669 Firozabad Loop;al-Ayn;;;;Desconhecido
+EMILY;DIAZ;588 Vila Velha Manor;Kimchon;;;;Desconhecido
+ROBIN;HAYES;1913 Kamakura Place;Jelets;;;;Desconhecido
+PEGGY;MYERS;733 Mandaluyong Place;Abha;;;;Desconhecido
+CRYSTAL;FORD;659 Vaduz Drive;Ashdod;Southern District;Israel;91.0;Moderado (Amarelo)
+GLADYS;HAMILTON;1177 Jelets Way;Ilorin;;;;Desconhecido
+RITA;GRAHAM;1386 Yangor Avenue;Toulon;Provence-Alpes-Côte d'Azur;France;;Desconhecido
+DAWN;SULLIVAN;454 Nakhon Sawan Boulevard;Funafuti;;;;Desconhecido
+CONNIE;WALLACE;1867 San Juan Bautista Tuxtepec Avenue;Ivanovo;Ruse;Bulgaria;;Desconhecido
+CONNIE;WALLACE;1867 San Juan Bautista Tuxtepec Avenue;Ivanovo;Brest;Belarus;;Desconhecido
+FLORENCE;WOODS;1532 Dzerzinsk Way;Merlo;Buenos Aires;Argentina;;Desconhecido
+FLORENCE;WOODS;1532 Dzerzinsk Way;Merlo;San Luis;Argentina;;Desconhecido
+TRACY;COLE;1002 Ahmadnagar Manor;Huixquilucan;;;;Desconhecido
+EDNA;WEST;682 Junan Way;Klerksdorp;;;;Desconhecido
+TIFFANY;JORDAN;804 Elista Drive;Enshi;Hubei;China;79.0;Moderado (Amarelo)
+CARMEN;OWENS;1378 Alvorada Avenue;Caracas;;;;Desconhecido
+ROSA;REYNOLDS;793 Cam Ranh Avenue;Lancaster;England;United Kingdom;28.0;Bom (Verde)
+CINDY;FISHER;1079 Tel Aviv-Jaffa Boulevard;Cuman;;;;Desconhecido
+GRACE;ELLIS;442 Rae Bareli Place;Duisburg;Flanders;Belgium;;Desconhecido
+GRACE;ELLIS;442 Rae Bareli Place;Duisburg;North Rhine-Westphalia;Germany;;Desconhecido
+WENDY;HARRISON;1107 Nakhon Sawan Avenue;Nezahualcyotl;;;;Desconhecido
+VICTORIA;GIBSON;544 Malm Parkway;Pemalang;Central Java;Indonesia;;Desconhecido
+EDITH;MCDONALD;1967 Sincelejo Place;Gandhinagar;Gujarat;India;95.0;Moderado (Amarelo)
+KIM;CRUZ;333 Goinia Way;Grand Prairie;;;;Desconhecido
+SHERRY;MARSHALL;1987 Coacalco de Berriozbal Loop;Shubra al-Khayma;;;;Desconhecido
+SYLVIA;ORTIZ;241 Mosul Lane;Dos Quebradas;;;;Desconhecido
+JOSEPHINE;GOMEZ;211 Chiayi Drive;Etawah;;;;Desconhecido
+THELMA;MURRAY;1175 Tanauan Way;Lima;;;;Desconhecido
+SHANNON;FREEMAN;117 Boa Vista Way;Varanasi (Benares);;;;Desconhecido
+SHEILA;WELLS;848 Tafuna Manor;Ktahya;;;;Desconhecido
+ETHEL;WEBB;569 Baicheng Lane;Boksburg;;;;Desconhecido
+ELLEN;SIMPSON;1666 Qomsheh Drive;Po;;;;Desconhecido
+ELAINE;STEVENS;801 Hagonoy Drive;Smolensk;;;;Desconhecido
+MARJORIE;TUCKER;1050 Garden Grove Avenue;Jastrzebie-Zdrj;;;;Desconhecido
+CARRIE;PORTER;1854 Tieli Street;Liaocheng;Shandong;China;129.0;Ruim para Grupos Sensíveis (Laranja)
+CHARLOTTE;HUNTER;758 Junan Lane;guas Lindas de Gois;;;;Desconhecido
+MONICA;HICKS;1752 So Leopoldo Parkway;Mukateve;;;;Desconhecido
+ESTHER;CRAWFORD;898 Belm Manor;Botshabelo;;;;Desconhecido
+PAULINE;HENRY;261 Saint Louis Way;Torren;;;;Desconhecido
+EMMA;BOYD;765 Southampton Drive;Qalyub;Qalyubia;Egypt;;Desconhecido
+JUANITA;MASON;943 Johannesburg Avenue;Pune;Maharashtra;India;57.0;Moderado (Amarelo)
+ANITA;MORALES;788 Atinsk Street;Hubli-Dharwad;;;;Desconhecido
+RHONDA;KENNEDY;1749 Daxian Place;Apeldoorn;;;;Desconhecido
+HAZEL;WARREN;1587 Sullana Lane;Hohhot;Inner Mongolia;China;107.0;Ruim para Grupos Sensíveis (Laranja)
+AMBER;DIXON;1029 Dzerzinsk Manor;Touliu;;;;Desconhecido
+EVA;RAMOS;1666 Beni-Mellal Place;Clarksville;;;;Desconhecido
+DEBBIE;REYES;928 Jaffna Loop;Fukuyama;Hiroshima;Japan;73.0;Moderado (Amarelo)
+APRIL;BURNS;483 Ljubertsy Parkway;Dundee;Scotland;United Kingdom;;Desconhecido
+LESLIE;GORDON;374 Bat Yam Boulevard;Kilis;;;;Desconhecido
+CLARA;SHAW;1027 Songkhla Manor;Molodetno;;;;Desconhecido
+LUCILLE;HOLMES;999 Sanaa Loop;Soshanguve;;;;Desconhecido
+JAMIE;RICE;879 Newcastle Way;Sterling Heights;;;;Desconhecido
+JOANNE;ROBERTSON;1337 Lincoln Parkway;Urawa;;;;Desconhecido
+ELEANOR;HUNT;1952 Pune Lane;Saint-Denis;Wallonia;Belgium;;Desconhecido
+ELEANOR;HUNT;1952 Pune Lane;Saint-Denis;Île-de-France;France;;Desconhecido
+ELEANOR;HUNT;1952 Pune Lane;Saint-Denis;Aosta Valley;Italy;;Desconhecido
+VALERIE;BLACK;782 Mosul Street;Brockton;;;;Desconhecido
+DANIELLE;DANIELS;781 Shimonoseki Drive;Hidalgo;Coahuila;Mexico;;Desconhecido
+DANIELLE;DANIELS;781 Shimonoseki Drive;Hidalgo;Tamaulipas;Mexico;;Desconhecido
+DANIELLE;DANIELS;781 Shimonoseki Drive;Hidalgo;Chiapas;Mexico;;Desconhecido
+MEGAN;PALMER;1560 Jelets Boulevard;Laiwu;Shandong;China;;Desconhecido
+ALICIA;MILLS;1963 Moscow Place;Nagaon;Assam;India;71.0;Moderado (Amarelo)
+SUZANNE;NICHOLS;456 Escobar Way;Jakarta;Jakarta;Indonesia;71.0;Moderado (Amarelo)
+MICHELE;GRANT;798 Cianjur Avenue;Yuncheng;Shandong;China;;Desconhecido
+MICHELE;GRANT;798 Cianjur Avenue;Yuncheng;Shanxi;China;60.0;Moderado (Amarelo)
+GAIL;KNIGHT;185 Novi Sad Place;Bern;Bern;Switzerland;28.0;Bom (Verde)
+BERTHA;FERGUSON;1367 Yantai Manor;Ondo;;;;Desconhecido
+DARLENE;ROSE;1386 Nakhon Sawan Boulevard;Pyongyang;Pyongyang;Korea, Democratic People's Republic of;;Desconhecido
+VERONICA;STONE;369 Papeete Way;Greensboro;;;;Desconhecido
+JILL;HAWKINS;1440 Compton Place;Linz;Upper Austria;Austria;32.0;Bom (Verde)
+ERIN;DUNN;1623 Baha Blanca Manor;Ljubertsy;;;;Desconhecido
+GERALDINE;PERKINS;97 Shimoga Avenue;Tel Aviv-Jaffa;;;;Desconhecido
+LAUREN;HUDSON;1740 Le Mans Loop;Le Mans;Pays de la Loire;France;43.0;Bom (Verde)
+CATHY;SPENCER;1287 Xiangfan Boulevard;Kakamigahara;Gifu;Japan;55.0;Moderado (Amarelo)
+JOANN;GARDNER;842 Salzburg Lane;Tarsus;;;;Desconhecido
+LORRAINE;STEPHENS;154 Tallahassee Loop;Hami;Xinjiang;China;;Desconhecido
+LYNN;PAYNE;710 San Felipe del Progreso Avenue;Lilongwe;Central Region;Malawi;;Desconhecido
+SALLY;PIERCE;1540 Wroclaw Drive;Chandrapur;Chhattisgarh;India;;Desconhecido
+SALLY;PIERCE;1540 Wroclaw Drive;Chandrapur;Gujarat;India;;Desconhecido
+REGINA;BERRY;475 Atinsk Way;Jinchang;Gansu;China;53.0;Moderado (Amarelo)
+REGINA;BERRY;475 Atinsk Way;Jinchang;Shanxi;China;;Desconhecido
+ERICA;MATTHEWS;1294 Firozabad Drive;Pingxiang;Gansu;China;;Desconhecido
+ERICA;MATTHEWS;1294 Firozabad Drive;Pingxiang;Hebei;China;;Desconhecido
+ERICA;MATTHEWS;1294 Firozabad Drive;Pingxiang;Jiangxi;China;62.0;Moderado (Amarelo)
+BEATRICE;ARNOLD;1877 Ezhou Lane;Udaipur;Rajasthan;India;130.0;Ruim para Grupos Sensíveis (Laranja)
+BEATRICE;ARNOLD;1877 Ezhou Lane;Udaipur;Tripura;India;;Desconhecido
+DOLORES;WAGNER;316 Uruapan Street;Ipoh;;;;Desconhecido
+BERNICE;WILLIS;29 Pyongyang Loop;Batman;;;;Desconhecido
+AUDREY;RAY;1010 Klerksdorp Way;Graz;Styria;Austria;56.0;Moderado (Amarelo)
+YVONNE;WATKINS;1848 Salala Boulevard;Ocumare del Tuy;;;;Desconhecido
+ANNETTE;OLSON;431 Xiangtan Avenue;Allappuzha (Alleppey);;;;Desconhecido
+JUNE;CARROLL;757 Rustenburg Avenue;Skikda;Skikda;Algeria;;Desconhecido
+SAMANTHA;DUNCAN;146 Johannesburg Way;Matamoros;Campeche;Mexico;;Desconhecido
+MARION;SNYDER;1891 Rizhao Boulevard;Santa Brbara dOeste;;;;Desconhecido
+DANA;HART;1089 Iwatsuki Avenue;Kirovo-Tepetsk;;;;Desconhecido
+STACY;CUNNINGHAM;1410 Benin City Parkway;Pereira;Risaralda Department;Colombia;;Desconhecido
+ANA;BRADLEY;682 Garden Grove Place;Memphis;;;;Desconhecido
+RENEE;LANE;533 al-Ayn Boulevard;Compton;England;United Kingdom;;Desconhecido
+IDA;ANDREWS;1839 Szkesfehrvr Parkway;Luzinia;;;;Desconhecido
+VIVIAN;RUIZ;741 Ambattur Manor;s-Hertogenbosch;;;;Desconhecido
+ROBERTA;HARPER;927 Barcelona Street;Shahr-e Kord;Chaharmahal and Bakhtiari;Iran, Islamic Republic of;;Desconhecido
+HOLLY;FOX;435 0 Way;Haldia;West Bengal;India;28.0;Bom (Verde)
+BRITTANY;RILEY;140 Chiayi Parkway;Sumy;;;;Desconhecido
+MELANIE;ARMSTRONG;1166 Changhwa Street;Bayugan;;;;Desconhecido
+LORETTA;CARPENTER;891 Novi Sad Manor;Oshawa;Ontario;Canada;13.0;Bom (Verde)
+YOLANDA;WEAVER;605 Rio Claro Parkway;Tabora;;;;Desconhecido
+JEANETTE;GREENE;1077 San Felipe de Puerto Plata Place;Novoterkassk;;;;Desconhecido
+LAURIE;LAWRENCE;9 San Miguel de Tucumn Manor;Firozabad;;;;Desconhecido
+KATIE;ELLIOTT;447 Surakarta Loop;Kisumu;Kisumu County;Kenya;;Desconhecido
+KRISTEN;CHAVEZ;345 Oshawa Boulevard;Hino;Tokyo;Japan;53.0;Moderado (Amarelo)
+KRISTEN;CHAVEZ;345 Oshawa Boulevard;Hino;Shiga;Japan;;Desconhecido
+VANESSA;SIMS;1792 Valle de la Pascua Place;Siegen;North Rhine-Westphalia;Germany;;Desconhecido
+ALMA;AUSTIN;1074 Binzhou Manor;Mannheim;Baden-Wurttemberg;Germany;;Desconhecido
+SUE;PETERS;817 Bradford Loop;Changzhou;Jiangsu;China;96.0;Moderado (Amarelo)
+SUE;PETERS;817 Bradford Loop;Changzhou;Guangxi;China;;Desconhecido
+ELSIE;KELLEY;955 Bamenda Way;Ikerre;;;;Desconhecido
+BETH;FRANKLIN;1149 A Corua (La Corua) Boulevard;Haiphong;;;;Desconhecido
+JEANNE;LAWSON;387 Mwene-Ditu Drive;Ashgabat;;;;Desconhecido
+VICKI;FIELDS;68 Molodetno Manor;Witten;North Rhine-Westphalia;Germany;;Desconhecido
+CARLA;GUTIERREZ;642 Nador Drive;Bhusawal;;;;Desconhecido
+TARA;RYAN;1688 Nador Lane;Gorontalo;Gorontalo;Indonesia;59.0;Moderado (Amarelo)
+ROSEMARY;SCHMIDT;1215 Pyongyang Parkway;Usak;;;;Desconhecido
+EILEEN;CARR;1679 Antofagasta Street;Ciudad del Este;;;;Desconhecido
+TERRI;VASQUEZ;1304 s-Hertogenbosch Way;Blumenau;Santa Catarina;Brazil;;Desconhecido
+GERTRUDE;CASTILLO;850 Salala Loop;Nuuk;Sermersooq;Greenland;;Desconhecido
+LUCY;WHEELER;624 Oshawa Boulevard;Balurghat;;;;Desconhecido
+TONYA;CHAPMAN;43 Dadu Avenue;Bhilwara;;;;Desconhecido
+ELLA;OLIVER;751 Lima Loop;Aden;;;;Desconhecido
+STACEY;MONTGOMERY;1333 Haldia Street;Fuyu;Anhui;China;;Desconhecido
+STACEY;MONTGOMERY;1333 Haldia Street;Fuyu;Jilin;China;;Desconhecido
+STACEY;MONTGOMERY;1333 Haldia Street;Fuyu;Heilongjiang;China;;Desconhecido
+WILMA;RICHARDS;660 Jedda Boulevard;Bellevue;Western Australia;Australia;;Desconhecido
+WILMA;RICHARDS;660 Jedda Boulevard;Bellevue;Geneva;Switzerland;;Desconhecido
+GINA;WILLIAMSON;1001 Miyakonojo Lane;Taizz;;;;Desconhecido
+KRISTIN;JOHNSTON;226 Brest Manor;Sunnyvale;;;;Desconhecido
+JESSIE;BANKS;1229 Valencia Parkway;Stara Zagora;Stara Zagora;Bulgaria;48.0;Bom (Verde)
+NATALIE;MEYER;1201 Qomsheh Manor;Aparecida de Goinia;;;;Desconhecido
+AGNES;BISHOP;866 Shivapuri Manor;Sambhal;Uttar Pradesh;India;;Desconhecido
+VERA;MCCOY;1168 Najafabad Parkway;Kabul;Kabul;Afghanistan;102.0;Ruim para Grupos Sensíveis (Laranja)
+WILLIE;HOWELL;1244 Allappuzha (Alleppey) Place;Vicente Lpez;;;;Desconhecido
+CHARLENE;ALVAREZ;1842 Luzinia Boulevard;Zanzibar;;;;Desconhecido
+BESSIE;MORRISON;1926 Gingoog Street;Syrakusa;;;;Desconhecido
+DELORES;HANSEN;810 Palghat (Palakkad) Boulevard;Jaroslavl;;;;Desconhecido
+MELINDA;FERNANDEZ;1820 Maring Parkway;Mandi Bahauddin;;;;Desconhecido
+PEARL;GARZA;60 Poos de Caldas Street;Jodhpur;Rajasthan;India;69.0;Moderado (Amarelo)
+PEARL;GARZA;60 Poos de Caldas Street;Jodhpur;Gujarat;India;;Desconhecido
+ARLENE;HARVEY;1014 Loja Manor;Ambattur;;;;Desconhecido
+MAUREEN;LITTLE;201 Effon-Alaiye Way;Asuncin;;;;Desconhecido
+COLLEEN;BURTON;430 Alessandria Loop;Saarbrcken;;;;Desconhecido
+ALLISON;STANLEY;754 Valencia Place;Phnom Penh;Phnom Penh;Cambodia;55.0;Moderado (Amarelo)
+TAMARA;NGUYEN;356 Olomouc Manor;Anpolis;;;;Desconhecido
+JOY;GEORGE;1256 Bislig Boulevard;Botosani;;;;Desconhecido
+GEORGIA;JACOBS;954 Kimchon Place;Uttarpara-Kotrung;;;;Desconhecido
+CONSTANCE;REID;885 Yingkou Manor;Zaria;;;;Desconhecido
+LILLIE;KIM;1736 Cavite Place;Idfu;;;;Desconhecido
+CLAUDIA;FULLER;346 Skikda Parkway;Jalib al-Shuyukh;;;;Desconhecido
+JACKIE;LYNCH;98 Stara Zagora Boulevard;Buenaventura;Valle del Cauca Department;Colombia;;Desconhecido
+JACKIE;LYNCH;98 Stara Zagora Boulevard;Buenaventura;Castille-La Mancha;Spain;;Desconhecido
+MARCIA;DEAN;1479 Rustenburg Boulevard;Tanza;;;;Desconhecido
+TANYA;GILBERT;647 A Corua (La Corua) Street;Naju;Jeollanam-do;Korea, Republic of;;Desconhecido
+NELLIE;GARRETT;1964 Gijn Manor;Shimoga;Karnataka;India;;Desconhecido
+MINNIE;ROMERO;47 Syktyvkar Lane;Ciomas;Banten;Indonesia;;Desconhecido
+MARLENE;WELCH;1148 Saarbrcken Parkway;Iwaki;Fukushima;Japan;50.0;Bom (Verde)
+HEIDI;LARSON;1103 Bilbays Parkway;Xiangfan;;;;Desconhecido
+GLENDA;FRAZIER;1246 Boksburg Parkway;Qinhuangdao;Hebei;China;60.0;Moderado (Amarelo)
+LYDIA;BURKE;1483 Pathankot Street;San Miguel de Tucumn;;;;Desconhecido
+VIOLA;HANSON;582 Papeete Loop;Lapu-Lapu;;;;Desconhecido
+COURTNEY;DAY;300 Junan Street;Uijongbu;;;;Desconhecido
+MARIAN;MENDOZA;829 Grand Prairie Way;Maring;;;;Desconhecido
+STELLA;MORENO;1473 Changhwa Parkway;Coacalco de Berriozbal;;;;Desconhecido
+CAROLINE;BOWMAN;1309 Weifang Street;Tallahassee;;;;Desconhecido
+DORA;MEDINA;1760 Oshawa Manor;Tianjin;Tianjin;China;101.0;Ruim para Grupos Sensíveis (Laranja)
+JO;FOWLER;786 Stara Zagora Way;Oyo;Cuvette;Congo;;Desconhecido
+VICKIE;BREWER;1966 Tonghae Street;Halle/Saale;;;;Desconhecido
+MATTIE;HOFFMAN;1497 Yuzhou Drive;London;Ontario;Canada;13.0;Bom (Verde)
+MATTIE;HOFFMAN;1497 Yuzhou Drive;London;England;United Kingdom;33.0;Bom (Verde)
+TERRY;CARLSON;752 Ondo Loop;Miyakonojo;;;;Desconhecido
+MAXINE;SILVA;1338 Zalantun Lane;Poos de Caldas;;;;Desconhecido
+IRMA;PEARSON;127 Iwakuni Boulevard;Hagonoy;;;;Desconhecido
+MABEL;HOLLAND;51 Laredo Avenue;Monywa;Sagaing Region;Myanmar;;Desconhecido
+MARSHA;DOUGLAS;771 Yaound Manor;Beira;;;;Desconhecido
+MYRTLE;FLEMING;532 Toulon Street;Santiago de los Caballeros;Santiago Province;Dominican Republic;;Desconhecido
+LENA;JENSEN;1027 Banjul Place;Halisahar;;;;Desconhecido
+CHRISTY;VARGAS;1158 Mandi Bahauddin Parkway;Datong;Anhui;China;;Desconhecido
+CHRISTY;VARGAS;1158 Mandi Bahauddin Parkway;Datong;Heilongjiang;China;;Desconhecido
+CHRISTY;VARGAS;1158 Mandi Bahauddin Parkway;Datong;Shanxi;China;137.0;Ruim para Grupos Sensíveis (Laranja)
+CHRISTY;VARGAS;1158 Mandi Bahauddin Parkway;Datong;Chongqing;China;;Desconhecido
+DEANNA;BYRD;862 Xintai Lane;Tuguegarao;;;;Desconhecido
+PATSY;DAVIDSON;816 Cayenne Parkway;Portoviejo;Manabí;Ecuador;;Desconhecido
+HILDA;HOPKINS;1831 Nam Dinh Loop;Mandaluyong;;;;Desconhecido
+GWENDOLYN;MAY;446 Kirovo-Tepetsk Lane;Higashiosaka;Osaka;Japan;;Desconhecido
+JENNIE;TERRY;682 Halisahar Place;Olomouc;Olomoucký;Czechia;;Desconhecido
+NORA;HERRERA;1587 Loja Manor;Salzburg;Salzburg;Austria;37.0;Bom (Verde)
+MARGIE;WADE;1762 Paarl Parkway;Lengshuijiang;Hunan;China;;Desconhecido
+NINA;SOTO;1519 Ilorin Place;Palghat (Palakkad);;;;Desconhecido
+CASSANDRA;WALTERS;920 Kumbakonam Loop;Salinas;Minas Gerais;Brazil;;Desconhecido
+CASSANDRA;WALTERS;920 Kumbakonam Loop;Salinas;Santa Elena;Ecuador;;Desconhecido
+CASSANDRA;WALTERS;920 Kumbakonam Loop;Salinas;Imbabura;Ecuador;;Desconhecido
+CASSANDRA;WALTERS;920 Kumbakonam Loop;Salinas;Valencia;Spain;;Desconhecido
+CASSANDRA;WALTERS;920 Kumbakonam Loop;Salinas;Veracruz;Mexico;;Desconhecido
+LEAH;CURTIS;906 Goinia Way;Kalisz;;;;Desconhecido
+PENNY;NEAL;1675 Xiangfan Manor;Kumbakonam;Tamil Nadu;India;;Desconhecido
+KAY;CALDWELL;85 San Felipe de Puerto Plata Drive;Yantai;Shandong;China;88.0;Moderado (Amarelo)
+KAY;CALDWELL;85 San Felipe de Puerto Plata Drive;Yantai;Chongqing;China;;Desconhecido
+PRISCILLA;LOWE;144 South Hill Loop;Salamanca;Coquimbo Region;Chile;;Desconhecido
+PRISCILLA;LOWE;144 South Hill Loop;Salamanca;Castille and León;Spain;51.0;Moderado (Amarelo)
+PRISCILLA;LOWE;144 South Hill Loop;Salamanca;Madrid;Spain;;Desconhecido
+NAOMI;JENNINGS;1884 Shikarpur Avenue;Karnal;;;;Desconhecido
+CAROLE;BARNETT;1980 Kamjanets-Podilskyi Street;Peoria;;;;Desconhecido
+BRANDY;GRAVES;1944 Bamenda Way;Warren;New South Wales;Australia;;Desconhecido
+OLGA;JIMENEZ;556 Baybay Manor;Ogbomosho;;;;Desconhecido
+BILLIE;HORTON;457 Tongliao Loop;Inegl;;;;Desconhecido
+DIANNE;SHELTON;600 Bradford Street;Tabriz;East Azerbaijan;Iran, Islamic Republic of;;Desconhecido
+TRACEY;BARRETT;1006 Santa Brbara dOeste Manor;Owo;;;;Desconhecido
+LEONA;OBRIEN;1308 Sumy Loop;Fuzhou;Jiangxi;China;57.0;Moderado (Amarelo)
+LEONA;OBRIEN;1308 Sumy Loop;Fuzhou;Fujian;China;74.0;Moderado (Amarelo)
+JENNY;CASTRO;1405 Chisinau Place;Ponce;;;;Desconhecido
+FELICIA;SUTTON;226 Halifax Street;Korla;Xinjiang;China;154.0;Ruim (Vermelho)
+SONIA;GREGORY;1279 Udine Parkway;Benin City;;;;Desconhecido
+MIRIAM;MCKINNEY;1336 Benin City Drive;Otsu;;;;Desconhecido
+VELMA;LUCAS;1155 Liaocheng Place;Effon-Alaiye;;;;Desconhecido
+BECKY;MILES;1993 Tabuk Lane;Tambaram;Tamil Nadu;India;;Desconhecido
+BOBBIE;CRAIG;86 Higashiosaka Lane;Valle de Santiago;;;;Desconhecido
+VIOLET;RODRIQUEZ;1912 Allende Manor;Kowloon and New Kowloon;;;;Desconhecido
+KRISTINA;CHAMBERS;544 Tarsus Boulevard;Valle de la Pascua;;;;Desconhecido
+TONI;HOLT;1936 Cuman Avenue;Roanoke;;;;Desconhecido
+MISTY;LAMBERT;1192 Tongliao Street;Sharja;;;;Desconhecido
+MAE;FLETCHER;44 Najafabad Way;Donostia-San Sebastin;;;;Desconhecido
+SHELLY;WATTS;32 Pudukkottai Lane;Dayton;Western Australia;Australia;;Desconhecido
+DAISY;BATES;661 Chisinau Lane;Kolpino;;;;Desconhecido
+RAMONA;HALE;951 Stara Zagora Manor;Patiala;;;;Desconhecido
+SHERRI;RHODES;922 Vila Velha Loop;Ahmadnagar;;;;Desconhecido
+ERIKA;PENA;898 Jining Lane;Oulu;North Ostrobothnia;Finland;;Desconhecido
+JAMES;GANNON;1635 Kuwana Boulevard;Hiroshima;Hiroshima;Japan;71.0;Moderado (Amarelo)
+JOHN;FARNSWORTH;41 El Alto Parkway;Parbhani;Maharashtra;India;;Desconhecido
+ROBERT;BAUGHMAN;1883 Maikop Lane;Kaliningrad;;;;Desconhecido
+MICHAEL;SILVERMAN;1908 Gaziantep Place;Tiefa;;;;Desconhecido
+WILLIAM;SATTERFIELD;687 Alessandria Parkway;Sanaa;;;;Desconhecido
+DAVID;ROYAL;827 Yuncheng Drive;Callao;;;;Desconhecido
+RICHARD;MCCRARY;913 Coacalco de Berriozbal Loop;Arlington;;;;Desconhecido
+CHARLES;KOWALSKI;715 So Bernardo do Campo Lane;Sungai Petani;;;;Desconhecido
+JOSEPH;JOY;1354 Siegen Street;Angra dos Reis;Rio de Janeiro;Brazil;;Desconhecido
+THOMAS;GRIGSBY;1191 Sungai Petani Boulevard;Kansas City;;;;Desconhecido
+CHRISTOPHER;GRECO;1224 Huejutla de Reyes Boulevard;Brescia;Lombardy;Italy;31.0;Bom (Verde)
+DANIEL;CABRAL;543 Bergamo Avenue;Ibirit;;;;Desconhecido
+PAUL;TROUT;746 Joliet Lane;Kursk;;;;Desconhecido
+MARK;RINEHART;780 Kimberley Way;Tabuk;;;;Desconhecido
+DONALD;MAHON;1774 Yaound Place;Ezhou;Hubei;China;107.0;Ruim para Grupos Sensíveis (Laranja)
+GEORGE;LINTON;1957 Yantai Lane;Sorocaba;São Paulo;Brazil;;Desconhecido
+KENNETH;GOODEN;1542 Lubumbashi Boulevard;Bat Yam;Tel Aviv;Israel;56.0;Moderado (Amarelo)
+STEVEN;CURLEY;651 Pathankot Loop;Miraj;;;;Desconhecido
+EDWARD;BAUGH;1359 Zhoushan Parkway;Trshavn;;;;Desconhecido
+BRIAN;WYMAN;1769 Iwaki Lane;Bydgoszcz;;;;Desconhecido
+RONALD;WEINER;1145 Vilnius Manor;San Felipe del Progreso;México;Mexico;;Desconhecido
+ANTHONY;SCHWAB;1892 Nabereznyje Telny Lane;Tafuna;;;;Desconhecido
+KEVIN;SCHULER;470 Boksburg Street;Birgunj;;;;Desconhecido
+JASON;MORRISSEY;1427 A Corua (La Corua) Place;Baha Blanca;;;;Desconhecido
+MATTHEW;MAHAN;479 San Felipe del Progreso Avenue;Cuautla;Morelos;Mexico;;Desconhecido
+GARY;COY;867 Benin City Avenue;Yuzhou;Hebei;China;;Desconhecido
+TIMOTHY;BUNN;981 Kumbakonam Place;Braslia;;;;Desconhecido
+JOSE;ANDREW;1016 Iwakuni Street;Kingstown;;;;Desconhecido
+LARRY;THRASHER;663 Baha Blanca Parkway;Adana;;;;Desconhecido
+JEFFREY;SPEAR;1860 Taguig Loop;Ciparay;;;;Desconhecido
+FRANK;WAGGONER;1816 Bydgoszcz Loop;Jamalpur;;;;Desconhecido
+SCOTT;SHELLEY;587 Benguela Manor;Aurora;Ceará;Brazil;;Desconhecido
+SCOTT;SHELLEY;587 Benguela Manor;Aurora;Ontario;Canada;;Desconhecido
+ERIC;ROBERT;430 Kumbakonam Drive;Santa F;;;;Desconhecido
+STEPHEN;QUALLS;1838 Tabriz Lane;Dhaka;Dhaka Division;Bangladesh;;Desconhecido
+ANDREW;PURDY;431 Szkesfehrvr Avenue;Baku;Baki;Azerbaijan;28.0;Bom (Verde)
+RAYMOND;MCWHORTER;503 Sogamoso Loop;Sumqayit;;;;Desconhecido
+GREGORY;MAULDIN;507 Smolensk Loop;Sousse;;;;Desconhecido
+JOSHUA;MARK;1920 Weifang Avenue;Rampur;;;;Desconhecido
+JERRY;JORDON;124 al-Manama Way;Onomichi;Hiroshima;Japan;64.0;Moderado (Amarelo)
+DENNIS;GILMAN;1443 Mardan Street;Paarl;;;;Desconhecido
+WALTER;PERRYMAN;1909 Benguela Lane;Xinxiang;Henan;China;155.0;Ruim (Vermelho)
+WALTER;PERRYMAN;1909 Benguela Lane;Xinxiang;Chongqing;China;;Desconhecido
+PATRICK;NEWSOM;68 Ponce Parkway;Hanoi;;;;Desconhecido
+PETER;MENARD;1217 Konotop Avenue;Ede;;;;Desconhecido
+HAROLD;MARTINO;1293 Nam Dinh Way;Boa Vista;Roraima;Brazil;1.0;Bom (Verde)
+DOUGLAS;GRAF;785 Vaduz Street;Mexicali;;;;Desconhecido
+HENRY;BILLINGSLEY;1516 Escobar Drive;Nukualofa;;;;Desconhecido
+CARL;ARTIS;1628 Nagareyama Lane;San Lorenzo;Corrientes;Argentina;;Desconhecido
+CARL;ARTIS;1628 Nagareyama Lane;San Lorenzo;Santa Fe;Argentina;;Desconhecido
+CARL;ARTIS;1628 Nagareyama Lane;San Lorenzo;Nariño;Colombia;;Desconhecido
+CARL;ARTIS;1628 Nagareyama Lane;San Lorenzo;Bolívar;Ecuador;;Desconhecido
+CARL;ARTIS;1628 Nagareyama Lane;San Lorenzo;San Marcos;Guatemala;;Desconhecido
+CARL;ARTIS;1628 Nagareyama Lane;San Lorenzo;Suchitepeque;Guatemala;;Desconhecido
+CARL;ARTIS;1628 Nagareyama Lane;San Lorenzo;Valle Department;Honduras;;Desconhecido
+CARL;ARTIS;1628 Nagareyama Lane;San Lorenzo;Calabria;Italy;;Desconhecido
+CARL;ARTIS;1628 Nagareyama Lane;San Lorenzo;Piedmont;Italy;;Desconhecido
+CARL;ARTIS;1628 Nagareyama Lane;San Lorenzo;Campania;Italy;;Desconhecido
+CARL;ARTIS;1628 Nagareyama Lane;San Lorenzo;Liguria;Italy;;Desconhecido
+CARL;ARTIS;1628 Nagareyama Lane;San Lorenzo;Oaxaca;Mexico;;Desconhecido
+ARTHUR;SIMPKINS;1157 Nyeri Loop;Maikop;;;;Desconhecido
+RYAN;SALISBURY;1673 Tangail Drive;Daugavpils;Daugavpils;Latvia;;Desconhecido
+ROGER;QUINTANILLA;381 Kabul Way;Hsichuh;;;;Desconhecido
+JOE;GILLILAND;953 Hodeida Street;Imus;;;;Desconhecido
+JUAN;FRALEY;469 Nakhon Sawan Street;Teboksary;;;;Desconhecido
+JACK;FOUST;1378 Beira Loop;Zeleznogorsk;;;;Desconhecido
+ALBERT;CROUSE;1641 Changhwa Place;Bamenda;North-West;Cameroon;;Desconhecido
+JONATHAN;SCARBOROUGH;1698 Southport Loop;Pachuca de Soto;Hidalgo;Mexico;;Desconhecido
+JUSTIN;NGO;519 Nyeri Manor;Santo Andr;;;;Desconhecido
+TERRY;GRISSOM;619 Hunuco Avenue;Matsue;Shimane;Japan;59.0;Moderado (Amarelo)
+GERALD;FULTZ;45 Aparecida de Goinia Place;Satna;Madhya Pradesh;India;;Desconhecido
+KEITH;RICO;482 Kowloon and New Kowloon Manor;Bratislava;;;;Desconhecido
+SAMUEL;MARLOW;604 Bern Place;Ranchi;Jharkhand;India;;Desconhecido
+WILLIE;MARKHAM;1623 Kingstown Drive;Almirante Brown;;;;Desconhecido
+RALPH;MADRIGAL;1009 Zanzibar Lane;Arecibo;;;;Desconhecido
+LAWRENCE;LAWTON;114 Jalib al-Shuyukh Manor;Yaound;;;;Desconhecido
+NICHOLAS;BARFIELD;1163 London Parkway;Belm;Lower Saxony;Germany;;Desconhecido
+ROY;WHITING;1658 Jastrzebie-Zdrj Loop;Nyeri;Nyeri County;Kenya;;Desconhecido
+BENJAMIN;VARNEY;817 Laredo Avenue;Guadalajara;Castille-La Mancha;Spain;58.0;Moderado (Amarelo)
+BRUCE;SCHWARZ;1565 Tangail Manor;Okinawa;Okinawa;Japan;14.0;Bom (Verde)
+BRANDON;HUEY;1912 Emeishan Drive;Balikesir;;;;Desconhecido
+ADAM;GOOCH;230 Urawa Drive;Adoni;Andhra Pradesh;India;;Desconhecido
+HARRY;ARCE;1922 Miraj Way;Najafabad;;;;Desconhecido
+FRED;WHEAT;433 Florencia Street;Jurez;;;;Desconhecido
+WAYNE;TRUONG;1049 Matamoros Parkway;Gulbarga;;;;Desconhecido
+BILLY;POULIN;1061 Ede Avenue;Cabuyao;;;;Desconhecido
+STEVE;MACKENZIE;154 Oshawa Manor;Probolinggo;East Java;Indonesia;59.0;Moderado (Amarelo)
+LOUIS;LEONE;1191 Tandil Drive;Tanauan;;;;Desconhecido
+JEREMY;HURTADO;1133 Rizhao Avenue;Vitria de Santo Anto;;;;Desconhecido
+AARON;SELBY;1519 Santiago de los Caballeros Loop;Mwene-Ditu;Lomami;Congo, The Democratic Republic of the;;Desconhecido
+RANDY;GAITHER;1618 Olomouc Manor;Kurgan;;;;Desconhecido
+HOWARD;FORTNER;220 Hidalgo Drive;Kermanshah;Kermanshah Province;Iran, Islamic Republic of;;Desconhecido
+EUGENE;CULPEPPER;686 Donostia-San Sebastin Lane;Shenzhen;Guangdong;China;58.0;Moderado (Amarelo)
+CARLOS;COUGHLIN;97 Mogiljov Lane;Bhavnagar;Gujarat;India;;Desconhecido
+RUSSELL;BRINSON;1642 Charlotte Amalie Drive;Tychy;;;;Desconhecido
+BOBBY;BOUDREAU;1368 Maracabo Boulevard;South Hill;England;United Kingdom;;Desconhecido
+VICTOR;BARKLEY;401 Sucre Boulevard;Manchester;England;United Kingdom;65.0;Moderado (Amarelo)
+MARTIN;BALES;368 Hunuco Boulevard;Namibe;;;;Desconhecido
+ERNEST;STEPP;500 Lincoln Parkway;Huaian;;;;Desconhecido
+PHILLIP;HOLM;102 Chapra Drive;Tama;La Rioja;Argentina;;Desconhecido
+PHILLIP;HOLM;102 Chapra Drive;Tama;Tokyo;Japan;44.0;Bom (Verde)
+TODD;TAN;1793 Meixian Place;Kamjanets-Podilskyi;;;;Desconhecido
+JESSE;SCHILLING;514 Ife Way;Lubumbashi;Haut-Katanga;Congo, The Democratic Republic of the;;Desconhecido
+CRAIG;MORRELL;717 Changzhou Lane;Cavite;;;;Desconhecido
+ALAN;KAHN;753 Ilorin Avenue;Emeishan;;;;Desconhecido
+SHAWN;HEATON;1337 Mit Ghamr Avenue;Nakhon Sawan;;;;Desconhecido
+CLARENCE;GAMEZ;767 Pyongyang Drive;Izumisano;;;;Desconhecido
+SEAN;DOUGLASS;614 Pak Kret Street;Addis Abeba;;;;Desconhecido
+PHILIP;CAUSEY;954 Lapu-Lapu Way;Korolev;;;;Desconhecido
+CHRIS;BROTHERS;331 Bydgoszcz Parkway;Gijn;;;;Desconhecido
+JOHNNY;TURPIN;1152 Citrus Heights Manor;al-Qadarif;;;;Desconhecido
+EARL;SHANKS;168 Cianjur Manor;Iwatsuki;Saitama;Japan;;Desconhecido
+JIMMY;SCHRADER;616 Hagonoy Avenue;Atinsk;;;;Desconhecido
+ANTONIO;MEEK;1190 0 Place;Bag;Pest County;Hungary;;Desconhecido
+DANNY;ISOM;734 Bchar Place;Okara;;;;Desconhecido
+BRYAN;HARDISON;530 Lausanne Lane;Dallas;Victoria;Australia;;Desconhecido
+TONY;CARRANZA;454 Patiala Lane;Koriyama;;;;Desconhecido
+LUIS;YANEZ;1346 Mysore Drive;Brest;Brest;Belarus;52.0;Moderado (Amarelo)
+LUIS;YANEZ;1346 Mysore Drive;Brest;Brittany;France;45.0;Bom (Verde)
+MIKE;WAY;990 Etawah Loop;Valparai;Tamil Nadu;India;;Desconhecido
+STANLEY;SCROGGINS;1266 Laredo Parkway;Omiya;;;;Desconhecido
+LEONARD;SCHOFIELD;88 Nagaon Manor;Tandil;Buenos Aires;Argentina;;Desconhecido
+NATHAN;RUNYON;264 Bhimavaram Manor;Charlotte Amalie;;;;Desconhecido
+DALE;RATCLIFF;1639 Saarbrcken Drive;Rustenburg;;;;Desconhecido
+MANUEL;MURRELL;692 Amroha Drive;Jaffna;Northern Province;Sri Lanka;33.0;Bom (Verde)
+RODNEY;MOELLER;1936 Lapu-Lapu Parkway;Deba Habe;;;;Desconhecido
+CURTIS;IRBY;432 Garden Grove Street;Richmond Hill;Ontario;Canada;0.0;Bom (Verde)
+NORMAN;CURRIER;1445 Carmen Parkway;Cianjur;West Java;Indonesia;;Desconhecido
+ALLEN;BUTTERFIELD;791 Salinas Street;Hoshiarpur;;;;Desconhecido
+MARVIN;YEE;126 Acua Parkway;Berhampore (Baharampur);;;;Desconhecido
+VINCENT;RALSTON;397 Sunnyvale Avenue;Allende;;;;Desconhecido
+GLENN;PULLEN;992 Klerksdorp Loop;Amersfoort;;;;Desconhecido
+JEFFERY;PINSON;966 Arecibo Loop;Dadu;;;;Desconhecido
+TRAVIS;ESTEP;289 Santo Andr Manor;al-Qatif;;;;Desconhecido
+JEFF;EAST;437 Chungho Drive;San Felipe de Puerto Plata;;;;Desconhecido
+CHAD;CARBONE;1948 Bayugan Parkway;Katihar;Bihar;India;9.0;Bom (Verde)
+JACOB;LANCE;1866 al-Qatif Avenue;El Monte;Santiago Metropolitan;Chile;;Desconhecido
+LEE;HAWKS;1661 Abha Drive;Pudukkottai;Tamil Nadu;India;50.0;Bom (Verde)
+MELVIN;ELLINGTON;1557 Cape Coral Parkway;Laohekou;Hubei;China;;Desconhecido
+ALFRED;CASILLAS;1727 Matamoros Place;Sawhaj;;;;Desconhecido
+KYLE;SPURLOCK;1269 Botosani Manor;Shanwei;Guangdong;China;39.0;Bom (Verde)
+FRANCIS;SIKES;355 Vitria de Santo Anto Way;San Juan Bautista Tuxtepec;;;;Desconhecido
+BRADLEY;MOTLEY;1596 Acua Parkway;Purnea (Purnia);;;;Desconhecido
+JESUS;MCCARTNEY;259 Ipoh Drive;Guaruj;;;;Desconhecido
+HERBERT;KRUGER;1823 Hoshiarpur Lane;Syktyvkar;;;;Desconhecido
+FREDERICK;ISBELL;1404 Taguig Drive;Tsuyama;Okayama;Japan;62.0;Moderado (Amarelo)
+RAY;HOULE;740 Udaipur Lane;Dzerzinsk;;;;Desconhecido
+JOEL;FRANCISCO;287 Cuautla Boulevard;Sucre;Chuquisaca Department;Bolivia, Plurinational State of;;Desconhecido
+JOEL;FRANCISCO;287 Cuautla Boulevard;Sucre;Sucre Department;Colombia;;Desconhecido
+JOEL;FRANCISCO;287 Cuautla Boulevard;Sucre;Santander Department;Colombia;;Desconhecido
+JOEL;FRANCISCO;287 Cuautla Boulevard;Sucre;Cauca Department;Colombia;;Desconhecido
+JOEL;FRANCISCO;287 Cuautla Boulevard;Sucre;Manabí;Ecuador;;Desconhecido
+JOEL;FRANCISCO;287 Cuautla Boulevard;Sucre;Tungurahua Province;Ecuador;;Desconhecido
+EDWIN;BURK;1766 Almirante Brown Street;Newcastle;New South Wales;Australia;19.0;Bom (Verde)
+EDWIN;BURK;1766 Almirante Brown Street;Newcastle;Northern Ireland;United Kingdom;;Desconhecido
+EDWIN;BURK;1766 Almirante Brown Street;Newcastle;Leinster;Ireland;;Desconhecido
+EDWIN;BURK;1766 Almirante Brown Street;Newcastle;Saint James Windwa;Saint Kitts and Nevis;;Desconhecido
+DON;BONE;596 Huixquilucan Place;Naala-Porto;;;;Desconhecido
+EDDIE;TOMLIN;1351 Aparecida de Goinia Parkway;Ozamis;;;;Desconhecido
+RICKY;SHELBY;722 Bradford Lane;Junan;;;;Desconhecido
+TROY;QUIGLEY;983 Santa F Way;Vancouver;British Columbia;Canada;24.0;Bom (Verde)
+RANDALL;NEUMANN;1245 Ibirit Way;La Romana;La Romana;Dominican Republic;;Desconhecido
+RANDALL;NEUMANN;1245 Ibirit Way;La Romana;Valencia;Spain;;Desconhecido
+BARRY;LOVELACE;1836 Korla Parkway;Kitwe;;;;Desconhecido
+ALEXANDER;FENNELL;231 Kaliningrad Place;Bergamo;Lombardy;Italy;39.0;Bom (Verde)
+BERNARD;COLBY;495 Bhimavaram Lane;Dhule (Dhulia);;;;Desconhecido
+MARIO;CHEATHAM;1924 Shimonoseki Drive;Batna;;;;Desconhecido
+LEROY;BUSTAMANTE;105 Dzerzinsk Manor;Tongliao;Inner Mongolia;China;64.0;Moderado (Amarelo)
+FRANCISCO;SKIDMORE;614 Denizli Parkway;So Leopoldo;;;;Desconhecido
+MARCUS;HIDALGO;1289 Belm Boulevard;Tartu;Tartu;Estonia;30.0;Bom (Verde)
+MICHEAL;FORMAN;203 Tambaram Street;Escobar;;;;Desconhecido
+THEODORE;CULP;1704 Tambaram Manor;Uluberia;;;;Desconhecido
+CLIFFORD;BOWENS;207 Cuernavaca Loop;Nabereznyje Telny;;;;Desconhecido
+MIGUEL;BETANCOURT;319 Springs Loop;Erlangen;Bavaria;Germany;;Desconhecido
+OSCAR;AQUINO;956 Nam Dinh Manor;Sirjan;Kerman;Iran, Islamic Republic of;;Desconhecido
+JAY;ROBB;1947 Paarl Way;Surakarta;Central Java;Indonesia;89.0;Moderado (Amarelo)
+JIM;REA;814 Simferopol Loop;El Fuerte;;;;Desconhecido
+TOM;MILNER;535 Ahmadnagar Manor;Abu Dhabi;Abu Dhabi;United Arab Emirates;124.0;Ruim para Grupos Sensíveis (Laranja)
+CALVIN;MARTEL;138 Caracas Boulevard;Maracabo;;;;Desconhecido
+ALEX;GRESHAM;251 Florencia Drive;Uruapan;;;;Desconhecido
+JON;WILES;659 Gatineau Boulevard;El Alto;Catamarca;Argentina;;Desconhecido
+RONNIE;RICKETTS;1889 Valparai Way;Ziguinchor;;;;Desconhecido
+BILL;GAVIN;1485 Bratislava Place;Rockford;;;;Desconhecido
+LLOYD;DOWD;935 Aden Boulevard;Tegal;Central Java;Indonesia;;Desconhecido
+TOMMY;COLLAZO;76 Kermanshah Manor;Qomsheh;;;;Desconhecido
+LEON;BOSTIC;734 Tanshui Avenue;Florencia;Cauca Department;Colombia;;Desconhecido
+LEON;BOSTIC;734 Tanshui Avenue;Florencia;Caquetá;Colombia;;Desconhecido
+LEON;BOSTIC;734 Tanshui Avenue;Florencia;Ciego de Ávila Province;Cuba;;Desconhecido
+DEREK;BLAKELY;118 Jaffna Loop;Gingoog;;;;Desconhecido
+WARREN;SHERROD;1621 Tongliao Avenue;Usolje-Sibirskoje;;;;Desconhecido
+DARRELL;POWER;1844 Usak Avenue;Halifax;Nova Scotia;Canada;28.0;Bom (Verde)
+DARRELL;POWER;1844 Usak Avenue;Halifax;England;United Kingdom;;Desconhecido
+JEROME;KENYON;1872 Toulon Loop;Rancagua;O'Higgins Region;Chile;;Desconhecido
+FLOYD;GANDY;1088 Ibirit Place;Zapopan;;;;Desconhecido
+LEO;EBERT;1322 Mosul Parkway;Dongying;Shandong;China;88.0;Moderado (Amarelo)
+ALVIN;DELOACH;1447 Chatsworth Place;Cuauhtmoc;;;;Desconhecido
+TIM;CARY;1257 Guadalajara Street;Bijapur;Karnataka;India;;Desconhecido
+WESLEY;BULL;1469 Plock Lane;Ourense (Orense);;;;Desconhecido
+GORDON;ALLARD;434 Ourense (Orense) Manor;Hodeida;;;;Desconhecido
+DEAN;SAUER;270 Tambaram Parkway;Johannesburg;;;;Desconhecido
+GREG;ROBINS;1786 Salinas Place;Nam Dinh;;;;Desconhecido
+JORGE;OLIVARES;1078 Stara Zagora Drive;Lhokseumawe;Aceh;Indonesia;;Desconhecido
+DUSTIN;GILLETTE;1854 Okara Boulevard;Emmen;Lucerne;Switzerland;;Desconhecido
+PEDRO;CHESTNUT;421 Yaound Street;ostka;;;;Desconhecido
+DERRICK;BOURQUE;1153 Allende Way;Gatineau;Quebec;Canada;20.0;Bom (Verde)
+DAN;PAINE;808 Naala-Porto Parkway;Stockport;England;United Kingdom;;Desconhecido
+LEWIS;LYMAN;632 Usolje-Sibirskoje Parkway;Ashqelon;;;;Desconhecido
+ZACHARY;HITE;98 Pyongyang Boulevard;Akron;;;;Desconhecido
+COREY;HAUSER;984 Novoterkassk Loop;Gaziantep;;;;Desconhecido
+HERMAN;DEVORE;64 Korla Street;Mwanza;Southern Region;Malawi;;Desconhecido
+MAURICE;CRAWLEY;1785 So Bernardo do Campo Street;Coatzacoalcos;Veracruz;Mexico;;Desconhecido
+VERNON;CHAPA;698 Jelets Boulevard;Denizli;;;;Desconhecido
+ROBERTO;VU;1297 Alvorada Parkway;Yinchuan;Ningxia;China;69.0;Moderado (Amarelo)
+CLYDE;TOBIAS;1909 Dayton Avenue;Shaoguan;Guangdong;China;39.0;Bom (Verde)
+GLEN;TALBERT;1789 Saint-Denis Parkway;Acua;;;;Desconhecido
+HECTOR;POINDEXTER;185 Mannheim Lane;Pjatigorsk;;;;Desconhecido
+SHANE;MILLARD;184 Mandaluyong Street;La Paz;Entre Rios;Argentina;;Desconhecido
+SHANE;MILLARD;184 Mandaluyong Street;La Paz;Mendoza;Argentina;;Desconhecido
+SHANE;MILLARD;184 Mandaluyong Street;La Paz;La Paz Department;Bolivia, Plurinational State of;;Desconhecido
+SHANE;MILLARD;184 Mandaluyong Street;La Paz;Cesar Department;Colombia;;Desconhecido
+SHANE;MILLARD;184 Mandaluyong Street;La Paz;Santander Department;Colombia;;Desconhecido
+SHANE;MILLARD;184 Mandaluyong Street;La Paz;Zamora Chinchipe;Ecuador;;Desconhecido
+SHANE;MILLARD;184 Mandaluyong Street;La Paz;Carchi;Ecuador;;Desconhecido
+SHANE;MILLARD;184 Mandaluyong Street;La Paz;Madrid;Spain;;Desconhecido
+SHANE;MILLARD;184 Mandaluyong Street;La Paz;La Paz Department;Honduras;;Desconhecido
+RICARDO;MEADOR;591 Sungai Petani Drive;Okayama;Okayama;Japan;67.0;Moderado (Amarelo)
+SAM;MCDUFFIE;656 Matamoros Drive;Sogamoso;Boyacá;Colombia;;Desconhecido
+RICK;MATTOX;775 ostka Drive;Mit Ghamr;;;;Desconhecido
+LESTER;KRAUS;1013 Tabuk Boulevard;Kanchrapara;;;;Desconhecido
+BRENT;HARKINS;319 Plock Parkway;Sultanbeyli;;;;Desconhecido
+RAMON;CHOATE;1954 Kowloon and New Kowloon Way;Robamba;;;;Desconhecido
+CHARLIE;BESS;362 Rajkot Lane;Baiyin;Gansu;China;55.0;Moderado (Amarelo)
+TYLER;WREN;1060 Tandil Lane;Rizhao;Shandong;China;79.0;Moderado (Amarelo)
+GILBERT;SLEDGE;1515 Korla Way;York;Western Australia;Australia;;Desconhecido
+GILBERT;SLEDGE;1515 Korla Way;York;England;United Kingdom;21.0;Bom (Verde)
+GENE;SANBORN;1416 San Juan Bautista Tuxtepec Avenue;Salala;;;;Desconhecido
+MARC;OUTLAW;1 Valle de Santiago Avenue;Brindisi;Apulia;Italy;56.0;Moderado (Amarelo)
+REGINALD;KINDER;519 Brescia Parkway;Madiun;East Java;Indonesia;59.0;Moderado (Amarelo)
+RUBEN;GEARY;414 Mandaluyong Street;Lublin;;;;Desconhecido
+BRETT;CORNWELL;1197 Sokoto Boulevard;Siliguri (Shiliguri);;;;Desconhecido
+ANGEL;BARCLAY;496 Celaya Drive;Ueda;Nagano;Japan;61.0;Moderado (Amarelo)
+NATHANIEL;ADAM;786 Matsue Way;Joliet;;;;Desconhecido
+RAFAEL;ABNEY;48 Maracabo Place;Talavera;;;;Desconhecido
+LESLIE;SEWARD;1152 al-Qatif Lane;Pontianak;West Kalimantan;Indonesia;76.0;Moderado (Amarelo)
+EDGAR;RHOADS;1269 Ipoh Avenue;Eskisehir;;;;Desconhecido
+MILTON;HOWLAND;758 Korolev Parkway;Vijayawada;Andhra Pradesh;India;104.0;Ruim para Grupos Sensíveis (Laranja)
+RAUL;FORTIER;1747 Rustenburg Place;Chapra;Assam;India;;Desconhecido
+BEN;EASTER;886 Tonghae Place;Kamyin;;;;Desconhecido
+CHESTER;BENNER;1574 Goinia Boulevard;Suihua;Heilongjiang;China;39.0;Bom (Verde)
+CECIL;VINES;548 Uruapan Street;London;Ontario;Canada;13.0;Bom (Verde)
+CECIL;VINES;548 Uruapan Street;London;England;United Kingdom;33.0;Bom (Verde)
+DUANE;TUBBS;962 Tama Loop;Yangor;;;;Desconhecido
+FRANKLIN;TROUTMAN;1778 Gijn Manor;Zaoyang;Hubei;China;;Desconhecido
+ANDRE;RAPP;568 Dhule (Dhulia) Loop;Coquimbo;Coquimbo Region;Chile;;Desconhecido
+ELMER;NOE;1768 Udine Loop;Battambang;Battambang;Cambodia;;Desconhecido
+BRAD;MCCURDY;608 Birgunj Parkway;Chungho;;;;Desconhecido
+GABRIEL;HARDER;680 A Corua (La Corua) Manor;Sivas;;;;Desconhecido
+RON;DELUCA;1949 Sanya Street;Isesaki;Gunma;Japan;;Desconhecido
+MITCHELL;WESTMORELAND;617 Klerksdorp Place;Nha Trang;;;;Desconhecido
+ROLAND;SOUTH;1993 0 Loop;Yingkou;Liaoning;China;73.0;Moderado (Amarelo)
+ARNOLD;HAVENS;1176 Southend-on-Sea Manor;Santa Rosa;Corrientes;Argentina;;Desconhecido
+ARNOLD;HAVENS;1176 Southend-on-Sea Manor;Santa Rosa;La Pampa;Argentina;;Desconhecido
+ARNOLD;HAVENS;1176 Southend-on-Sea Manor;Santa Rosa;Mendoza;Argentina;;Desconhecido
+ARNOLD;HAVENS;1176 Southend-on-Sea Manor;Santa Rosa;Rio Grande do Sul;Brazil;;Desconhecido
+ARNOLD;HAVENS;1176 Southend-on-Sea Manor;Santa Rosa;Bolívar;Colombia;;Desconhecido
+ARNOLD;HAVENS;1176 Southend-on-Sea Manor;Santa Rosa;Cauca Department;Colombia;;Desconhecido
+ARNOLD;HAVENS;1176 Southend-on-Sea Manor;Santa Rosa;;Curaçao;;Desconhecido
+ARNOLD;HAVENS;1176 Southend-on-Sea Manor;Santa Rosa;El Oro;Ecuador;;Desconhecido
+ARNOLD;HAVENS;1176 Southend-on-Sea Manor;Santa Rosa;Tungurahua Province;Ecuador;;Desconhecido
+ARNOLD;HAVENS;1176 Southend-on-Sea Manor;Santa Rosa;Veracruz;Mexico;;Desconhecido
+HARVEY;GUAJARDO;600 Purnea (Purnia) Avenue;Vinh;;;;Desconhecido
+JARED;ELY;1003 Qinhuangdao Street;Purwakarta;West Java;Indonesia;79.0;Moderado (Amarelo)
+ADRIAN;CLARY;1986 Sivas Place;Udine;Friuli Venezia Giulia;Italy;;Desconhecido
+KARL;SEAL;1427 Tabuk Place;Cape Coral;;;;Desconhecido
+CORY;MEEHAN;556 Asuncin Way;Mogiljov;;;;Desconhecido
+CLAUDE;HERZOG;486 Ondo Parkway;Benguela;Benguela;Angola;;Desconhecido
+ERIK;GUILLEN;635 Brest Manor;Bhimavaram;Andhra Pradesh;India;;Desconhecido
+DARRYL;ASHCRAFT;166 Jinchang Street;Ezeiza;Buenos Aires;Argentina;;Desconhecido
+JAMIE;WAUGH;958 Sagamihara Lane;Kuwana;;;;Desconhecido
+NEIL;RENNER;1817 Livorno Way;Cam Ranh;;;;Desconhecido
+JESSIE;MILAM;1332 Gaziantep Lane;Binzhou;Shandong;China;96.0;Moderado (Amarelo)
+CHRISTIAN;JUNG;949 Allende Lane;Amroha;Uttar Pradesh;India;;Desconhecido
+JAVIER;ELROD;195 Ilorin Street;NDjamna;;;;Desconhecido
+FERNANDO;CHURCHILL;193 Bhusawal Place;Tonghae;;;;Desconhecido
+CLINTON;BUFORD;43 Vilnius Manor;Aurora;Ceará;Brazil;;Desconhecido
+CLINTON;BUFORD;43 Vilnius Manor;Aurora;Ontario;Canada;;Desconhecido
+TED;BREAUX;183 Haiphong Street;Baicheng;Henan;China;;Desconhecido
+TED;BREAUX;183 Haiphong Street;Baicheng;Jilin;China;38.0;Bom (Verde)
+TED;BREAUX;183 Haiphong Street;Baicheng;Shandong;China;;Desconhecido
+MATHEW;BOLIN;163 Augusta-Richmond County Loop;Valencia;Córdoba;Colombia;;Desconhecido
+MATHEW;BOLIN;163 Augusta-Richmond County Loop;Valencia;Los Ríos;Ecuador;;Desconhecido
+MATHEW;BOLIN;163 Augusta-Richmond County Loop;Valencia;Valencia;Spain;34.0;Bom (Verde)
+TYRONE;ASHER;191 Jos Azueta Parkway;Ruse;New South Wales;Australia;;Desconhecido
+TYRONE;ASHER;191 Jos Azueta Parkway;Ruse;Ruse;Bulgaria;31.0;Bom (Verde)
+DARREN;WINDHAM;379 Lublin Parkway;Livorno;Tuscany;Italy;;Desconhecido
+LONNIE;TIRADO;1658 Cuman Loop;Pangkal Pinang;;;;Desconhecido
+LANCE;PEMBERTON;454 Qinhuangdao Drive;Beni-Mellal;;;;Desconhecido
+CODY;NOLEN;1715 Okayama Street;So Bernardo do Campo;;;;Desconhecido
+JULIO;NOLAND;182 Nukualofa Drive;Konotop;;;;Desconhecido
+KELLY;KNOTT;390 Wroclaw Way;Sanya;Hainan;China;33.0;Bom (Verde)
+KURT;EMMONS;1421 Quilmes Lane;Kanazawa;Ishikawa;Japan;39.0;Bom (Verde)
+ALLAN;CORNISH;947 Trshavn Place;Tarlac;;;;Desconhecido
+NELSON;CHRISTENSON;1764 Jalib al-Shuyukh Parkway;Santiago de Compostela;Galicia;Spain;34.0;Bom (Verde)
+GUY;BROWNLEE;346 Cam Ranh Avenue;Zhoushan;Zhejiang;China;58.0;Moderado (Amarelo)
+CLAYTON;BARBEE;1407 Pachuca de Soto Place;Alvorada;Rio Grande do Sul;Brazil;;Desconhecido
+CLAYTON;BARBEE;1407 Pachuca de Soto Place;Alvorada;Tocantins;Brazil;;Desconhecido
+HUGH;WALDROP;904 Clarksville Drive;Haining;Zhejiang;China;;Desconhecido
+MAX;PITT;1917 Kumbakonam Parkway;Novi Sad;;;;Desconhecido
+DWAYNE;OLVERA;1447 Imus Place;Rajkot;;;;Desconhecido
+DWIGHT;LOMBARDI;1497 Fengshan Drive;Chatsworth;Queensland;Australia;;Desconhecido
+ARMANDO;GRUBER;869 Shikarpur Way;Southport;Queensland;Australia;;Desconhecido
+ARMANDO;GRUBER;869 Shikarpur Way;Southport;England;United Kingdom;;Desconhecido
+FELIX;GAFFNEY;1059 Yuncheng Avenue;Vilnius;Vilnius;Lithuania;26.0;Bom (Verde)
+JIMMIE;EGGLESTON;505 Madiun Boulevard;Wroclaw;;;;Desconhecido
+EVERETT;BANDA;1741 Hoshiarpur Boulevard;Bilbays;;;;Desconhecido
+JORDAN;ARCHULETA;1229 Varanasi (Benares) Manor;Avellaneda;Santa Fe;Argentina;;Desconhecido
+JORDAN;ARCHULETA;1229 Varanasi (Benares) Manor;Avellaneda;Buenos Aires;Argentina;;Desconhecido
+JORDAN;ARCHULETA;1229 Varanasi (Benares) Manor;Avellaneda;Basque Country;Spain;;Desconhecido
+JORDAN;ARCHULETA;1229 Varanasi (Benares) Manor;Avellaneda;Castille and León;Spain;;Desconhecido
+IAN;STILL;1894 Boa Vista Way;Garland;;;;Desconhecido
+WALLACE;SLONE;1342 Sharja Way;Sokoto;;;;Desconhecido
+KEN;PREWITT;1342 Abha Boulevard;Bucuresti;;;;Desconhecido
+BOB;PFEIFFER;415 Pune Avenue;Xintai;Shandong;China;;Desconhecido
+JAIME;NETTLES;1746 Faaa Way;Hunuco;;;;Desconhecido
+CASEY;MENA;539 Hami Way;Tokat;;;;Desconhecido
+ALFREDO;MCADAMS;1407 Surakarta Manor;Serpuhov;;;;Desconhecido
+ALBERTO;HENNING;502 Mandi Bahauddin Parkway;Barcelona;Catalonia;Spain;47.0;Bom (Verde)
+DAVE;GARDINER;1052 Pathankot Avenue;Leshan;Sichuan;China;82.0;Moderado (Amarelo)
+IVAN;CROMWELL;1351 Sousse Lane;Monclova;;;;Desconhecido
+JOHNNIE;CHISHOLM;1501 Pangkal Pinang Avenue;Plock;;;;Desconhecido
+SIDNEY;BURLESON;1405 Hagonoy Avenue;Czestochowa;;;;Desconhecido
+BYRON;BOX;521 San Juan Bautista Tuxtepec Place;Zhezqazghan;Ulytau Region;Kazakhstan;;Desconhecido
+JULIAN;VEST;923 Tangail Boulevard;Akishima;Tokyo;Japan;;Desconhecido
+ISAAC;OGLESBY;186 Skikda Lane;Cuernavaca;Morelos;Mexico;;Desconhecido
+MORRIS;MCCARTER;1568 Celaya Parkway;Fengshan;Yunnan;China;;Desconhecido
+MORRIS;MCCARTER;1568 Celaya Parkway;Fengshan;Hubei;China;;Desconhecido
+MORRIS;MCCARTER;1568 Celaya Parkway;Fengshan;Fujian;China;;Desconhecido
+MORRIS;MCCARTER;1568 Celaya Parkway;Fengshan;Guangxi;China;;Desconhecido
+CLIFTON;MALCOLM;1489 Kakamigahara Lane;Tanshui;;;;Desconhecido
+WILLARD;LUMPKIN;1819 Alessandria Loop;Carmen;;;;Desconhecido
+DARYL;LARUE;1208 Tama Loop;Mosul;Nineveh;Iraq;;Desconhecido
+ROSS;GREY;951 Springs Lane;Iligan;;;;Desconhecido
+VIRGIL;WOFFORD;760 Miyakonojo Drive;Jos Azueta;;;;Desconhecido
+ANDY;VANHORN;966 Asuncin Way;Huejutla de Reyes;Hidalgo;Mexico;;Desconhecido
+MARSHALL;THORN;1584 Ljubertsy Lane;Southampton;England;United Kingdom;32.0;Bom (Verde)
+SALVADOR;TEEL;247 Jining Parkway;Banjul;Banjul;Gambia;99.0;Moderado (Amarelo)
+PERRY;SWAFFORD;773 Dallas Manor;Quilmes;Buenos Aires;Argentina;;Desconhecido
+KIRK;STCLAIR;1923 Stara Zagora Lane;Tsaotun;;;;Desconhecido
+SERGIO;STANFIELD;1402 Zanzibar Boulevard;Celaya;;;;Desconhecido
+MARION;OCAMPO;1464 Kursk Parkway;Weifang;Shandong;China;96.0;Moderado (Amarelo)
+TRACY;HERRMANN;1074 Sanaa Parkway;Loja;Loja;Ecuador;;Desconhecido
+TRACY;HERRMANN;1074 Sanaa Parkway;Loja;Andalusia;Spain;;Desconhecido
+SETH;HANNON;1759 Niznekamsk Avenue;al-Manama;;;;Desconhecido
+KENT;ARSENAULT;32 Liaocheng Way;Juiz de Fora;Minas Gerais;Brazil;;Desconhecido
+TERRANCE;ROUSH;42 Fontana Avenue;Szkesfehrvr;;;;Desconhecido
+RENE;MCALISTER;1895 Zhezqazghan Drive;Garden Grove;;;;Desconhecido
+EDUARDO;HIATT;1837 Kaduna Parkway;Jining;Shandong;China;106.0;Ruim para Grupos Sensíveis (Laranja)
+EDUARDO;HIATT;1837 Kaduna Parkway;Jining;Inner Mongolia;China;;Desconhecido
+EDUARDO;HIATT;1837 Kaduna Parkway;Jining;Arunachal Pradesh;India;;Desconhecido
+TERRENCE;GUNDERSON;844 Bucuresti Place;Jinzhou;Liaoning;China;58.0;Moderado (Amarelo)
+TERRENCE;GUNDERSON;844 Bucuresti Place;Jinzhou;Hebei;China;;Desconhecido
+ENRIQUE;FORSYTHE;1101 Bucuresti Boulevard;Patras;;;;Desconhecido
+FREDDIE;DUGGAN;1103 Quilmes Boulevard;Sullana;;;;Desconhecido
+WADE;DELVALLE;1331 Usak Boulevard;Lausanne;Vaud;Switzerland;31.0;Bom (Verde)
+AUSTIN;CINTRON;1325 Fukuyama Street;Tieli;Heilongjiang;China;;Desconhecido

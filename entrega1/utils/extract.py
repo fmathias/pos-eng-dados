@@ -1,6 +1,7 @@
 import os
 import logging
 import requests
+import pandas as pd
 
 from dotenv import load_dotenv
 from datetime import datetime, timedelta
@@ -163,3 +164,45 @@ def extract_dados_previsao_tempo(cidade, data):
     except Exception as e:
         print(f"Erro ao buscar previsão do tempo: {e}")
         return None
+
+
+def extract_estado_pais_por_cidade(cidade):
+    cidade_buscada = cidade["cidade"]
+    
+    url = "https://nominatim.openstreetmap.org/search"
+    params = {
+        "q": cidade_buscada,
+        "format": "json",
+        "addressdetails": 1,
+        "limit": 1
+    }
+
+    try:
+        response = requests.get(url, params=params)
+        response.raise_for_status()
+        dados = response.json()
+
+        if dados:
+            endereco = dados[0]["address"]
+            cidade_nome = endereco.get("city") or endereco.get("town") or endereco.get("village")
+            estado = endereco.get("state")
+            pais = endereco.get("country")
+            return pd.Series({
+                "cidade_encontrada": cidade_nome,
+                "estado": estado,
+                "pais": pais
+            })
+        else:
+            return pd.Series({
+                "cidade_encontrada": None,
+                "estado": None,
+                "pais": None
+            })
+
+    except Exception as e:
+        return pd.Series({
+            "cidade_encontrada": None,
+            "estado": None,
+            "pais": None,
+            "erro": str(e)
+        })

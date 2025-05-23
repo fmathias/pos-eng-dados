@@ -1,0 +1,371 @@
+cidade;estado;pais;aqius
+Abu Dhabi;Abu Dhabi;United Arab Emirates;124
+Kabul;Kabul;Afghanistan;102
+Yerevan;Yerevan;Armenia;53
+Benguela;Benguela;Angola;
+Tandil;Buenos Aires;Argentina;
+Santa Rosa;Corrientes;Argentina;
+San Lorenzo;Corrientes;Argentina;
+Quilmes;Buenos Aires;Argentina;
+Merlo;Buenos Aires;Argentina;
+La Plata;Buenos Aires;Argentina;
+La Paz;Entre Rios;Argentina;
+Fontana;Chaco;Argentina;
+Ezeiza;Buenos Aires;Argentina;
+Avellaneda;Santa Fe;Argentina;
+Tama;La Rioja;Argentina;
+Santa Rosa;La Pampa;Argentina;
+Santa Rosa;Mendoza;Argentina;
+San Lorenzo;Santa Fe;Argentina;
+Merlo;San Luis;Argentina;
+Lincoln;Buenos Aires;Argentina;
+La Paz;Mendoza;Argentina;
+El Alto;Catamarca;Argentina;
+Avellaneda;Buenos Aires;Argentina;
+Salzburg;Salzburg;Austria;37
+Linz;Upper Austria;Austria;32
+Graz;Styria;Austria;56
+York;Western Australia;Australia;
+Bellevue;Western Australia;Australia;
+Woodridge;Queensland;Australia;
+Warren;New South Wales;Australia;
+Southport;Queensland;Australia;
+Newcastle;New South Wales;Australia;19
+Hamilton;Victoria;Australia;121
+Hamilton;Queensland;Australia;52
+Dallas;Victoria;Australia;
+Ruse;New South Wales;Australia;
+Dayton;Western Australia;Australia;
+Hamilton;New South Wales;Australia;
+Chatsworth;Queensland;Australia;
+Baku;Baki;Azerbaijan;28
+Dhaka;Dhaka Division;Bangladesh;
+Saint-Denis;Wallonia;Belgium;
+Duisburg;Flanders;Belgium;
+Stara Zagora;Stara Zagora;Bulgaria;48
+Ruse;Ruse;Bulgaria;31
+Ivanovo;Ruse;Bulgaria;
+Hamilton;Hamilton city;Bermuda;
+Bandar Seri Begawan;Brunei-Muara District;Brunei Darussalam;
+Sucre;Chuquisaca Department;Bolivia, Plurinational State of;
+La Paz;La Paz Department;Bolivia, Plurinational State of;
+Juazeiro do Norte;Ceará;Brazil;
+Aurora;Ceará;Brazil;
+Vila Velha;Espírito Santo;Brazil;
+Sorocaba;São Paulo;Brazil;
+Santa Rosa;Rio Grande do Sul;Brazil;
+Salinas;Minas Gerais;Brazil;
+Rio Claro;Rio de Janeiro;Brazil;
+Rio Claro;São Paulo;Brazil;50
+Alvorada;Rio Grande do Sul;Brazil;
+Juiz de Fora;Minas Gerais;Brazil;
+Blumenau;Santa Catarina;Brazil;
+Angra dos Reis;Rio de Janeiro;Brazil;
+Alvorada;Tocantins;Brazil;
+Boa Vista;Roraima;Brazil;1
+Ivanovo;Brest;Belarus;
+Brest;Brest;Belarus;52
+Aurora;Ontario;Canada;
+Gatineau;Quebec;Canada;20
+Hamilton;Ontario;Canada;17
+Kimberley;British Columbia;Canada;17
+Lethbridge;Alberta;Canada;27
+Lincoln;New Brunswick;Canada;
+London;Ontario;Canada;13
+Oshawa;Ontario;Canada;13
+Richmond Hill;Ontario;Canada;0
+Vancouver;British Columbia;Canada;24
+Halifax;Nova Scotia;Canada;28
+Mwene-Ditu;Lomami;Congo, The Democratic Republic of the;
+Lubumbashi;Haut-Katanga;Congo, The Democratic Republic of the;
+Oyo;Cuvette;Congo;
+Lausanne;Vaud;Switzerland;31
+Emmen;Lucerne;Switzerland;
+Bern;Bern;Switzerland;28
+Bellevue;Geneva;Switzerland;
+Basel;Basel-City;Switzerland;42
+Salamanca;Coquimbo Region;Chile;
+Rancagua;O'Higgins Region;Chile;
+El Monte;Santiago Metropolitan;Chile;
+Coquimbo;Coquimbo Region;Chile;
+Antofagasta;Antofagasta;Chile;
+Bamenda;North-West;Cameroon;
+Fengshan;Yunnan;China;
+Korla;Xinjiang;China;154
+Hami;Xinjiang;China;
+Zaoyang;Hubei;China;
+Yuzhou;Hebei;China;
+Yuncheng;Shandong;China;
+Yuncheng;Shanxi;China;60
+Yinchuan;Ningxia;China;69
+Yantai;Shandong;China;88
+Baicheng;Henan;China;
+Xinxiang;Henan;China;155
+Xintai;Shandong;China;
+Haining;Zhejiang;China;
+Xiangtan;Hunan;China;79
+Weifang;Shandong;China;96
+Pingxiang;Gansu;China;
+Tianjin;Tianjin;China;101
+Fuyu;Anhui;China;
+Shenzhen;Guangdong;China;58
+Shaoguan;Guangdong;China;39
+Shanwei;Guangdong;China;39
+Sanya;Hainan;China;33
+Qinhuangdao;Hebei;China;60
+Pingxiang;Hebei;China;
+Pingxiang;Jiangxi;China;62
+Nanyang;Henan;China;132
+Nantou;Guangdong;China;
+Liaocheng;Shandong;China;129
+Leshan;Sichuan;China;82
+Lengshuijiang;Hunan;China;
+Laohekou;Hubei;China;
+Laiwu;Shandong;China;
+Jinzhou;Liaoning;China;58
+Jinzhou;Hebei;China;
+Jining;Shandong;China;106
+Jinchang;Gansu;China;53
+Fuzhou;Jiangxi;China;57
+Fuzhou;Fujian;China;74
+Fengshan;Hubei;China;
+Fengshan;Fujian;China;
+Fengshan;Guangxi;China;
+Ezhou;Hubei;China;107
+Enshi;Hubei;China;79
+Dongying;Shandong;China;88
+Jinchang;Shanxi;China;
+Datong;Anhui;China;
+Changzhou;Jiangsu;China;96
+Binzhou;Shandong;China;96
+Baiyin;Gansu;China;55
+Zhoushan;Zhejiang;China;58
+Yantai;Chongqing;China;
+Yingkou;Liaoning;China;73
+Tongliao;Inner Mongolia;China;64
+Tieli;Heilongjiang;China;
+Suihua;Heilongjiang;China;39
+Fuyu;Jilin;China;
+Jining;Inner Mongolia;China;
+Hohhot;Inner Mongolia;China;107
+Fuyu;Heilongjiang;China;
+Datong;Heilongjiang;China;
+Datong;Shanxi;China;137
+Baicheng;Jilin;China;38
+Nanyang;Gansu;China;
+Xinxiang;Chongqing;China;
+Meixian;Guangdong;China;
+Datong;Chongqing;China;
+Rizhao;Shandong;China;79
+Changzhou;Guangxi;China;
+Baicheng;Shandong;China;
+Valencia;Córdoba;Colombia;
+Sucre;Sucre Department;Colombia;
+Sucre;Santander Department;Colombia;
+Sucre;Cauca Department;Colombia;
+Sogamoso;Boyacá;Colombia;
+Sincelejo;Sucre Department;Colombia;
+Santa Rosa;Bolívar;Colombia;
+Santa Rosa;Cauca Department;Colombia;
+San Lorenzo;Nariño;Colombia;
+Pereira;Risaralda Department;Colombia;
+La Plata;Huila Department;Colombia;
+La Paz;Cesar Department;Colombia;
+La Paz;Santander Department;Colombia;
+Florencia;Cauca Department;Colombia;
+Florencia;Caquetá;Colombia;
+Buenaventura;Valle del Cauca Department;Colombia;
+Florencia;Ciego de Ávila Province;Cuba;
+Santa Rosa;;Curaçao;
+Olomouc;Olomoucký;Czechia;
+Witten;North Rhine-Westphalia;Germany;
+Siegen;North Rhine-Westphalia;Germany;
+Mannheim;Baden-Wurttemberg;Germany;
+Erlangen;Bavaria;Germany;
+Duisburg;North Rhine-Westphalia;Germany;
+Belm;Lower Saxony;Germany;
+Santiago de los Caballeros;Santiago Province;Dominican Republic;
+La Romana;La Romana;Dominican Republic;
+Skikda;Skikda;Algeria;
+Valencia;Los Ríos;Ecuador;
+Sucre;Manabí;Ecuador;
+Sucre;Tungurahua Province;Ecuador;
+Santa Rosa;El Oro;Ecuador;
+Santa Rosa;Tungurahua Province;Ecuador;
+San Lorenzo;Bolívar;Ecuador;
+Salinas;Santa Elena;Ecuador;
+Portoviejo;Manabí;Ecuador;
+Loja;Loja;Ecuador;
+La Paz;Zamora Chinchipe;Ecuador;
+La Paz;Carchi;Ecuador;
+Salinas;Imbabura;Ecuador;
+Tartu;Tartu;Estonia;30
+Qalyub;Qalyubia;Egypt;
+Valencia;Valencia;Spain;34
+Salinas;Valencia;Spain;
+Loja;Andalusia;Spain;
+La Romana;Valencia;Spain;
+Santiago de Compostela;Galicia;Spain;34
+Salamanca;Castille and León;Spain;51
+Laredo;Cantabria;Spain;
+Guadalajara;Castille-La Mancha;Spain;58
+Buenaventura;Castille-La Mancha;Spain;
+Barcelona;Catalonia;Spain;47
+Avellaneda;Basque Country;Spain;
+Avellaneda;Castille and León;Spain;
+Salamanca;Madrid;Spain;
+La Paz;Madrid;Spain;
+Oulu;North Ostrobothnia;Finland;
+Toulouse;Occitanie;France;56
+Toulon;Provence-Alpes-Côte d'Azur;France;
+Saint-Denis;Île-de-France;France;
+Le Mans;Pays de la Loire;France;43
+Brest;Brittany;France;45
+York;England;United Kingdom;21
+Stockport;England;United Kingdom;
+Southport;England;United Kingdom;
+South Hill;England;United Kingdom;
+Southend-on-Sea;England;United Kingdom;
+Southampton;England;United Kingdom;32
+Manchester;England;United Kingdom;65
+London;England;United Kingdom;33
+Lincoln;England;United Kingdom;
+Lancaster;England;United Kingdom;28
+Kimberley;England;United Kingdom;33
+Hamilton;Scotland;United Kingdom;
+Halifax;England;United Kingdom;
+Dundee;Scotland;United Kingdom;
+Compton;England;United Kingdom;
+Bradford;England;United Kingdom;37
+Newcastle;Northern Ireland;United Kingdom;
+Cayenne;Guyane;French Guiana;
+Nuuk;Sermersooq;Greenland;
+Banjul;Banjul;Gambia;99
+San Lorenzo;San Marcos;Guatemala;
+San Lorenzo;Suchitepeque;Guatemala;
+San Bernardino;Suchitepeque;Guatemala;
+San Lorenzo;Valle Department;Honduras;
+La Paz;La Paz Department;Honduras;
+Bag;Pest County;Hungary;
+Lhokseumawe;Aceh;Indonesia;
+Tegal;Central Java;Indonesia;
+Surakarta;Central Java;Indonesia;89
+Purwakarta;West Java;Indonesia;79
+Probolinggo;East Java;Indonesia;59
+Pontianak;West Kalimantan;Indonesia;76
+Pemalang;Central Java;Indonesia;
+Madiun;East Java;Indonesia;59
+Jakarta;Jakarta;Indonesia;71
+Gorontalo;Gorontalo;Indonesia;59
+Ciomas;Banten;Indonesia;
+Cianjur;West Java;Indonesia;
+Newcastle;Leinster;Ireland;
+Bat Yam;Tel Aviv;Israel;56
+Ashdod;Southern District;Israel;91
+Yamuna Nagar;Haryana;India;
+Vijayawada;Andhra Pradesh;India;104
+Valparai;Tamil Nadu;India;
+Udaipur;Rajasthan;India;130
+Udaipur;Tripura;India;
+Tambaram;Tamil Nadu;India;
+Shimoga;Karnataka;India;
+Satna;Madhya Pradesh;India;
+Sambhal;Uttar Pradesh;India;
+Ranchi;Jharkhand;India;
+Pune;Maharashtra;India;57
+Pudukkottai;Tamil Nadu;India;50
+Parbhani;Maharashtra;India;
+Nagaon;Assam;India;71
+Mysore;Karnataka;India;
+Kumbakonam;Tamil Nadu;India;
+Katihar;Bihar;India;9
+Jodhpur;Rajasthan;India;69
+Jodhpur;Gujarat;India;
+Jining;Arunachal Pradesh;India;
+Jaipur;Rajasthan;India;125
+Gandhinagar;Gujarat;India;95
+Bijapur;Karnataka;India;
+Bhimavaram;Andhra Pradesh;India;
+Bhavnagar;Gujarat;India;
+Amroha;Uttar Pradesh;India;
+Adoni;Andhra Pradesh;India;
+Haldia;West Bengal;India;28
+Chapra;Assam;India;
+Chandrapur;Chhattisgarh;India;
+Chandrapur;Gujarat;India;
+Mosul;Nineveh;Iraq;
+Tabriz;East Azerbaijan;Iran, Islamic Republic of;
+Sirjan;Kerman;Iran, Islamic Republic of;
+Shahr-e Kord;Chaharmahal and Bakhtiari;Iran, Islamic Republic of;
+Kermanshah;Kermanshah Province;Iran, Islamic Republic of;
+San Lorenzo;Calabria;Italy;
+Udine;Friuli Venezia Giulia;Italy;
+San Lorenzo;Piedmont;Italy;
+Livorno;Tuscany;Italy;
+Brindisi;Apulia;Italy;56
+Brescia;Lombardy;Italy;31
+Bergamo;Lombardy;Italy;39
+Alessandria;Piedmont;Italy;
+Saint-Denis;Aosta Valley;Italy;
+San Lorenzo;Campania;Italy;
+San Lorenzo;Liguria;Italy;
+Ueda;Nagano;Japan;61
+Tsuyama;Okayama;Japan;62
+Shimonoseki;Yamaguchi;Japan;56
+Sasebo;Nagasaki;Japan;54
+Onomichi;Hiroshima;Japan;64
+Okayama;Okayama;Japan;67
+Nagareyama;Chiba;Japan;50
+Matsue;Shimane;Japan;59
+Kurashiki;Okayama;Japan;70
+Kanazawa;Ishikawa;Japan;39
+Kamakura;Kanagawa;Japan;56
+Kakamigahara;Gifu;Japan;55
+Iwatsuki;Saitama;Japan;
+Iwakuni;Yamaguchi;Japan;69
+Isesaki;Gunma;Japan;
+Hiroshima;Hiroshima;Japan;71
+Hino;Tokyo;Japan;53
+Hino;Shiga;Japan;
+Higashiosaka;Osaka;Japan;
+Fukuyama;Hiroshima;Japan;73
+Okinawa;Okinawa;Japan;14
+Iwaki;Fukushima;Japan;50
+Tama;Tokyo;Japan;44
+Akishima;Tokyo;Japan;
+Nyeri;Nyeri County;Kenya;
+Kisumu;Kisumu County;Kenya;
+Phnom Penh;Phnom Penh;Cambodia;55
+Battambang;Battambang;Cambodia;
+Newcastle;Saint James Windwa;Saint Kitts and Nevis;
+Pyongyang;Pyongyang;Korea, Democratic People's Republic of;
+Naju;Jeollanam-do;Korea, Republic of;
+Zhezqazghan;Ulytau Region;Kazakhstan;
+Pavlodar;Pavlodar Region;Kazakhstan;
+Vaduz;Vaduz;Liechtenstein;
+Jaffna;Northern Province;Sri Lanka;33
+Vilnius;Vilnius;Lithuania;26
+Daugavpils;Daugavpils;Latvia;
+Nador;Oriental;Morocco;
+Chisinau;Chișinău Municipality;Moldova, Republic of;
+Mahajanga;Boeny;Madagascar;
+Myingyan;Mandalay Region;Myanmar;
+Monywa;Sagaing Region;Myanmar;
+Fontana;Il-Fontana;Malta;
+Mwanza;Southern Region;Malawi;
+Lilongwe;Central Region;Malawi;
+Santa Rosa;Veracruz;Mexico;
+San Lorenzo;Oaxaca;Mexico;
+San Felipe del Progreso;México;Mexico;
+San Bernardino;México;Mexico;
+Salinas;Veracruz;Mexico;
+Pachuca de Soto;Hidalgo;Mexico;
+Matamoros;Campeche;Mexico;
+Huejutla de Reyes;Hidalgo;Mexico;
+Hidalgo;Coahuila;Mexico;
+Hidalgo;Tamaulipas;Mexico;
+Hidalgo;Chiapas;Mexico;
+Cuernavaca;Morelos;Mexico;
+Cuautla;Morelos;Mexico;
+Coatzacoalcos;Veracruz;Mexico;
+Atlixco;Puebla;Mexico;
